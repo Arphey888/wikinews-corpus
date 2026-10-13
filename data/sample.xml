@@ -1,0 +1,4832 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.11/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.11/ http://www.mediawiki.org/xml/export-0.11.xsd" version="0.11" xml:lang="ru">
+  <siteinfo>
+    <sitename>Викиновости</sitename>
+    <dbname>ruwikinews</dbname>
+    <base>https://ru.wikinews.org/wiki/%D0%97%D0%B0%D0%B3%D0%BB%D0%B0%D0%B2%D0%BD%D0%B0%D1%8F_%D1%81%D1%82%D1%80%D0%B0%D0%BD%D0%B8%D1%86%D0%B0</base>
+    <generator>MediaWiki 1.46.0-wmf.26</generator>
+    <case>first-letter</case>
+    <namespaces>
+      <namespace key="-2" case="first-letter">Медиа</namespace>
+      <namespace key="-1" case="first-letter">Служебная</namespace>
+      <namespace key="0" case="first-letter" />
+      <namespace key="1" case="first-letter">Обсуждение</namespace>
+      <namespace key="2" case="first-letter">Участник</namespace>
+      <namespace key="3" case="first-letter">Обсуждение участника</namespace>
+      <namespace key="4" case="first-letter">Викиновости</namespace>
+      <namespace key="5" case="first-letter">Обсуждение Викиновостей</namespace>
+      <namespace key="6" case="first-letter">Файл</namespace>
+      <namespace key="7" case="first-letter">Обсуждение файла</namespace>
+      <namespace key="8" case="first-letter">MediaWiki</namespace>
+      <namespace key="9" case="first-letter">Обсуждение MediaWiki</namespace>
+      <namespace key="10" case="first-letter">Шаблон</namespace>
+      <namespace key="11" case="first-letter">Обсуждение шаблона</namespace>
+      <namespace key="12" case="first-letter">Справка</namespace>
+      <namespace key="13" case="first-letter">Обсуждение справки</namespace>
+      <namespace key="14" case="first-letter">Категория</namespace>
+      <namespace key="15" case="first-letter">Обсуждение категории</namespace>
+      <namespace key="100" case="first-letter">Портал</namespace>
+      <namespace key="101" case="first-letter">Обсуждение портала</namespace>
+      <namespace key="102" case="first-letter">Комментарии</namespace>
+      <namespace key="103" case="first-letter">Обсуждение комментариев</namespace>
+      <namespace key="710" case="first-letter">TimedText</namespace>
+      <namespace key="711" case="first-letter">TimedText talk</namespace>
+      <namespace key="828" case="first-letter">Модуль</namespace>
+      <namespace key="829" case="first-letter">Обсуждение модуля</namespace>
+      <namespace key="1728" case="first-letter">Event</namespace>
+      <namespace key="1729" case="first-letter">Event talk</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>Main Page</title>
+    <ns>0</ns>
+    <id>1</id>
+    <redirect title="Заглавная страница" />
+    <revision>
+      <id>1366</id>
+      <parentid>1</parentid>
+      <timestamp>2005-11-03T03:36:07Z</timestamp>
+      <contributor>
+        <username>Maximaximax</username>
+        <id>13</id>
+      </contributor>
+      <comment>redir</comment>
+      <origin>1366</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="49" sha1="fv75zcmgjvd2h4rn3jqc0yrlf07afkh" xml:space="preserve">#REDIRECT [[Заглавная страница]]</text>
+      <sha1>fv75zcmgjvd2h4rn3jqc0yrlf07afkh</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Россия удивлена заявлениями Премьер-министра Украины и хочет разъяснений</title>
+    <ns>0</ns>
+    <id>1349</id>
+    <revision>
+      <id>17901842</id>
+      <parentid>16692397</parentid>
+      <timestamp>2026-05-02T08:17:02Z</timestamp>
+      <contributor>
+        <username>AtUkrBot</username>
+        <id>63930</id>
+      </contributor>
+      <minor />
+      <comment>бот: замена служебных шаблонов</comment>
+      <origin>17901842</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="4259" sha1="0cila5swy0p84zdxhldx9fex5ok183k" xml:space="preserve">{{Дата|3 ноября 2005}}
+{{тема|Международные отношения}}
+[[Файл:World Trade Organization (logo and wordmark).svg|thumb|left|300px|Логотип [[ВТО]]]]
+В [[Москва|Москве]] обратили внимание на сообщения [[СМИ]] о высказываниях Премьер-министра [[Украина|Украины]] [[Юрий Ехануров|Юрия Еханурова]] в ходе визита в [[США]] о том, что вступление Украины во [[Всемирная торговая организация|Всемирную торговую организацию]] (ВТО) будет практически невозможно, если [[Россия]] станет членом этой организации раньше. Они вызвали у российской стороны большое недоумение.
+
+«Для нас абсолютно неприемлем такой подход. Странно слышать подобные слова от нашего стратегического партнера, с которым самой судьбой нам предопределено жить и работать бок о бок. Мы перед собой такой задачи никогда не ставили и не ставим. Напротив, Россия стремится к дальнейшему развитию торгово-экономических связей с Украиной, к совместной конструктивной работе, в том числе в вопросах вступления в ВТО», — заявил официальный представитель [[Министерство иностранных дел Российской Федерации|Министерства иностранных дел РФ]] [[Михаил Камынин]], комментируя высказывания главы правительства Украины.
+
+Как сообщает [[Liga.net]], в российском внешнеполитическом ведомстве убеждены, что «синхронизация и координация позиций наших государств при присоединении к ВТО пойдут на пользу и России, и Украине». «Если, однако, случится, что Россия раньше Украины станет членом ВТО, то мы не только не будем чинить каких-либо препятствий Украине, а напротив будем всячески содействовать ее скорейшему вступлению в эту организацию на устраивающих [[Киев]] условиях», — сказал М. Камынин.
+
+В Москве рассчитывают, что именно такой линии придерживается и украинская сторона, а также надеются получить соответствующие разъяснения на этот счёт.
+
+{{подвал новости}}
+
+{{Категории|Liga.net|Азия|Американо-украинские отношения|ВТО|Европа|Киев|Международная торговля|Международные отношения|Международное сотрудничество|Министерство иностранных дел Российской Федерации|Михаил Камынин|Москва|Политика|Политика России|Политика США|Политика Украины|Премьер-министры Украины|Российско-американские отношения|Российско-украинские отношения|Северная Америка|США|Торговля|Экономика|Экономика России|Экономика США|Экономика Украины|Юрий Ехануров|}}
+
+{{публиковать}}
+
+[[Категория:Россия в ноябре 2005 года]]
+[[Категория:Украина в ноябре 2005 года]]</text>
+      <sha1>0cila5swy0p84zdxhldx9fex5ok183k</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Впервые зарегистрирован свет самых древних звезд</title>
+    <ns>0</ns>
+    <id>1353</id>
+    <revision>
+      <id>16692398</id>
+      <parentid>477102</parentid>
+      <timestamp>2024-06-11T12:02:18Z</timestamp>
+      <contributor>
+        <username>Fuxx</username>
+        <id>21163</id>
+      </contributor>
+      <minor />
+      <comment>-nl</comment>
+      <origin>16692398</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="1506" sha1="ssurkc0x1kx8s7475n3toprfjhm7p2g" xml:space="preserve">{{Дата|3 ноября 2005}}
+{{Астрономия}}
+[[:w:Спитцер (космический телескоп)|Космический телескоп «Спитцер»]], предположительно, зарегистрировал свет звёзд [[:w:Звёздное население|населения III]]. Это самые древние звёзды, светившие во Вселенной, когда ей было примерно 200 миллионов лет от роду (примерно в сто раз меньше, чем сейчас).
+
+Несмотря на то, что существование этих звёзд косвенно следовало из ряда наблюдений, увидеть их до сих пор не удавалось никому. Именно эти звёзды привели к синтезу тяжёлых элементов во Вселенной.
+
+{{haveyoursay}}
+
+== Источники ==
+* Оригинальная статья: [http://www.nature.com/nature/journal/v438/n7064/abs/nature04143.html A. Kashlinsky et al., Nature, 438, 45-50 (3 November 2005)]
+* Популярная заметка: [http://elementy.ru/news/164946 Телескоп «Спитцер» увидел свет самых древних звёзд]
+
+[[Категория:Опубликовано]]
+[[Категория:Спитцер]]
+[[Категория:NASA]]
+[[Категория:Вселенная]]
+[[Категория:Nature]]</text>
+      <sha1>ssurkc0x1kx8s7475n3toprfjhm7p2g</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Первый День народного единства</title>
+    <ns>0</ns>
+    <id>1359</id>
+    <revision>
+      <id>17925198</id>
+      <parentid>17913122</parentid>
+      <timestamp>2026-05-02T17:41:55Z</timestamp>
+      <contributor>
+        <username>AtUkrBot</username>
+        <id>63930</id>
+      </contributor>
+      <minor />
+      <comment>бот: замена служебных шаблонов</comment>
+      <origin>17925198</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="1216" sha1="lwqw1as3dwjutsflegidotmy2v97kni" xml:space="preserve">{{дата|4 ноября 2005}}
+{{тема|День народного единства}}
+В [[Россия|России]] первый раз празднуют «[[День народного единства]]».
+
+Этот праздник был учрежден [[29 декабря 2004 года]].
+
+[[4 ноября 1612 года]] войска народного ополчения, под водительством князя [[Дмитрий Пожарский|Дмитрия Пожарского]] и [[Нижний Новгород|нижегородского]] купца [[Кузьма Минин|Кузьмы Минина]], освободили [[Московский кремль|Кремль]] от польско-литовских захватчиков.
+
+{{подвал новости}}
+
+{{Категории|Азия|День народного единства|Дмитрий Пожарский|Европа|Кузьма Минин|Московский Кремль|Общество|Общество в России|Праздники|Праздники России|Политика|Политика России}}
+
+{{yes}}
+
+[[Категория:Россия в ноябре 2005 года]]</text>
+      <sha1>lwqw1as3dwjutsflegidotmy2v97kni</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Беспорядки в Париже</title>
+    <ns>0</ns>
+    <id>1361</id>
+    <revision>
+      <id>1114889</id>
+      <parentid>1082486</parentid>
+      <timestamp>2019-12-29T12:39:00Z</timestamp>
+      <contributor>
+        <username>Krassotkin</username>
+        <id>3944</id>
+      </contributor>
+      <origin>1114889</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="2567" sha1="iuc6kkx5ya6p258t0nyxuj6sgtg2gzj" xml:space="preserve">{{дата|5 ноября 2005}} {{Франция}}
+[[Изображение:Paris riots satellite.jpg|thumb|219px|слева|Основные районы беспорядков]]
+В [[w:Париж|Париже]], уже больше недели, продолжаются массовые беспорядки. Молодые люди поджигают автомобили, бьют витрины, забрасывают камнями полицейских. Беспорядки происходили и в других городах [[w:Франция|Франции]] — Страсбурге, Тулузе, Рене, [[w:Марсель|Марселе]], [[Лион (город)|Лионе]], Дижоне и [[Руан (город)|Руане]]. Уже сожжены до 800 автомобилей. Арестованы десятки участников беспорядков. Полиция применяет жесткие методы против погромщиков. Призыва к переговорам ни к чему не приводят, так как не с кем переговариваться.
+
+Беспорядки в Париже начались 27 октября. Их очагом стали бедные кварталы на севере столицы, где живут в основном выходцы из [[w:Северная Африка|Северной Африки]]. Повод - гибель двух подростков от удара током в трансформаторной будке. Участвующие в погромах утверждают, что подростки перед гибелью были преследуемы полицейскими и вынуждены были спрятаться в этой будке. Полиция отвергает эти утверждения и заявляет, что полицейские этих подростков не преследовали.
+
+{{haveyoursay}}
+
+== Ссылки ==
+* [[w:Французская интифада|Французская интифада]]
+
+{{Публиковать}}
+
+[[Категория:Франция]]
+[[Категория:Беспорядки]]
+[[Категория:Париж]]
+[[Категория:Страсбург]]
+[[Категория:Тулуза]]
+[[Категория:Марсель]]
+[[Категория:Лион (город)]]
+[[Категория:Руан (город)]]
+[[Категория:Дижон]]
+[[Категория:Рен]]
+[[Категория:Подростки]]</text>
+      <sha1>iuc6kkx5ya6p258t0nyxuj6sgtg2gzj</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Парламентские выборы в Азербайджане 2005 года состоялись</title>
+    <ns>0</ns>
+    <id>1381</id>
+    <revision>
+      <id>16692458</id>
+      <parentid>6817285</parentid>
+      <timestamp>2024-06-11T21:10:41Z</timestamp>
+      <contributor>
+        <username>Fuxx</username>
+        <id>21163</id>
+      </contributor>
+      <minor />
+      <comment>-space</comment>
+      <origin>16692458</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="1162" sha1="0xz7891o95bijymxippfhr3xzqqjrl0" xml:space="preserve">{{дата|6 ноября 2005}}
+{{Азербайджан}}
+6 ноября 2005 года в [[w:Азербайджан|Азербайджане]] состоялись парламентские выборы. По предварительным данным большинство мест в парламенте получит правящая партия «Ени Азербайджан». Представители оппозиционного блока «Азалдыг» (Свобода) утверждают, что выборы боли проведены не демократично и мели место массовые нарушения порядка голосования. Оппозиция объявила о мирном конституционном сопротивлении фальсифицированным выборам, которое начнётся 8 ноября.
+
+[[Категория:Политика]]
+[[Категория:Парламентские выборы в Азербайджане]]
+[[Категория:Парламентские выборы в Азербайджане (2005)]]
+
+{{публиковать}}</text>
+      <sha1>0xz7891o95bijymxippfhr3xzqqjrl0</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>ЦСКА — чемпион России по футболу</title>
+    <ns>0</ns>
+    <id>1384</id>
+    <revision>
+      <id>17887039</id>
+      <parentid>15386596</parentid>
+      <timestamp>2026-05-01T17:40:13Z</timestamp>
+      <contributor>
+        <username>Well, Well, Bot!</username>
+        <id>62040</id>
+      </contributor>
+      <minor />
+      <comment>проставление темы Россия</comment>
+      <origin>17887039</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="3297" sha1="migt6xb49mui9dsumnmpdjer3na2ghi" xml:space="preserve">{{дата|6 ноября 2005}}
+{{тема|Россия}}
+{{Футбол}}
+Сегодня [[w:ЦСКА Москва|ЦСКА]] выиграл у московского [[w:Динамо Москва (футбольный клуб)|«Динамо»]] со счётом 2:1 и за один тур до окончания [[w:Российская Футбольная Премьер-Лига|чемпионата России по футболу]] стал недосягаем для соперников. ЦСКА выигрывает звание чемпиона России во второй раз (первый раз в 2003 году). В этом году ЦСКА завоевал также [[w:Кубок России по футболу|Кубок России]] и второй по значимости европейский кубок — [[w:Кубок УЕФА|Кубок УЕФА]].
+Серебряные медали и вторую путевку в [[w:Лига чемпионов|Лигу Чемпионов]] разыграют [[w:Спартак Москва|Спартак]] и [[w:Локомотив (спортивное общество)|Локомотив]], причем Спартак за счет большего числа побед устроит и ничья.&lt;br /&gt;
+'''Положение команд в Чемпионате России по футболу на 6 ноября 2005.'''
+{|class=&quot;standard» 
+|-
+!Место
+! style=&quot;background:#efefef;»|Команды
+! style=&quot;background:#efefef;»|В
+! style=&quot;background:#efefef;»|Н
+! style=&quot;background:#efefef;»|П
+! style=&quot;background:#efefef;»|Мячи
+! style=&quot;background:#efefef;»|О
+|- 
+!1
+|[[w:ЦСКА Москва|ЦСКА]]
+|17 
+|8
+|4
+|44:17
+|59
+|- 
+!2
+|[[w:Спартак Москва|Спартак]]
+|16
+|7
+|6
+|46:25
+|55
+|- 
+!3
+|[[w:Локомотив Москва|Локомотив]]
+|14 
+|13
+|2
+|40:17
+|55
+|- 
+!4
+|[[w:Рубин Казань|Рубин]]
+|14 
+|9
+|6
+|43:28
+|51
+|- 
+!5
+|[[w:Москва (футбольный клуб)|Москва]]
+|13 
+|8
+|8
+|34:25
+|47
+|- 
+!6
+|[[w:Зенит Санкт-Петербург|Зенит]]
+|12 
+|10
+|7
+|41:24
+|46
+|- 
+!7
+|[[w:Торпедо Москва|Торпедо]]
+|11 
+|9
+|9
+|35:32
+|42
+|- 
+!8
+|[[w:Динамо Москва (футбольный клуб)|Динамо]]
+|11 
+|2
+|16
+|35:46
+|35
+|- 
+!9
+|[[w:Шинник Ярославль|Шинник]]
+|8 
+|11
+|10
+|23:29
+|35
+|- 
+!10
+|[[w:Томь Томск|Томь]]
+|8 
+|10
+|11
+|26:33
+|34
+|- 
+!11
+|[[w:Сатурн Раменское|Сатурн]]
+|8 
+|9
+|12
+|22:23
+|33
+|- 
+!12
+|[[w:Амкар Пермь|Амкар]]
+|7 
+|12
+|10
+|24:34
+|33
+|- 
+!13
+|[[w:Ростов (футбольный клуб)|Ростов]]
+|8 
+|7
+|14
+|24:37
+|31
+|- 
+!14
+|[[w: Крылья Советов Самара|Крылья Советов]]
+|7 
+|8
+|14
+|29:43
+|29
+|- 
+!15
+|[[w:Алания Владикавказ|Алания]]
+|5 
+|8
+|16
+|24:49
+|23
+|- 
+!16
+|[[w:Терек Грозный|Терек]]
+|5 
+|5
+|19
+|20:48
+|20
+|}
+
+В — выигрыши, Н — ничьи, П — проигрыши, О — очки
+
+{{yes}}
+
+[[Категория:Россия]]
+[[Категория:ПФК ЦСКА]]
+[[Категория:Амкар]]
+[[Категория:Россия в ноябре 2005 года]]</text>
+      <sha1>migt6xb49mui9dsumnmpdjer3na2ghi</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Погода</title>
+    <ns>0</ns>
+    <id>1388</id>
+    <redirect title="Категория:Погода" />
+    <revision>
+      <id>690426</id>
+      <parentid>24478</parentid>
+      <timestamp>2018-11-24T08:35:04Z</timestamp>
+      <contributor>
+        <username>Krassotkin</username>
+        <id>3944</id>
+      </contributor>
+      <comment>Перенаправление изменено с [[Портал:Погода]] на [[Категория:Погода]]</comment>
+      <origin>690426</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="44" sha1="1a2bxergg47fsffxn4kc7zsrayutq77" xml:space="preserve">#REDIRECT[[Категория:Погода]]</text>
+      <sha1>1a2bxergg47fsffxn4kc7zsrayutq77</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Космонавты Уильям Макартур и Валерий Токарев работают в открытом космосе</title>
+    <ns>0</ns>
+    <id>1399</id>
+    <revision>
+      <id>15380015</id>
+      <parentid>15076295</parentid>
+      <timestamp>2022-10-14T20:40:23Z</timestamp>
+      <contributor>
+        <username>VladimirPF-Bot</username>
+        <id>49101</id>
+      </contributor>
+      <minor />
+      <comment>/* Источники */Добавление категории Россия в Россия в ноябре 2005 года, replaced: &quot; →  «, &quot;  → »</comment>
+      <origin>15380015</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="3086" sha1="6nqxtlx7kwdep0psrq7x5z40e4uwlh8" xml:space="preserve">{{дата|7 ноября 2005}}
+{{космонавтика}}
+[[Файл:ISS_eva_7_11_05.jpg|thumb|left|133px|Макартур и Токарев в открытом космосе]]
+Сегодня [[w:Космонавт|космонавты]] [[w:Союз ТМА-7|двенадцатой экспедиции]] [[w:МКС|МКС]] [[w:Макартур, Уильям|Уильям Макартур]] и [[w:Токарев, Валерий Иванович|Валерий Токарев]] работают в открытом [[w:Вселенная|космосе]]. Выход в космос осуществляется из американского модуля «Квест» (Quest) в американских [[w:Скафандр|скафандрах]]. Это первый выход из МКС по американской программе с апреля [[w:2003|2003]] года. Макартур и Токарев должны установить новую [[w:Видеокамера|видеокамеру]] на ферменной конструкции (Р1), демонтировать датчик измерения потенциала электрического поля и, если останется время демонтировать вышедшие из строя приборы на внешней поверхности станции. Длительность космической прогулки рассчитана на пять с половиной часов.
+[[Файл:ISS_eva_7_11_05_work.jpg|thumb|left|133px|МКС]]
+Выход начался в 15 часов 30 минут [[w:UTC|UTC]] (18:30 мск).
+
+Космонавты должны выйти из модуля «Квест» (отмечен цифрой 1 на фото), затем переместиться по ферменной конструкции вправо до конца фермы (цифра 2 на фото). Здесь они должны установить новую видеокамеру. После этого, космонавты должны переместиться на самый верх (цифра 3 на фото) и здесь демонтировать датчик электрического потенциала. В местах помеченных цифрой 4, космонавты должны будут демонтировать некоторые приборы, если на это останется время.
+
+{{haveyoursay}}
+
+== Источники ==
+* {{источник|url=http://www.newsru.com/arch/russia/07nov2005/zond.html|Название=Экипаж МКС «выбросил» в космос неисправный американский зонд|Автор=|Издатель=NEWSru.com|Дата=7 ноября 2005}}
+
+{{публиковать}}
+
+[[Категория:Россия]]
+[[Категория:Космонавтика России]]
+[[Категория:МКС]]
+[[Категория:Уильям Макартур (1951)]]
+[[Категория:Россия в ноябре 2005 года]]</text>
+      <sha1>6nqxtlx7kwdep0psrq7x5z40e4uwlh8</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Европейский межпланетный зонд на пути к Венере</title>
+    <ns>0</ns>
+    <id>1406</id>
+    <revision>
+      <id>674875</id>
+      <parentid>673116</parentid>
+      <timestamp>2018-10-17T16:50:44Z</timestamp>
+      <contributor>
+        <username>Krassotkin</username>
+        <id>3944</id>
+      </contributor>
+      <minor />
+      <comment>added [[Category:Союз (ракета-носитель)]] using [[Help:Gadget-HotCat|HotCat]]</comment>
+      <origin>674875</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="2312" sha1="jwkwitb3tibwtp94qtaqd8vjyjofxlv" xml:space="preserve">{{дата|9 ноября 2005}}
+{{Космонавтика}}
+С [[w:Космодром|космодрома]] [[w:Байконур| Байконур]] ([[w:Казахстан| Казахстан]]) стартовала российская [[w:Ракета-носитель|ракета-носитель]] [[w:Союз (ракета носитель)|«Союз-ФГ»]], которая вывела на траекторию полёта к [[w:Венера (планета)|Венере]] [[w:Европа|европейский]] исследовательский зонд «Венера Экспресс» (Venus Express).
+
+Успешный старт состоялся в 6 часов 33 минуты (московского времени, 03:33 [[w:UTC|UTC]]). Зонд «Венера Экспресс» был изготовлен на фирме ЕДАС Астриум (EADS Astrium) по заказу [[w: Европейское космическое агентство |Европейского космического агентства (ESA)]]. Вес зонда равен 1120 кг. Зонд достигнет Венеры [[11 апреля]] [[w:2006|2006]] года. «Венера Экспресс» должен выйти на полярную эллиптическую орбиту Венеры с [[w:Апогей|апогеем]] 250.000 км и [[w:Перигей|перигеем]] 60.000 км. В течение, минимум,  двух венерианских дней (один венерианский день, приблизительно, равен 243 земных суток) зонд будет изучать структуру, состав и динамику [[w:Атмосфера|атмосферы]] Венеры. Зонд оснащен 7-ю исследовательскими приборами. 
+
+== Ссылки ==
+[[w: Венера Экспресс |Венера Экспресс]]
+
+{{yes}}
+
+[[Категория:Венера]]
+[[Категория:Байконур]]
+[[Категория:Европейское космическое агентство]]
+[[Категория:Атмосфера]]
+[[Категория:Венера-Экспресс]]
+[[Категория:Союз-ФГ]]
+[[Категория:Союз (ракета-носитель)]]</text>
+      <sha1>jwkwitb3tibwtp94qtaqd8vjyjofxlv</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Команда шахматистов России выиграла чемпионат мира по шахматам</title>
+    <ns>0</ns>
+    <id>1421</id>
+    <revision>
+      <id>17947925</id>
+      <parentid>16692426</parentid>
+      <timestamp>2026-05-03T17:52:33Z</timestamp>
+      <contributor>
+        <username>Well, Well, Bot!</username>
+        <id>62040</id>
+      </contributor>
+      <minor />
+      <comment>проставление темы Россия</comment>
+      <origin>17947925</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="8867" sha1="d94g7u4byfqubd6i3n2y2rtrwb5wm85" xml:space="preserve">{{дата|10 ноября 2005}}
+{{тема|Россия}}
+{{Шахматы}}
+В [[w:Израиль|Израильском]] городе  [[w:Беэр-Шева |Беэр-Шева]] завершился [[w: Командный чемпионат мира по шахматам 2005|командный чемпионат мира по шахматам]]. Первое место и звание чемпиона мира завоевала команда [[w:Россия|России]], которая в последнем туре выиграла у своих основных конкурентов, команды [[w:Китай|Китая]], со счётом 3&amp;frac12;: &amp;frac12; Второе место завоевала команда Китая и третье — команда [[w:Армения |Армении]]. За сборную России играли: [[w:Свидлер, Пётр Вениаминович |Пётр Свидлер]], [[w:Дреев, Алексей Сергеевич|Алексей Дреев]], [[w:Грищук, Александр |Александр Грищук]], [[w:Морозевич, Александр |Александр Морозевич]], Евгений Бареев и Сергей Рублевский. Капитан команды — Сергей Долматов. Пётр Свидлер был также сильнейшим на первой доске — 5 очков из 7.
+
+
+== Итоговая таблица чемпионата ==
+
+{| border=&quot;2&quot; cellpadding=&quot;4&quot; cellspacing=&quot;0&quot; style=&quot;margin: 1em 1em 1em 0; background: #fbfbfb; border: 1px #aaa solid; border-collapse: collapse; font-size: 95%;&quot;
+|-- style =&quot;border:1px solid rgb(170,170,170); padding-left: 0.2em; padding-right: 0.2em;&quot;
+! №
+! style=&quot;background:#ffff;&quot; |Участники
+! 1 
+! 2 
+! 3 
+! 4 
+! 5 
+! 6 
+! 7 
+! 8
+! 9 
+!
+! + — =
+! Очки
+! КО
+! Место
+|-- style =&quot;border:1px solid rgb(170,170,170); padding-left: 0.2em; padding-right: 0.2em;&quot; 
+!1
+!Украина
+|[[Image:Chess_rll44.png|16px]]
+| style=&quot;color: red; text-align: center;&quot;|2&amp;frac12;
+| style=&quot;color: blue; text-align: center;&quot;|1&amp;frac12;
+| style=&quot;color: blue; text-align: center;&quot;|1&amp;frac12;
+| style=&quot;color: red; text-align: center;&quot;|3&amp;frac12;
+| style=&quot;color: blue; text-align: center;&quot;|1&amp;frac12;
+| style=&quot;color: green; text-align: center;&quot;|2
+| style=&quot;color: red; text-align: center;&quot;|2&amp;frac12;
+| style=&quot;color: red; text-align: center;&quot;|2&amp;frac12;
+|
+| style=&quot;color: blue; text-align: center;&quot;|+4-3=1
+| style=&quot;color: blue; text-align: center;&quot;|17&amp;frac12;
+| style=&quot;color: blue; text-align: center;&quot;|9
+| style=&quot;color: blue; text-align: center;&quot;|IV
+|-- style =&quot;border:1px solid rgb(170,170,170); padding-left: 0.2em; padding-right: 0.2em;&quot;
+!2
+!США
+| style=&quot;color: blue; text-align: center;&quot;|1&amp;frac12;
+|[[Image:Chess_rll44.png|16px]]
+| style=&quot;color: green; text-align: center;&quot;|2
+| style=&quot;color: blue; text-align: center;&quot;|1&amp;frac12;
+| style=&quot;color: red; text-align: center;&quot;|4
+| style=&quot;color: blue; text-align: center;&quot;|&amp;frac12;
+| style=&quot;color: green; text-align: center;&quot;|2
+| style=&quot;color: red; text-align: center;&quot;|2&amp;frac12;
+| style=&quot;color: red; text-align: center;&quot;|2&amp;frac12;
+|
+| style=&quot;color: blue; text-align: center;&quot;|+3-3=2
+| style=&quot;color: blue; text-align: center;&quot;|16&amp;frac12;
+| style=&quot;color: blue; text-align: center;&quot;|8
+| style=&quot;color: blue; text-align: center;&quot;|V
+|-- style =&quot;border:1px solid rgb(170,170,170); padding-left: 0.2em; padding-right: 0.2em;&quot; 
+!3
+!Армения
+| style=&quot;color: red; text-align: center;&quot;|2&amp;frac12;
+| style=&quot;color: green; text-align: center;&quot;|2
+|[[Image:Chess_rll44.png|16px]]
+| style=&quot;color: blue; text-align: center;&quot;|1&amp;frac12;
+| style=&quot;color: red; text-align: center;&quot;|3
+| style=&quot;color: red; text-align: center;&quot;|2&amp;frac12;
+| style=&quot;color: green; text-align: center;&quot;|2
+| style=&quot;color: green; text-align: center;&quot;|2
+| style=&quot;color: red; text-align: center;&quot;|3
+|
+| style=&quot;color: green; text-align: center;&quot;|+4-1=3
+| style=&quot;color: green; text-align: center;&quot;|18&amp;frac12;
+| style=&quot;color: green; text-align: center;&quot;|11
+| style=&quot;color: green; text-align: center;&quot;|III
+|-- style =&quot;border:1px solid rgb(170,170,170); padding-left: 0.2em; padding-right: 0.2em;&quot;
+!4
+!Россия
+| style=&quot;color: red; text-align: center;&quot;|2&amp;frac12;
+| style=&quot;color: red; text-align: center;&quot;|2&amp;frac12;
+| style=&quot;color: red; text-align: center;&quot;|2&amp;frac12;
+|[[Image:Chess_rll44.png|16px]]
+| style=&quot;color: red; text-align: center;&quot;|3
+| style=&quot;color: red; text-align: center;&quot;|3&amp;frac12;
+| style=&quot;color: red; text-align: center;&quot;|3
+| style=&quot;color: red; text-align: center;&quot;|2&amp;frac12;
+| style=&quot;color: red; text-align: center;&quot;|2&amp;frac12;
+|
+| style=&quot;color: red; text-align: center;&quot;|+8-0=0
+| style=&quot;color: red; text-align: center;&quot;|22
+| style=&quot;color: red; text-align: center;&quot;|16
+| style=&quot;color: red; text-align: center;&quot;|I
+|-- style =&quot;border:1px solid rgb(170,170,170); padding-left: 0.2em; padding-right: 0.2em;&quot;
+!5
+!Китай (ж)
+| style=&quot;color: blue; text-align: center;&quot;|&amp;frac12;
+| style=&quot;color: blue; text-align: center;&quot;|0
+| style=&quot;color: blue; text-align: center;&quot;|1
+| style=&quot;color: blue; text-align: center;&quot;|1
+|[[Image:Chess_rll44.png|16px]]
+| style=&quot;color: blue; text-align: center;&quot;|0
+| style=&quot;color: blue; text-align: center;&quot;|1
+| style=&quot;color: blue; text-align: center;&quot;|1&amp;frac12;
+| style=&quot;color: green; text-align: center;&quot;|2
+|
+| style=&quot;color: blue; text-align: center;&quot;|+0-7=1
+| style=&quot;color: blue; text-align: center;&quot;|1
+| style=&quot;color: blue; text-align: center;&quot;|1
+| style=&quot;color: blue; text-align: center;&quot;|IX
+|-- style =&quot;border:1px solid rgb(170,170,170); padding-left: 0.2em; padding-right: 0.2em;&quot;
+!6
+!Китай (м)
+| style=&quot;color: red; text-align: center;&quot;|2&amp;frac12;
+| style=&quot;color: red; text-align: center;&quot;|3&amp;frac12;
+| style=&quot;color: blue; text-align: center;&quot;|1&amp;frac12;
+| style=&quot;color: blue; text-align: center;&quot;|&amp;frac12;
+| style=&quot;color: red; text-align: center;&quot;|4
+|[[Image:Chess_rll44.png|16px]]
+| style=&quot;color: red; text-align: center;&quot;|3&amp;frac12;
+| style=&quot;color: red; text-align: center;&quot;|2&amp;frac12;
+| style=&quot;color: red; text-align: center;&quot;|3&amp;frac12;
+|
+| style=&quot;color: green; text-align: center;&quot;|+6-2=0
+| style=&quot;color: green; text-align: center;&quot;|21&amp;frac12;
+| style=&quot;color: green; text-align: center;&quot;|12
+| style=&quot;color: green; text-align: center;&quot;|II
+|-- style =&quot;border:1px solid rgb(170,170,170); padding-left: 0.2em; padding-right: 0.2em;&quot;
+!7
+!Куба
+| style=&quot;color: green; text-align: center;&quot;|2
+| style=&quot;color: green; text-align: center;&quot;|2
+| style=&quot;color: green; text-align: center;&quot;|2
+| style=&quot;color: blue; text-align: center;&quot;|1
+| style=&quot;color: red; text-align: center;&quot;|3
+| style=&quot;color: blue; text-align: center;&quot;|&amp;frac12;
+|[[Image:Chess_rll44.png|16px]]
+| style=&quot;color: blue; text-align: center;&quot;|1&amp;frac12;
+| style=&quot;color: blue; text-align: center;&quot;|1
+|
+| style=&quot;color: blue; text-align: center;&quot;|+1-4=3
+| style=&quot;color: blue; text-align: center;&quot;|13
+| style=&quot;color: blue; text-align: center;&quot;|5
+| style=&quot;color: blue; text-align: center;&quot;|VIII
+|-- style =&quot;border:1px solid rgb(170,170,170); padding-left: 0.2em; padding-right: 0.2em;&quot;
+!8
+!Израиль
+| style=&quot;color: blue; text-align: center;&quot;|1&amp;frac12;
+| style=&quot;color: blue; text-align: center;&quot;|1&amp;frac12;
+| style=&quot;color: green; text-align: center;&quot;|2
+| style=&quot;color: blue; text-align: center;&quot;|1&amp;frac12;
+| style=&quot;color: red; text-align: center;&quot;|2&amp;frac12;
+| style=&quot;color: blue; text-align: center;&quot;|1&amp;frac12;
+| style=&quot;color: red; text-align: center;&quot;|2&amp;frac12;
+|[[Image:Chess_rll44.png|16px]]
+| style=&quot;color: blue; text-align: center;&quot;|1&amp;frac12;
+|
+| style=&quot;color: blue; text-align: center;&quot;|+2-5=1
+| style=&quot;color: blue; text-align: center;&quot;|14&amp;frac12;
+| style=&quot;color: blue; text-align: center;&quot;|5
+| style=&quot;color: blue; text-align: center;&quot;|VI
+|-- style =&quot;border:1px solid rgb(170,170,170); padding-left: 0.2em; padding-right: 0.2em;&quot; 
+!9
+!Грузия
+| style=&quot;color: blue; text-align: center;&quot;|1&amp;frac12;
+| style=&quot;color: blue; text-align: center;&quot;|1&amp;frac12;
+| style=&quot;color: blue; text-align: center;&quot;|1
+| style=&quot;color: blue; text-align: center;&quot;|1&amp;frac12;
+| style=&quot;color: green; text-align: center;&quot;|2
+| style=&quot;color: red; text-align: center;&quot;|&amp;frac12;
+| style=&quot;color: red; text-align: center;&quot;|3
+| style=&quot;color: red; text-align: center;&quot;|2&amp;frac12;
+|[[Image:Chess_rll44.png|16px]]
+|
+| style=&quot;color: blue; text-align: center;&quot;|+2-5=1
+| style=&quot;color: blue; text-align: center;&quot;|13&amp;frac12;
+| style=&quot;color: blue; text-align: center;&quot;|5
+| style=&quot;color: blue; text-align: center;&quot;|VII
+|}
+
+КО — командные очки
+
+четверг, 10 ноября 2005 г.
+
+== Ссылки ==
+*[http://www.wccisrael.com/ Официальная страница чемпионата]
+
+[[Категория:Шахматы]]
+[[Категория:Россия в ноябре 2005 года]]
+[[Категория:Украина в ноябре 2005 года]]
+
+{{yes}}</text>
+      <sha1>d94g7u4byfqubd6i3n2y2rtrwb5wm85</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Сенат США снял ограничения на сотрудничество с Россией в деле строительства и эксплуатации МКС</title>
+    <ns>0</ns>
+    <id>1423</id>
+    <revision>
+      <id>17884973</id>
+      <parentid>15386351</parentid>
+      <timestamp>2026-05-01T17:13:18Z</timestamp>
+      <contributor>
+        <username>Well, Well, Bot!</username>
+        <id>62040</id>
+      </contributor>
+      <minor />
+      <comment>проставление темы Россия</comment>
+      <origin>17884973</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="2252" sha1="e85kyq4yhx30stcfdy1ajwjaii05qp3" xml:space="preserve">{{дата|10 ноября 2005}}
+{{тема|Россия}}
+{{Космонавтика}}
+Сенат [[w:США|США]] снял ограничения на сотрудничество [[w:НАСА|НАСА]] (NASA) с [[w:Россия|Россией]] в деле строительства и эксплуатации Международной космической станции. Ранее, запрет на закупку космических технологий в России сняла и палата представителей конгресса США. Этот запрет был введён в 2000 году, так как Россия продолжала сотрудничество в области ядерной энергетики с [[w:Иран|Ираном]].
+
+После катастрофы [[w:Шаттл|шаттла]] [[w:Колумбия (шаттл)|«Колумбия»]] 1 февраля 2003 года, поддержка [[w:Международная космическая станция|МКС]] в рабочем состоянии осуществлялась только Россией. За это время Россия осуществляла смену экипажей станции и доставку необходимых грузов. Россия полностью выполнила свои обязательства в соответствии с договорённостями по МКС. Американские шаттлы остаются на Земле, и нет определённости, когда они вновь отправятся в космос. Поэтому США вынуждены летать на МКС на российских «Союзах».
+
+== Ссылки ==
+*[http://www.sunsetsearch.com Дополнительная информация]
+*[http://www.rian.ru/technology/cosmos/20051110/42041951.html РИА Новости]
+
+[[Категория:Россия]]
+[[Категория:США]]
+[[Категория:МКС]]
+[[Категория:NASA]]
+[[Категория:Опубликовано]]
+[[Категория:Палата представителей США]]
+[[Категория:Россия в ноябре 2005 года]]</text>
+      <sha1>e85kyq4yhx30stcfdy1ajwjaii05qp3</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Ватикан выступил в защиту эволюционной теории</title>
+    <ns>0</ns>
+    <id>1431</id>
+    <revision>
+      <id>17518176</id>
+      <parentid>16842738</parentid>
+      <timestamp>2026-04-16T19:04:57Z</timestamp>
+      <contributor>
+        <username>AtUkrBot</username>
+        <id>63930</id>
+      </contributor>
+      <minor />
+      <comment>бот: замена категории</comment>
+      <origin>17518176</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="2135" sha1="687sky1lasc5h44rvd7geh7ae1xspbw" xml:space="preserve">{{Дата|11 ноября 2005}}
+{{w|Ватикан}} заявил о поддержке [[:w:Эволюционная теория|эволюционной теории]] [[:w:Дарвин, Чарлз|Чарльза Дарвина]], и подверг критике христианских фундаменталистов, отрицающих эволюцию на основе буквальной интерпретации Библии.
+
+Кардинал Пупар (''[[:w:en:Paul Cardinal Poupard|Paul Joseph Jean Cardinal Poupard]]''), глава Ватиканского папского совета по культуре, заявил на пресс-конференции, что описание сотворения мира в Книге Бытия, будучи правильно проинтерпретированным, вполне согласуется с эволюционной теорией.
+
+: ''«Верующие должны прислушиваться к современной науке и защищать её от религии, переходящей в фундаментализм, отрицающий научное мышление»''.
+
+Это заявление можно считать ответом на попытки фундаменталистов запретить преподавание эволюционной теории в школах в {{w|США}}.
+
+=== Ссылки ===
+* [http://lonestartimes.com/2005/11/07/vatican-official-defends-evolution-theory Vatican official defends evolution theory] {{Wayback|url=http://lonestartimes.com/2005/11/07/vatican-official-defends-evolution-theory |date=20051124093408 }}, Matt Bramanti, Lone Star Times, 8 ноября 2005
+* [http://www.news.com.au/story/0,10117,17162341-13762,00.html Evolution in the bible, says Vatican], Martin Penner, [http://News.com.au News.com.au], 7 ноября 2005
+
+{{Подвал новости}}
+
+{{Категории|Ватикан|Биология|Книга Бытия|США|Чарлз Дарвин|Эволюционная теория|Эволюция}}
+
+{{публиковать}}</text>
+      <sha1>687sky1lasc5h44rvd7geh7ae1xspbw</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Споры в Интернет-сообществе</title>
+    <ns>0</ns>
+    <id>1449</id>
+    <revision>
+      <id>444649</id>
+      <parentid>303749</parentid>
+      <timestamp>2016-04-09T06:29:39Z</timestamp>
+      <contributor>
+        <username>Krassotkin</username>
+        <id>3944</id>
+      </contributor>
+      <comment>+ 11 categories using [[Help:Gadget-HotCat|HotCat]]</comment>
+      <origin>444649</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="2825" sha1="cimzkasf0iuvzqx0vgwztgd9m0j5heq" xml:space="preserve">{{Дата|15 ноября 2005}}
+{{Интернет}}
+С 16 по 18 декабря в [[w:Тунис (город)|Тунисе]] будет проходить вторая «Всемирная встреча информационного сообщества» (World Summit on the Information Society). Это встреча проходит по инициативе [[w:ООН|ООН]]. Участники встречи намерены обсудить проблему демократизации управления [[w:Интернет|Интернетом]].
+
+С 1998 года «Интернет корпорация для назначения имен» (Internet Corporation for Assigned Names and Numbers, ICANN) распоряжается Интернет адресами. Эта корпорация является некоммерческой организацией [[w:США |США]] и подчиняется министерству торговли США. Эта корпорация управляет распределением [[w:DNS |доменных имён]] и имеет гипотетическую возможность отсоединить от всемирной сети все страны или блокировать передачу всех [[w:Электронная почта|Email]]. Договор с корпорацией ICANN по управлению Интернетом истекает в сентябре [[2006 год]]а. В связи с этим, 25 стран [[w: Европейский союз|Европейского союза]] (ЕС) требуют полного пересмотра правил управления Интернета и передачу контроля негосударственной организации под эгидой ООН. Эту позицию ЕС поддерживают также [[w:Бразилия| Бразилия]], [[w:Китай| Китай]], [[w:Индия| Индия]], [[w:Иран |Иран]]. США выступают за сохранение существующего порядка.
+
+== Источники ==
+Перевод статьи из немецких ВикиНовостей.
+
+{{yes}}
+
+[[Категория:ICANN]]
+[[Категория:Интернет]]
+[[Категория:Тунис]]
+[[Категория:Доменные имена]]
+[[Категория:Европейский союз]]
+[[Категория:США]]
+[[Категория:Северная Америка]]
+[[Категория:Бразилия]]
+[[Категория:Китай]]
+[[Категория:Индия]]
+[[Категория:Иран]]
+[[Категория:ООН]]
+[[Категория:Африка]]
+[[Категория:Азия]]
+[[Категория:Южная Америка]]</text>
+      <sha1>cimzkasf0iuvzqx0vgwztgd9m0j5heq</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Маттиас Платцек — новый председатель СДПГ</title>
+    <ns>0</ns>
+    <id>1452</id>
+    <revision>
+      <id>730422</id>
+      <parentid>195855</parentid>
+      <timestamp>2019-02-27T01:22:47Z</timestamp>
+      <contributor>
+        <username>Krassotkin</username>
+        <id>3944</id>
+      </contributor>
+      <minor />
+      <comment>added [[Category:Карлсруэ]] using [[Help:Gadget-HotCat|HotCat]]</comment>
+      <origin>730422</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="1291" sha1="a5hzlvmli4q4aafatn9jnw5t80ba7bl" xml:space="preserve">{{Дата|15 ноября 2005}} {{Германия}}
+
+На съезде [[w:СДПГ|Социал-демократической партии Германии]] в [[w:Карлсруэ| Карлсруэ]] (Karlsruhe) избран новый председатель партии. Им стал Министр-президент [[w: Федеральная земля (Германия)|Земли]] [[w:Бранденбург| Бранденбург]] [[w: Платцек, Маттиас |Маттиас Платцек]] (Matthias Platzeck). За него проголосовали 512 депутатов 2 — против и 1 воздержался. Это составляет 99,4%. Платцек сменил на посту председателя [[w:Мюнтеферинг, Франц|Франца Мюнтеферинга]] (Franz M&amp;uuml;ntefering). Через четыре года, после следующих парламентских выборов, Маттиас Платцек может стать [[w:Канцлер|Канцлером]] [[w:Германия|Германии]].
+
+[[Категория:Политика]]
+[[Категория:Социал-демократическая партия Германии]]
+[[Категория:Карлсруэ]]
+
+{{yes}}</text>
+      <sha1>a5hzlvmli4q4aafatn9jnw5t80ba7bl</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Завершились отборочные игры к чемпионату мира по футболу</title>
+    <ns>0</ns>
+    <id>1454</id>
+    <revision>
+      <id>16133188</id>
+      <parentid>15378104</parentid>
+      <timestamp>2022-12-13T06:21:08Z</timestamp>
+      <contributor>
+        <username>VladimirPF-Bot</username>
+        <id>49101</id>
+      </contributor>
+      <minor />
+      <comment>/* top */Добавление категории Украина в ноябре 2005 года, replaced: |Украина| → |</comment>
+      <origin>16133188</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="3840" sha1="cn1377i2u0aszkhk0ji2yjskgjf8325" xml:space="preserve">{{Дата|16 ноября 2005}} {{футбол}}
+
+Определились последние из 32-х участников финальной стадии чемпионата мира по футболу, который состоится летом 2006 года в [[Германия|Германии]].
+
+Сегодня последние пять путёвок на чемпионат мира завоевали команды: Австралии, Тринидада и Тобаго, Швейцарии, Испании и Чехии. Теперь известны все 32 участника — [[w:Германия|Германия]], [[w:Украина|Украина]], [[w:Португалия|Португалия]], [[w:Нидерланды|Нидерланды]], [[w:Италия|Италия]], [[w:Англия|Англия]], [[w:Хорватия|Хорватия]], [[w:Польша|Польша]], [[w:Франция|Франция]], [[w:Швеция|Швеция]], [[w:Сербия и Черногория|Сербия и Черногория]], [[w:Швейцария|Швейцария]], [[w:Испания|Испания]], [[w:Чехия|Чехия]], [[w:Бразилия|Бразилия]], [[w:Аргентина|Аргентина]], [[w:Эквадор|Эквадор]], [[w:Парагвай|Парагвай]], [[w:Мексика|Мексика]], [[w:США|США]], [[w:Коста-Рика|Коста-Рика]], [[w:Тринидад и Тобаго|Тринидад и Тобаго]], [[w:Того|Того]], [[w:Гана|Гана]], [[w:Кот-д’Ивуар|Кот д`Ивуар]], [[w:Ангола|Ангола]], [[w:Тунис|Тунис]], [[w:Саудовская Аравия|Саудовская Аравия]], [[w:Южная Корея|Южная Корея]], [[w:Япония|Япония]], [[w:Иран|Иран]], [[w:Австралия|Австралия]]. Из всех стран бывшего СССР в финал пробилась лишь команда Украины, которая впервые будет играть в заключительной стадии чемпионата мира по футболу. Кроме Украины ещё пять команд будут впервые участвовать в финальной стадии чемпионата мира — Ангола, Гана, Кот д'Ивуар, Того, Тринидад и Тобаго. Команда России не смогла преодолеть отборочный барьер, уступив командам Португалии и [[w:Словакия|Словакии]]. Не смог пройти квалификацию и чемпион [[w:Европа|Европы]] — команда [[w:Греция|Греции]].
+
+9 декабря в [[w:Лейпциг|Лейпциге]] будет проведена жеребьёвка предварительных групп чемпионата мира. Чемпионат начнётся 9 июня 2006 года.
+
+{{Категории|Германия|Португалия|Нидерланды|Италия|Великобритания|Хорватия|Польша|Франция|Швеция|Швейцария|Испания|Чехия|Бразилия|Аргентина|Эквадор|Парагвай|Мексика|США|Коста-Рика|Тринидад и Тобаго|Того|Гана|Кот-д’Ивуар|Ангола|Тунис|Саудовская Аравия|Южная Корея|Япония|Иран|Австралия}}
+
+{{Публиковать}}
+
+[[Категория:Футбол]]
+[[Категория:Тринидад и Тобаго]]
+[[Категория:Россия в ноябре 2005 года]]
+[[Категория:Украина в ноябре 2005 года]]</text>
+      <sha1>cn1377i2u0aszkhk0ji2yjskgjf8325</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>США применяли белый фосфор в Ираке</title>
+    <ns>0</ns>
+    <id>1492</id>
+    <revision>
+      <id>322113</id>
+      <parentid>299188</parentid>
+      <timestamp>2014-09-01T08:10:31Z</timestamp>
+      <contributor>
+        <username>Dexbot</username>
+        <id>20386</id>
+      </contributor>
+      <minor />
+      <comment>Bot: removing existed iw links in Wikidata</comment>
+      <origin>322113</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="4211" sha1="q8x5gutqb2a5dqtvy1gvvtpxippuntb" xml:space="preserve">{{:Дата |17 ноября 2005}}
+{{Ирак}}
+[[Файл:Ayman2.jpg|thumb|left|250px|Раны от [[w:Фосфорные боеприпасы|белого фосфора]]]]
+[[США|Соединённые Штаты]] признали, что применяли [[w:Фосфорные боеприпасы|снаряды с белым фосфором]] против террористов в городе [[Эль-Фаллуджа]] в [[Ноябрь 2004 года|ноябре 2004 года]]. Вопрос стоит так — где граница легального применения такого оружия?
+
+Является ли белый фосфор химическим оружием зависит от способа его применения, считает Пол Роджерс ({{lang-en|Paul Rodgers}}), профессор Брэдфордского университета:
+{{цитата|При обычном применении, белый фосфор не является химическим оружием, но, хотя это очень тонкое дело, это оружие может быть признано химическим, если оно применяется непосредственно против людей.}}
+
+Профессор Пол Роджерс — автор книги «Война с террором: [[Афганистан]] и после» («A War on Terror: Afghanistan and After»).
+
+Правительство [[Ирак]]а намерено провести расследование о применении США белого фосфора в Эль-Фалуджи. Расследование призвано установить нарушали ли США международные законы применения оружия.
+
+Представитель [[Пентагон]]а подполковник Барри Винэбл ({{lang-en|Barry Venable}}) заявил, что США применяли белый фосфор как зажигательное оружие:
+{{цитата|Белый фосфор — конвенционное вооружение. Это не химическое оружие. Оно не вне закона или иллегально.}}
+
+Концентрация дыма от горящего белого фосфора на поле боя считается безопасным. Не существует документальных подтверждений о фатальном воздействии дыма от белого фосфора. Однако, использование белого фосфора как зажигательного оружия стоит под вопросом. США требовали, чтобы гражданские лица покинули места возможного применения белого фосфора.
+
+Сэр Мензис Кэмпбелл ({{lang-en|Menzies Campbell}}), член [[Великобритания|Британского]] парламента, сказал:
+{{цитата|Применение такого оружия, технически может быть легальным, но эффект таков, что это пропагандистская победа для восставших. Признание после отрицания вызывает подозрение, что было  что-то, что надо было скрывать.}}
+
+Использование белого фосфора запрещено конвенцией [[ООН]] в 1980 году. США не подписали эту конвенцию.
+
+{{-}}
+
+== Источники ==
+{{Перевод|en|US use of white phosphorus in Iraq may constitute a war crime|November 17, 2005}}
+
+{{Категории|Азия|Афганистан|Ирак|Войны|Вооружённые силы|Вооружённые силы Ирака|Вооружённые силы США|ООН|Оружие|Политика|Политика Ирака|Политика США|Право|Право в США|Преступность и право|США|Химия}}
+
+{{публиковать}}</text>
+      <sha1>q8x5gutqb2a5dqtvy1gvvtpxippuntb</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Новый Канцлер и новое правительство Германии</title>
+    <ns>0</ns>
+    <id>1499</id>
+    <revision>
+      <id>375650</id>
+      <parentid>375649</parentid>
+      <timestamp>2015-02-18T11:03:41Z</timestamp>
+      <contributor>
+        <username>Krassotkin</username>
+        <id>3944</id>
+      </contributor>
+      <minor />
+      <comment>added [[Category:Ангела Меркель]] using [[Help:Gadget-HotCat|HotCat]]</comment>
+      <origin>375650</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="4080" sha1="5h9gddewmg6off401vg34s0w3buq8yv" xml:space="preserve">{{Дата|22 ноября 2005}}
+{{Берлин}}
+
+22 ноября в [[w:Бундестаг|Бундестаге]] состоятся выборы [[w:Федеральный канцлер Германии| канцлера]] [[w:Германия| Германии]]. Кандидатом на пост Канцлера является председатель [[w:Христианско-демократический союз| ХДС]] [[w:Меркель, Ангела|Ангела Меркель]]. Она возглавит новое правительство Германии, которое сформировано на основе, так называемой, «Большой коалиции». В коалицию входят [[w:Социал-демократическая партия Германии|СДПГ]] и ХДС/[[w:Христианско-социальный союз|ХСС]].
+
+Вице-канцлером и одновременно министром труда станет '''Франц Мюнтеферинг''' (Franz Müntefering, СДПГ), министром иностранных дел — '''Франк-Вальтер Штайнмайер''' (Frank-Walter Steinmeier, СДПГ), министром внутренних дел — '''Вольфганг Шойбле''' (Wolfgang Schäuble, ХДС), министром финансов — '''Пер Штайнбрюк''' (Peer Steinbrück, СДПГ), министром экономики и технологий — '''Михаель Глос''' (Michael Glos, ХСС), министром защиты потребителей и сельского хозяйства — '''Хорст Зеехофер''' (Horst Seehofer, ХСС), министром обороны — '''Франц Йозеф Юнг''' (Franz Josef Jung, ХДС), министром юстиции остаётся '''Бригитте Циприс''' (Brigitte Zypries, СДПГ), министром семьи, женщин, стариков и детей будет '''Урсула фон дер Лайен''' (Ursula von der Leyen, ХДС), министром здравоохранения остаётся '''Улла Шмидт''' (Ulla Schmidt, СДПГ), министром транспорта и строительства будет '''Вольфганг Тифензее''' (Wolfgang Tiefensee, СДПГ), министром защиты окружающей среды и атомной безопасности — '''Зигмар Габриель''' (Sigmar Gabriel, СДПГ), министром образования и научных исследований — '''Аннете Шаван''' (Annette Schavan, ХДС), министром экономического развития — '''Хайдемари Вичорек-Цойль''' (Heidemarie Wieczorek-Zeul, СДПГ), министром для специальных работ и шеф бундесканцелярии — '''Томас де Мэзьер''' (Thomas de Maizière, ХДС).
+
+== Краткая справка ==
+Ангела Меркель (Angela Merkel)
+* дата рождения — 17.07.1954
+* образование — высшее
+* профессия — физик
+* владеет [[w:Русский язык|русским]] и [[w:Английский язык|английским]] языками
+* политикой занялась после падения Берлинской стены в 1989
+* член ХДС с 1990
+* депутат Бундестага с 1990
+* председатель ХДС с 2000
+* канцлер Германии с 2005
+
+[[Категория:Политика]]
+[[Категория:Христианско-демократический союз Германии]]
+[[Категория:Христианско-социальный союз]]
+[[Категория:Социал-демократическая партия Германии]]
+[[Категория:Вольфганг Шойбле]]
+[[Категория:Ангела Меркель]]
+
+{{yes}}</text>
+      <sha1>5h9gddewmg6off401vg34s0w3buq8yv</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Последний тур чемпионата России по футболу 2005</title>
+    <ns>0</ns>
+    <id>1502</id>
+    <revision>
+      <id>15384994</id>
+      <parentid>346692</parentid>
+      <timestamp>2022-10-14T21:30:23Z</timestamp>
+      <contributor>
+        <username>VladimirPF</username>
+        <id>23388</id>
+      </contributor>
+      <minor />
+      <comment>added [[Category:Россия в ноябре 2005 года]] using [[Help:Gadget-HotCat|HotCat]]</comment>
+      <origin>15384994</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="4280" sha1="97yhm1hhgxvbhs4j41sihgrnhuitlb5" xml:space="preserve">{{Дата|19 ноября 2005}}
+{{Футбол}}
+Сыгран последний тур [[w:Российская Футбольная Премьер-Лига|чемпионата России по футболу]] в 2005 году. В последнем туре определился второй клуб, который в следующем году будет играть в [[w:Лига чемпионов УЕФА|лиге чемпионов]] — это [[w:Спартак (футбольный клуб, Москва)|«Спартак»]]. «Спартак» и [[w:Локомотив (футбольный клуб, Москва)|«Локомотив»]] набрали одинаковое количество очков, но, согласно положению о чемпионате, Спартак занял второе место, так как имеет большее количество подед в чемпионате (16 «Спартака» против 14 у «Локомотива»). Покидают премьер-лигу [[w:Алания (футбольный клуб)|«Алания»]] (Владикавказ) и [[w:Терек (футбольный клуб)|«Терек»]] (Грозный). Вместо этих команд в следующем году в премьер-лиге будут играть [[w:Луч-Энергия (футбольный клуб)|«Луч-Энергия»]] (Владивосток) и [[w:Спартак-Нальчик|«Спартак»]] (Нальчик).
+
+Лучшим бомбардиром чемпионата стал [[w:Кириченко, Дмитрий|Кириченко]] (команда «Москва») — 14 голов.&lt;br /&gt;
+
+&lt;b&gt;Итоговая таблица Чемпионата России по футболу (премьер-лига) 2005.&lt;/b&gt;
+{| class=&quot;standard&quot; 
+|-
+!Место
+! style=&quot;background:#efefef;&quot; | Команды
+! style=&quot;background:#efefef;&quot; | В
+! style=&quot;background:#efefef;&quot; | Н
+! style=&quot;background:#efefef;&quot; | П
+! style=&quot;background:#efefef;&quot; | Мячи
+! style=&quot;background:#efefef;&quot; | О
+|- 
+!1
+|[[w:ЦСКА Москва | ЦСКА]]
+| 18 
+| 8
+| 4
+|48:20
+|62
+|- 
+!2
+|[[w:Спартак Москва | Спартак]]
+| 16
+| 8
+| 6
+|47:26
+|56
+|- 
+!3
+|[[w:Локомотив Москва | Локомотив]]
+| 14 
+| 14
+| 2
+|41:18
+|56
+|- 
+!4
+|[[w:Рубин Казань | Рубин]]
+| 14 
+| 9
+| 7
+|45:31
+|51
+|- 
+!5
+|[[w:Москва (футбольный клуб) | Москва]]
+| 14 
+| 8
+| 8
+|36:26
+|51
+|- 
+!6
+|[[w:Зенит Санкт-Петербург | Зенит]]
+| 13 
+| 10
+| 7
+|45:26
+|49
+|- 
+!7
+|[[w:Торпедо Москва | Торпедо]]
+| 12 
+| 9
+|9
+|37:33
+|45
+|- 
+!8
+|[[w:Динамо Москва (футбольный клуб) | Динамо]]
+| 12 
+| 2
+|16
+|36:46
+|38
+|- 
+!9
+|[[w:Шинник Ярославль | Шинник]]
+| 9 
+| 11
+|10
+|26:31
+|38
+|- 
+!10
+|[[w:Томь Томск | Томь]]
+| 9 
+| 10
+|11
+|28:33
+|37
+|- 
+!11
+|[[w:Сатурн Раменское | Сатурн]]
+| 8 
+| 9
+|13
+|23:25
+|33
+|- 
+!12
+|[[w:Амкар Пермь | Амкар]]
+| 7 
+| 12
+|11
+|25:36
+|33
+|- 
+!13
+|[[w:Ростов (футбольный клуб) | Ростов]]
+| 8 
+| 7
+|15
+|26:41
+|31
+|- 
+!14
+|[[w: Крылья Советов Самара | Крылья Советов]]
+| 7 
+| 8
+|15
+|29:44
+|29
+|- 
+!15
+|[[w:Алания Владикавказ | Алания]]
+| 5 
+| 8
+|17
+|27:53
+|23
+|- 
+!16
+|[[w:Терек Грозный | Терек]]
+| 5 
+| 5
+|20
+|20:50
+|20
+|}
+
+В — выигрыши, Н — ничьи, П — проигрыши, О — очки
+
+[[Категория:Чемпионат России по футболу]]
+[[Категория:ФК Спартак (Москва)]]
+[[Категория:ФК Локомотив (Москва)]]
+[[Категория:ФК Терек]]
+[[Категория:ФК Алания]]
+[[Категория:Футбол в России]]
+[[Категория:Спорт в России]]
+[[Категория:ФК Торпедо (Москва)]]
+[[Категория:Амкар]]
+[[Категория:ФК Крылья Советов]]
+[[Категория:ФК Москва]]
+[[Категория:Россия в ноябре 2005 года]]
+{{публиковать}}</text>
+      <sha1>97yhm1hhgxvbhs4j41sihgrnhuitlb5</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>В Монако официально вступил на трон князь Альбер II</title>
+    <ns>0</ns>
+    <id>1507</id>
+    <revision>
+      <id>251296</id>
+      <parentid>251026</parentid>
+      <timestamp>2013-05-28T15:50:12Z</timestamp>
+      <contributor>
+        <username>Krassotkin</username>
+        <id>3944</id>
+      </contributor>
+      <minor />
+      <comment>добавлена категория «Международный олимпийский комитет» с помощью [[w:Википедия:Гаджеты/HotCat|HotCat]]</comment>
+      <origin>251296</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="1693" sha1="67gt2besm8ukn6jmzxahx2v4yr7ef47" xml:space="preserve">{{Дата|19 ноября 2005}}
+{{Монако}}
+В [[w:Монако|Монако]] вступил на престол князь [[w:Альберт II (князь Монако)|Альбер II]]. Его отец, князь Ренье III, скончался 6 апреля 2005 года. Вступление на трон было приурочено к национальному дню Монако, который отмечается 19 ноября. Официально Альбер II руководит княжеством с 12 июля 2005.
+ 
+== Краткая справка ==
+Князь Альбер II (Albert Alexandre Louis Pierre Grimaldi) 
+* дата рождения — 14.03.1958
+* изучал политические науки в [[w:США|США]]
+* несколько раз участвовал в [[w:Зимние Олимпийские игры|зимних олимпийских играх]] в соревнованиях по бобслею
+* владеет [[w:Немецкий язык|немецким]] и [[w:Английский язык|английским]] языками
+* член [[w:Международный олимпийский комитет | Международного олимпийского комитета]] с 1985
+
+== Источники ==
+* {{источник1|url=http://www.novopol.ru/print-text4218.html|Название=Принц Альбер стал королем княжества Монако|Издатель=Novopol.ru|Дата=2005-11-22}}
+
+{{публиковать}}
+
+[[Категория:Немецкий язык]]
+[[Категория:Международный олимпийский комитет]]</text>
+      <sha1>67gt2besm8ukn6jmzxahx2v4yr7ef47</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Давид Налбандян выиграл финал итогового турнира АТП</title>
+    <ns>0</ns>
+    <id>1511</id>
+    <revision>
+      <id>9085515</id>
+      <parentid>281596</parentid>
+      <timestamp>2020-11-22T21:37:48Z</timestamp>
+      <contributor>
+        <username>Wavepainter</username>
+        <id>23431</id>
+      </contributor>
+      <minor />
+      <comment>added [[Category:Николай Давыденко]] using [[Help:Gadget-HotCat|HotCat]]</comment>
+      <origin>9085515</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="2515" sha1="cn3wy9toaoqr7l83kes7d2xh8a26lkn" xml:space="preserve">{{Дата|20 ноября 2005}}
+{{Теннис}}
+Сенсационно закончился финал итогового турнира АТП (Masters Cup) в [[w:Шанхай|Шанхае]]. 
+[[Файл:David Nalbandian extended on BH.jpg|мини|слева|192пкс|Давид Налбандян]]
+Вопреки всем прогнозам, которые отдавали безоговорочную победу первой ракетке мира — швейцарцу Роже Федереру, финальный матч выиграл [[w:Налбандян, Давид|Давид Налбандян]] ([[Аргентина]]). Счёт финала: 6:7 (4:7), 6:7 (11:13), 6:2, 6:1, 7:6 (7:3). Финальный матч продолжался 4 часа 33 минуты.
+
+После двух сетов Налбандян проигрывал 0:2. Это самый большой успех Налбандяна в его карьере теннисиста-профессионала. Ещё раз подтвердилось неписанное правило — запасной участник, который допускается к соревнованию в последний момент, имеет хорошие шансы на победу. Налбандян был включен в число участников взамен отказавшегося, из-за травмы, американца Энди Роддика.
+
+Роже Федерер не смог третий раз подряд выиграть Masters Cup, который он выигрывал в 2003 и 2004 годах. До сих пор это сделали два теннисиста — Иван Лендл ([[w:Чехословакия|Чехословакия]] — [[США]]) и Илие Настасе ([[Румыния]]).
+
+В итоговом турнире АТП играл лучший, на данный момент, Российский теннисист — [[w:Давыденко, Николай Владимирович|Николай Давыденко]], который уступил в полуфинале будущему победителю, Давиду Налбандяну, со счётом 0:6, 5:7.
+
+[[Категория:Шанхай]]
+[[Категория:Китай]]
+[[Категория:Давид Налбандян]]
+[[Категория:Роджер Федерер]]
+[[Категория:Николай Давыденко]]
+{{публиковать}}</text>
+      <sha1>cn3wy9toaoqr7l83kes7d2xh8a26lkn</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Второй матч — Люди против Компьютеров</title>
+    <ns>0</ns>
+    <id>1516</id>
+    <revision>
+      <id>16637931</id>
+      <parentid>16579243</parentid>
+      <timestamp>2023-10-08T04:36:55Z</timestamp>
+      <contributor>
+        <username>InternetArchiveBot</username>
+        <id>37639</id>
+      </contributor>
+      <comment>Rescuing 1 sources and tagging 0 as dead.) #IABot (v2.0.9.5</comment>
+      <origin>16637931</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="7018" sha1="5noov3o7id2gkkfcqhzb7h71on7e1gp" xml:space="preserve">{{Дата|20 ноября 2005}}
+{{Спорт}}{{Испания}}
+С 20 по 23 ноября 2005 в [[w:Бильбао|Бильбао]] ([[w:Испания|Испания]]) состоялся второй шахматный матч — Люди против Компьютеров.
+Матч проводился по [[w:Схевенингенская система|схевенингенской системе]] — каждый гроссмейстер играет против каждой программы и каждая программа играет против каждого гроссмейстера. За команду людей играли три экс-чемпиона мира ФИДЕ: [[w:Халифман, Александр Валерьевич|Александр Халифман]] ([[w:Рейтинг Эло|рейтинг]] 2653, [[w:Россия|Россия]]), [[w:Пономарёв, Руслан Олегович|Руслан Пономарёв]] (2700, [[w:Украина|Украина]]) и [[w: Касымджанов, Рустам|Рустам Касымджанов]] (2670, [[w:Узбекистан|Узбекистан]]). За компьютеры играли те же программы, что и в прошлом году: «Фритц» (Fritz), «Джуниор» (Junior) и «Гидра» (Hydra).
+
+Первый матч состоялся в 2004 году. Тогда за людей играли [[w:Топалов, Веселин|Веселин Топалов]], Руслан Пономарёв и Сергей Карякин со стороны программ — «Фритц», «Джуниор» и «Гидра». Компьютеры выиграли со счётом 8½:3½.
+
+== Календарь турнира и результаты ==
+
+{|border=&quot;2&quot; cellpadding=&quot;4&quot; cellspacing=&quot;0&quot; style=&quot;margin: 1em 1em 1em 0; background: #f9f9f9; border: 1px #aaa solid; border-collapse: collapse; font-size: 95%;&quot;
+|-
+!colspan=&quot;5»|20 ноября
+|-
+|width=&quot;150»|Пономарёв
+|[[Файл:Chess_pll44.png|16px]]
+|style=&quot;color: blue; text-align: center;&quot; width=&quot;60»|0:1
+|[[Файл:Chess_ pdl44.png|16px]]
+|width=&quot;150»|Джуниор
+|-
+|width=&quot;150»|Касымджанов
+|[[Файл:Chess_pdl44.png|16px]]
+|style=&quot;color: blue; text-align: center;&quot; width=&quot;60»|0:1
+|[[Файл:Chess_ pll44.png|16px]]
+|width=&quot;150»|Гидра
+|-
+|width=&quot;150»|Халифман
+|[[Файл:Chess_pdl44.png|16px]]
+|style=&quot;color: blue; text-align: center;&quot; width=&quot;60»|0:1
+|[[Файл:Chess_ pll44.png|16px]]
+|width=&quot;150»|Фритц
+|-
+|colspan=&quot;2&quot; align=&quot;right»|Люди
+|style=&quot;color: blue; text-align: center;&quot;|0:3
+|colspan=&quot;2»|Компьютеры
+|}
+
+{|border=&quot;2&quot; cellpadding=&quot;4&quot; cellspacing=&quot;0&quot; style=&quot;margin: 1em 1em 1em 0; background: #f9f9f9; border: 1px #aaa solid; border-collapse: collapse; font-size: 95%;&quot;
+|-
+!colspan=&quot;5»|21 ноября
+|-
+|width=&quot;150»|Пономарёв
+|[[Файл:Chess_pll44.png|16px]]
+|style=&quot;color: red; text-align: center;&quot; width=&quot;60»|1:0
+|[[Файл:Chess_ pdl44.png|16px]]
+|width=&quot;150»|Фритц
+|-
+|width=&quot;150»|Касымджанов
+|[[Файл:Chess_pll44.png|16px]]
+|style=&quot;color: green; text-align: center;&quot; width=&quot;60»|½:½
+|[[Файл:Chess_ pdl44.png|16px]]
+|width=&quot;150»|Джуниор
+|-
+|width=&quot;150»|Халифман
+|[[Файл:Chess_pll44.png|16px]]
+|style=&quot;color: green; text-align: center;&quot; width=&quot;60»|½:½
+|[[Файл:Chess_ pdl44.png|16px]]
+|width=&quot;150»|Гидра
+|-
+|colspan=&quot;2&quot; align=&quot;right»|Люди
+|style=&quot;color: red; text-align: center;&quot;|2:1
+|colspan=&quot;2»|Компьютеры
+|}
+
+{|border=&quot;2&quot; cellpadding=&quot;4&quot; cellspacing=&quot;0&quot; style=&quot;margin: 1em 1em 1em 0; background: #f9f9f9; border: 1px #aaa solid; border-collapse: collapse; font-size: 95%;&quot;
+|-
+!colspan=&quot;5»|22 ноября
+|-
+|width=&quot;150»|Пономарёв
+|[[Файл:Chess_ pdl44.png|16px]]
+|style=&quot;color: blue; text-align: center;&quot; width=&quot;60»|0:1
+|[[Файл:Chess_ pll44.png|16px]]
+|width=&quot;150»|Гидра
+|-
+|width=&quot;150»|Касымджанов
+|[[Файл:Chess_ pdl44.png|16px]]
+|style=&quot;color: green; text-align: center;&quot; width=&quot;60»|½:½
+|[[Файл:Chess_ pll44.png|16px]]
+|width=&quot;150»|Фритц
+|-
+|width=&quot;150»|Халифман
+|[[Файл:Chess_ pdl44.png|16px]]
+|style=&quot;color: blue; text-align: center;&quot; width=&quot;60»|0:1
+|[[Файл:Chess_ pll44.png|16px]]
+|width=&quot;150»|Джуниор
+|-
+|colspan=&quot;2&quot; align=&quot;right»|Люди
+|style=&quot;color: blue; text-align: center;&quot;|½:2½
+|colspan=&quot;2»|Компьютеры
+|}
+
+{|border=&quot;2&quot; cellpadding=&quot;4&quot; cellspacing=&quot;0&quot; style=&quot;margin: 1em 1em 1em 0; background: #f9f9f9; border: 1px #aaa solid; border-collapse: collapse; font-size: 95%;&quot;
+|-
+!colspan=&quot;5»|23 ноября
+|-
+|width=&quot;150»|Пономарёв
+|[[Файл:Chess_ pdl44.png|16px]]
+|style=&quot;color: green; text-align: center;&quot; width=&quot;60»|½:½
+|[[Файл:Chess_ pll44.png|16px]]
+|width=&quot;150»|Джуниор
+|-
+|width=&quot;150»|Касымджанов
+|[[Файл:Chess_ pll44.png|16px]]
+|style=&quot;color: green; text-align: center;&quot; width=&quot;60»|½:½
+|[[Файл:Chess_ pdl44.png|16px]]
+|width=&quot;150»|Гидра
+|-
+|width=&quot;150»|Халифман
+|[[Файл:Chess_ pll44.png|16px]]
+|style=&quot;color: green; text-align: center;&quot; width=&quot;60»|½:½
+|[[Файл:Chess_ pdl44.png|16px]]
+|width=&quot;150»|Фритц
+|-
+|colspan=&quot;2&quot; align=&quot;right»|Люди
+|style=&quot;color: green; text-align: center;&quot;|1½:1½
+|colspan=&quot;2»|Компьютеры
+|}
+
+== Таблица турнира ==
+
+{|border=&quot;2&quot; cellpadding=&quot;4&quot; cellspacing=&quot;0&quot; style=&quot;margin: 1em 1em 1em 0; background: #f9f9f9; border: 1px #aaa solid; border-collapse: collapse; font-size: 95%;&quot;
+|-
+!Команды
+!1
+!2
+!3
+!4
+|
+|Результат
+|-
+! width=&quot;150»|Люди
+|style=&quot;color: blue; text-align: center;&quot; width=&quot;60»|0
+|style=&quot;color: red; text-align: center;&quot; width=&quot;60»|2
+|style=&quot;color: blue; text-align: center;&quot; width=&quot;60»|½
+|style=&quot;color: green; text-align: center;&quot; width=&quot;60»|1½
+|
+|style=&quot;color: blue; text-align: center;&quot; width=&quot;60»|4
+|-
+! width=&quot;150»|Компьютеры
+|style=&quot;color: red; text-align: center;&quot; width=&quot;60»|3
+|style=&quot;color: blue; text-align: center;&quot; width=&quot;60»|1
+|style=&quot;color: red; text-align: center;&quot; width=&quot;60»|2½
+|style=&quot;color: green; text-align: center;&quot; width=&quot;60»|1½
+|
+|style=&quot;color: red; text-align: center;&quot; width=&quot;60»|8
+|}
+
+'''Результаты участников'''
+
+Пономарёв — 1½, Касымджанов — 1½, Халифман — 1
+
+Гидра — 3, Джуниор — 3, Фритц — 2
+
+== Источники ==
+* [http://www.ajedrezbilbao.com/FestivalEN.htm Официальная страница турнира (англ.)] {{Wayback|url=http://www.ajedrezbilbao.com/FestivalEN.htm |date=20070607080737 }}
+{{категории|Шахматы|Шахматные турниры}}
+{{публиковать}}
+
+[[Категория:ФИДЕ]]
+[[Категория:Россия в ноябре 2005 года]]
+[[Категория:Украина в ноябре 2005 года]]</text>
+      <sha1>5noov3o7id2gkkfcqhzb7h71on7e1gp</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Ангела Меркель — Канцлер Германии</title>
+    <ns>0</ns>
+    <id>1520</id>
+    <revision>
+      <id>544741</id>
+      <parentid>272463</parentid>
+      <timestamp>2017-11-22T22:04:59Z</timestamp>
+      <contributor>
+        <username>Krassotkin</username>
+        <id>3944</id>
+      </contributor>
+      <comment>+ 6 categories using [[Help:Gadget-HotCat|HotCat]]</comment>
+      <origin>544741</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="3178" sha1="nf5iopwx7x8l2hsloj5r714zkqhd12m" xml:space="preserve">{{:Дата|22 ноября 2005}}
+[[Image:Deutscher_Bundestag_2005.png|thumb|слева|228px|Распределение мест в Бундестаге]]
+{{Германия}}
+[[Ангела Меркель]] выбрана [[w: Канцлер|Канцлером]] [[w:Германия|Германии]]. Она стала первой женщиной возглавившей немецкое правительство.
+
+Выборы Канцлера проводятся в [[w:Бундестаг|Бундестаге]]. Ангела Меркель была кандидатом от «большой коалиции», которую составляют [[w:СДПГ|СДПГ]] и [[w:Христианско-демократический союз|ХДС]]/[[w:Христианско-социальный союз|ХСС]]. 
+
+[[w:Федеральный президент Германии |Бундеспрезидент]] [[w:Кёлер, Хорст|Хорст Кёлер]] 21 ноября официально предложил Бундестагу Ангелу Меркель как Бундесканцлера. Согласно закону, Бундестаг выбирает Бундесканцлера без обсуждения, тайным голосованием.
+
+В Бундестаге всего 614 мест. В Бундестаге представлены 6 партий (см. Рис.), которые образуют 5 фракций (ХДС и ХСС образуют одну совместную фракцию). В «большую коалицию» входят 448 депутатов. В оппозиционные партии входят 166 депутатов.
+
+За Ангелу Меркель проголосовало — 397 депутатов (64,9% от проголосовавших), против — 202 (33%), воздержались — 12 (2%), 1 бюллетень признан недействительным. Всего голосовали 612 депутатов. 
+
+Таким образом, по крайней мере, 51 депутат «большой коалиции» не поддержали Агелу Меркель. 
+
+
+== См. Также ==
+[[Новый Канцлер и новое правительство Германии]]
+
+== Ссылки ==
+*[http://www.bundestag.de/ Официальная страница Бундестага (нем.)]
+
+[[Категория:Ангела Меркель]]
+[[Категория:Христианско-демократический союз Германии]]
+[[Категория:Христианско-социальный союз]]
+[[Категория:Социал-демократическая партия Германии]]
+[[Категория:Опубликовано]]
+[[Категория:Женщины]]
+[[Категория:Политика Германии]]
+[[Категория:Политика]]
+[[Категория:Общество]]
+[[Категория:Общество в Германии]]
+[[Категория:Выборы]]
+[[Категория:Выборы в Германии]]
+[[Категория:Хорст Кёлер]]</text>
+      <sha1>nf5iopwx7x8l2hsloj5r714zkqhd12m</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Атака на «Гугл»</title>
+    <ns>0</ns>
+    <id>1527</id>
+    <revision>
+      <id>15148523</id>
+      <parentid>216920</parentid>
+      <timestamp>2022-07-14T18:00:24Z</timestamp>
+      <contributor>
+        <username>Roman, Alexej and Vładimir</username>
+        <id>47548</id>
+      </contributor>
+      <comment>нет тупиковой статьи</comment>
+      <origin>15148523</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="1824" sha1="as7wxo3wt34nlby26epyj306a3pjnp1" xml:space="preserve">{{:Дата|23 ноября 2005}}
+
+По данным [[Интернет-провайдер|интернет-провайдера]] [[Швейцария|швейцарской]] телекоммуникационной компании — IP-Plus, 21 ноября, примерно, в 16:00 ([[w:Центрально-европейское время|средне-европейское время]]) была предпринята мощная атака на интернет страницу поисковой машины [[Google|«Гугл»]] (Google). Атаке подверглись домены google.ch (швейцарский домен) и google.com.
+
+Один из интернет-пользователей машины «Гугл» запустил «[[w:DoS-атака|Denial-of-Service-Attack]]». Примерно, в 19:00 «Гугл» смог отразить атаку. Швейцарская страница «Гугл» — одна из самых посещаемых страниц [[w:интернет|интернет]]а в Швейцарии (более 1,5 миллионов посещений в месяц). «Гугл» имеет в распоряжении более 100&amp;nbsp;000 [[w:Сервер|серверов]]. Среди всех поисковых машин в Швейцарии «Гугл» принадлежит более 80 % рынка.
+
+== Источники ==
+{{Перевод|de|Google zum Ausfall am Montag: Technischer Hintergrund – Spekulationen über DDOS-Attacke bleiben|24 ноября 2005}}
+
+[[Категория:Google]]
+[[Категория:Швейцария]]
+[[Категория:Европа]]
+[[Категория:Интернет]]
+[[Категория:Хакерские атаки]]
+[[Категория:Опубликовано]]</text>
+      <sha1>as7wxo3wt34nlby26epyj306a3pjnp1</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Ограничения на закупку российских космических технологий сняты</title>
+    <ns>0</ns>
+    <id>1531</id>
+    <revision>
+      <id>16764845</id>
+      <parentid>15383552</parentid>
+      <timestamp>2025-04-27T11:56:30Z</timestamp>
+      <contributor>
+        <username>InternetArchiveBot</username>
+        <id>37639</id>
+      </contributor>
+      <comment>Rescuing 0 sources and tagging 1 as dead.) #IABot (v2.0.9.5</comment>
+      <origin>16764845</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="4398" sha1="j2da5brhmgfsyh16q80uhnx89s2g01b" xml:space="preserve">{{Дата|23 ноября 2005}}
+{{Космонавтика}}
+[[Файл:President_George_W._Bush_discussing_Social_Security.jpg|thumb|200px|слева|Джордж Буш]]
+[[w:Президент США|Президент США]] [[Джордж Буш]] подписал, одобренные [[w:Конгресс США|Конгрессом США]], поправки к закону о нераспространении в отношении [[Иран]]а. Этот закон не позволял [[НАСА]] платить [[Россия|России]] за доставку американских [[w:Астронавт|астронавтов]] на [[w:Международная космическая станция|МКС]] и поддержку МКС в рабочем состоянии. Хотя, львиную долю затрат по строительству МКС несла Америка, но после катастрофы [[w:Колумбия (шаттл)|«Колумбии»]] 1 февраля 2003 года и не очень обнадёживающего полёта [[w:Дискавери STS-114|«Дискавери STS-114»]] в июле этого года, американцы не имеют своих собственных средств по доставки астронавтов на станцию и её обслуживания. Фактически, американцы были вынуждены снять установленные ранее ограничения на сотрудничество с России в космической области. Эти ограничения против России были введены США в ответ на продолжающееся сотрудничество России с Ираном в области ракетостроения и ядерной энергетики.
+
+Теперь НАСА имеет возможность оплачивать услуги России и договариваться о каких-то взаимно приемлемых компенсациях по программе МКС. Россия, в частности, заинтересована в возможности использования энергии солнечных батарей американского сектора МКС. НАСА уже забронировала места на Российских [[w:Союз (КК)|«Союзах»]], для полётов на МКС в марте и в октябре 2006 года.
+
+Это решение также может и способствовать дальнейшему расширения американо-российскому сотрудничеству в исследовании космоса, в том числе и участия России в американских планах возобновления полётов на [[w:Луна|Луну]]. Правда, всё придётся делать с оглядкой. Не возобновят ли американцы ограничения на сотрудничество с Россией, когда к 2012 году они построят свой новый пилотируемый исследовательский корабль (Crew Exploration Vehicl)?
+
+== См. также ==
+[[Сенат США снял ограничения на сотрудничество с Россией в деле строительства и эксплуатации МКС]]
+
+== Ссылки ==
+* [http://www.whitehouse.gov/news/releases/2005/11/20051122-3.html Страница Белого Дома США (англ.)]{{Недоступная ссылка|date=апреля 2025 |bot=InternetArchiveBot |fix-attempted=yes }}
+
+[[Категория:Космонавтика]]
+[[Категория:МКС]]
+[[Категория:Политика США]]
+[[Категория:Джордж Буш (1946)]]
+[[Категория:Опубликовано]]
+[[Категория:Солнечная энергетика]]
+[[Категория:Пилотируемые космические полёты]]
+[[Категория:Космос]]
+[[Категория:Ядерные технологии]]
+[[Категория:NASA]]
+[[Категория:STS-114]]
+[[Категория:Россия в ноябре 2005 года]]</text>
+      <sha1>j2da5brhmgfsyh16q80uhnx89s2g01b</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Рейтинг футбольных сборных</title>
+    <ns>0</ns>
+    <id>1532</id>
+    <revision>
+      <id>16611684</id>
+      <parentid>16551946</parentid>
+      <timestamp>2023-07-09T17:56:34Z</timestamp>
+      <contributor>
+        <username>InternetArchiveBot</username>
+        <id>37639</id>
+      </contributor>
+      <comment>Rescuing 1 sources and tagging 0 as dead.) #IABot (v2.0.9.5</comment>
+      <origin>16611684</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="5411" sha1="t656xue9ifs62l0lhro239zxpdjm3tk" xml:space="preserve">{{дата|23 ноября 2005}}
+{{футбол}}
+Международная федерация футбола опубликовала новый рейтинг футбольных сборных.
+Сборная [[w:Сборная России по футболу|России]] после неудачи в отборочных играх к чемпионату мира потеряла четыре позиции и занимает 34-е место в списке. Теперь Россия стоит перед Марокко, но за Египтом, Саудовской Аравией, Парагваем, Сенегалом, Южной Кореей и т. д.
+
+Первое место по-прежнему занимает сборная Бразилии, а на второе место, опередив Нидерланды, поднялась команда Чехии.
+
+'''Рейтинг список ФИФА (ноябрь 2005) '''
+
+{|border=&quot;2&quot; cellpadding=&quot;4&quot; cellspacing=&quot;0&quot; style=&quot;margin: 1em 1em 1em 0; background: #f9f9f9; border: 1px #aaa solid; border-collapse: collapse; font-size: 95%;&quot;
+|-
+!Место
+! Страна
+!
+!Очки
+|-
+!1(1)
+|[[w:Сборная Бразилии по футболу|Бразилия]]
+|[[Файл:Flag of Brazil.svg|30px]]
+|841
+|-
+!2(3)
+|Чехия
+|[[Файл:Flag of the Czech Republic.svg|30px]]
+|796
+|-
+!3(2)
+|Нидероланды
+|[[Файл:Flag of the Netherlands.svg|30px]]
+|791
+|-
+!4(4)
+|Аргентина
+|[[Файл:Flag of Argentina.svg|30px]]
+|774
+|-
+!5(5)
+|Франция
+|[[Файл:Flag of France.svg|30px]]
+|772
+|-
+!6(8)
+|Испания
+|[[Файл:Flag of Spain.svg|30px]]
+|771
+|-
+!7(6)
+|Мексика
+|[[Файл:Flag of Mexico.svg|30px]]
+|768
+|-
+!8(7)
+|США
+|[[Файл:Flag of the United States.svg|30px]]
+|766
+|-
+!9(9)
+|Англия
+|[[Файл:Flag of England.svg|30px]]
+|757
+|-
+!10(10)
+|Португалия
+|[[Файл:Flag of Portugal.svg|30px]]
+|754
+|-
+!11(11)
+|Турция
+|[[Файл:Flag of Turkey.svg|30px]]
+|749
+|-
+!12(12)
+|Италия
+|[[Файл:Flag of Italy.svg|30px]]
+|741
+|-
+!13(14)
+|Дания
+|[[Файл:Flag of Denmark.svg|30px]]
+|732
+|-
+!14(13)
+|Швеция
+|[[Файл:Flag of Sweden.svg|30px]]
+|731
+|-
+!15(16)
+|Япония
+|[[Файл:Flag of Japan.svg|30px]]
+|713
+|-
+!16(15)
+|Германия
+|[[Файл:Flag of Germany.svg|30px]]
+|710
+|-
+!17(18)
+|Греция
+|[[Файл:Flag of Greece.svg|30px]]
+|708
+|-
+!18(17)
+|Уругвай
+|[[Файл:Flag of Uruguay.svg|30px]]
+|706
+|-
+!19(21)
+|Иран
+|[[Файл:Flag of Iran.svg|30px]]
+|702
+|-
+!20(19)
+|Хорватия
+|[[Файл:Flag of Croatia.svg|30px]]
+|701
+|-
+!21(20)
+|Коста-Рика
+|[[Файл:Flag of Costa Rica.svg|30px]]
+|699
+|-
+!22(23)
+|Камерун
+|[[Файл:Flag of Cameroon.svg|30px]]
+|697
+|-
+!23(21)
+|Ирландия
+|[[Файл:Flag of Ireland.svg|30px]]
+|696
+|-
+!23(23)
+|Польша
+|[[Файл:Flag of Poland.svg|30px]]
+|696
+|-
+!25(23)
+|Колумбия
+|[[Файл:Flag of Colombia.svg|30px]]
+|692
+|-
+!25(24)
+|Нигерия
+|[[Файл:Flag of Nigeria.svg|30px]]
+|692
+|-
+!27(28)
+|Румыния
+|[[Файл:Flag of Romania.svg|30px]]
+|686
+|-
+!28(27)
+|Тунис
+|[[Файл:Flag of Croatia.svg|30px]]
+|683
+|-
+!29(29)
+|Южная Корея
+|[[Файл:Flag of South Korea.svg|30px]]
+|682
+|-
+!30(34)
+|Сенегал
+|[[Файл:Flag of Senegal.svg|30px]]
+|672
+|-
+!30(33)
+|Парагвай
+|[[Файл:Flag of Paraguay.svg|30px]]
+|672
+|-
+!32(31)
+|Саудовская Аравия
+|[[Файл:Flag of Saudi Arabia.svg|30px]]
+|669
+|-
+!33(32)
+|Египет
+|[[Файл:Flag of Egypt.svg|30px]]
+|663
+|-
+!34(30)
+|Россия
+|[[Файл:Flag of Russia.svg|30px]]
+|662
+|-
+!35(35)
+|Марокко
+|[[Файл:Flag of Morocco.svg|30px]]
+|655
+|-
+!36(38)
+|Швейцария
+|[[Файл:Flag of Switzerland.svg|30px]]
+|654
+|-
+!37(36)
+|Эквадор
+|[[Файл:Flag of Ecuador.svg|30px]]
+|650
+|-
+!38(37)
+|Норвегия
+|[[Файл:Flag of Norway.svg|30px]]
+|649
+|-
+!39(46)
+|Болгария
+|[[Файл:Flag of Bulgaria.svg|30px]]
+|638
+|-
+!40(39)
+|[[w:Сборная Украины по футболу|Украина]]
+|[[Файл:Flag of Ukraine.svg|30px]]
+|627
+|}
+
+Бывшие республики Советского Союза занимают следующие места: 58 Узбекистан (578 очков), 59-60 Белоруссия (573), 70 Латвия (552), 77 Эстония (541), 98 Литва (465), 100 Грузия (462), 108 Молдавия (441), 110 Армения (430), 112 Туркмения (401), 113 Азербайджан (400), 139 Казахстан (315), 141 Таджикистан (309), 153 Киргизия (245).
+
+== Ссылки ==
+* [http://www.fifa.com/en/index.html Страница ФИФА (англ.)] {{Wayback|url=http://www.fifa.com/en/index.html |date=20060701031630 }}
+
+[[Категория:Футбол]]
+[[Категория:Рейтинг ФИФА]]
+[[Категория:Опубликовано]]
+[[Категория:Сборная Испании по футболу]]
+[[Категория:Сборная Японии по футболу]]
+[[Категория:Сборная России по футболу]]
+[[Категория:Сборная Украины по футболу]]
+[[Категория:Спорт]]
+[[Категория:Россия в ноябре 2005 года]]
+[[Категория:Украина в ноябре 2005 года]]</text>
+      <sha1>t656xue9ifs62l0lhro239zxpdjm3tk</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Блэр угрожает судом газете</title>
+    <ns>0</ns>
+    <id>1537</id>
+    <revision>
+      <id>9679578</id>
+      <parentid>321819</parentid>
+      <timestamp>2021-02-09T20:48:10Z</timestamp>
+      <contributor>
+        <username>Александр Миронов 1954</username>
+        <id>37953</id>
+      </contributor>
+      <minor />
+      <comment>removed [[Category:Джордж Уокер Буш]]; added [[Category:Джордж Буш (1946)]] using [[Help:Gadget-HotCat|HotCat]]</comment>
+      <origin>9679578</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="4017" sha1="ir09tiojqrcli64fsqcu9vc23hkj65t" xml:space="preserve">{{Дата|24 ноября 2005}}
+{{Великобритания}}
+[[w:Великобритания |Британская]] бульварная газета «The Daily Mirror» опубликовала вчера, что [[w:Блэр, Тони|Тони Блэр]] в доверительном телефонном разговоре с [[w:Буш, Джордж Уокер|Джорджем Бушем]] предложил разбомбить передающие центры арабской телевизионной компании «Аль-Джазира». Правда, при этом оговаривается, что это высказывание могло быть шуткой.
+
+Генеральный прокурор Лорд Голдсмит (Goldsmith) вмешался и запретил дальнейшее опубликование деталей из этого телефонного разговора, в противном случае будут предприняты шаги, предусмотренные законом. 
+
+Джереми Дер (Jeremy Dear), секретарь национального союза журналистов, заявил: «Это  попытка силой закрыть дверь после того, как лошади уже убежали. Это против принципов свободы прессы и свободы информации». Джереми Дер продолжал: «Это попытки запретить неудобные публикации в газете, которая только выполняет свои обязанности — информировать британское общество. Нам нужно свободное и открытое обсуждение и политический диалог по важным проблемам, но не паническая реакция типа коленного рефлекса».
+
+Британское правительство и прежде добивалось судебных запретов на публикации, но дела против газет, за публикацию, просочившихся в прессу, секретных документов,  никогда не доходили до суда.
+
+Бывший британский министр обороны Питер Килфойл (Peter Kilfoyle) считает, что должен быть опубликован полный текст разговора. «Я полагаю, что Даунинг-стрит должна опубликовать весь разговор в интересах прозрачности, так как большая часть деталей, кажется, доступны общественности». 
+
+Два британских служащих были обвинены в нарушении закона о сохранении тайны, за то, что они в мае 2004 года передали запись телефонного разговора члену Британского парламента — лейбористу Тони Кларку (Tony Clark).
+
+«Аль-Джазира» требует разъяснений по этому поводу, так как её студии были действительно поражены американскими бомбами. Правительство {{W|США}} принесло за это извинения, но, после публикации, дело выглядит несколько иначе.
+
+== Источники ==
+{{Перевод|en|Further details about Bush-Blair memo stopped|November 24, 2005}}{{Перевод|de|Blair droht Medien rechtliche Schritte an|November 24, 2005}}
+
+[[Категория:Великобритания]]
+[[Категория:Al Jazeera]]
+[[Категория:Джордж Буш (1946)]]
+[[Категория:Тони Блэр]]
+{{публиковать}}</text>
+      <sha1>ir09tiojqrcli64fsqcu9vc23hkj65t</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Скончался Джордж Бест</title>
+    <ns>0</ns>
+    <id>1543</id>
+    <revision>
+      <id>691124</id>
+      <parentid>349605</parentid>
+      <timestamp>2018-11-25T20:59:32Z</timestamp>
+      <contributor>
+        <username>Schekinov Alexey Victorovich</username>
+        <id>2156</id>
+      </contributor>
+      <origin>691124</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="5406" sha1="23w8sm2ibm0ynufpq8cpsijfwmzz20n" xml:space="preserve">{{:Дата|25 ноября 2005}}
+{{Северная Ирландия}}
+Сегодня в клинике Кромвеля в Лондоне, в возрасте 59 лет,  скончался великий британский футболист Джордж Бест.
+
+Бест был нападающим и играл с 1963 по 1975 годы под номером «7» на футболке за известный английский клуб «Манчестер Юнайтед». Всего он провел 361 игр за Манчестер и забил 136 голов. 
+{{Фото|Nederland tegen Noord Ierland George Best , kop, Bestanddeelnr 928-8290.jpg|228px|Джордж Бест (1976)}}
+
+Бест, под давлением руководства, из-за злоупотребления [[w:Алкоголь|алкоголем]], был вынужден покинуть «Манчестер Юнайтед» в 1975 году. Часто случалось, что Бест появлялся на тренировках пьяным. «К сожалению, его стиль жизни подходит скорее поп-звезде, а не футболисту». 
+
+В 37 матчах Бест играл за сборную Северной Ирландии и забил 9 голов. К сожалению, сборная Северной Ирландии не была командой достаточного класса, поэтому на уровне сборных, Бест не имел ни каких достижений. 
+
+Однажды Джордж Бест играл в [[w:Москва|Москве]]. Это произошло 22 сентября 1971 года на Центральном стадионе им. В.И. Ленина в Лужниках. Это был отборочный матч к чемпионату [[w:Европа|Европы]]: СССР — Северная Ирландия. Победила команда СССР — 1:0.
+
+После ухода из Манчестера, Беста, по молчаливому согласию всех британских тренеров, не брали ни в одну сильную команду. Бест продолжал играть до 1983 года во второстепенных английских и американских клубах. 
+
+В 1968 году Бест был назван лучшим футболистом Европы и получил приз — [[w:Золотой мяч (футбольная награда)| «Золотой мяч»]].
+
+После окончания карьеры футболиста, Бест оставался непредсказуемым и продолжал злоупотреблять алкоголем. Это сильно подорвало его здоровье, и в 2000 году ему была пересажена донорская [[w:Печень человека |печень]], так как его собственная печень была полностью разрушена алкоголем. Тем не менее, он продолжал увлекаться алкоголем. В 2004 году за управление автомобилем в не трезвом состоянии, он был лишен автомобильных прав на 20 месяцев. 
+
+Вследствие неумеренного злоупотребления алкоголем, иммунная система Беста была сильно ослаблена. В октябре 2005 года у Беста произошло внутреннее кровоизлияние и воспаление лёгких. Он был доставлен в одну из лучших больниц Лондона. Врачи боролись за его жизнь, но сделать было уже ничего не возможно. Джордж Бест умер 25 ноября 2005 года из многочисленных отказов органов.
+
+Известно высказывание Беста, которое характеризует его стиль жизни: «Очень много моих денег я потратил на алкоголь, женщин и быстрые автомобили. Остатки я просто растранжирил».
+
+== Ссылки ==
+* [[w:de:George Best]]
+* [[w:en:George Best]]
+
+[[Категория:Великобритания]]
+[[Категория:Футбол]]
+[[Категория:Некрологи]]
+[[Категория:Северная Ирландия]]
+[[Категория:Опубликовано]]
+[[Категория:Футбол в Северной Ирландии]]
+[[Категория:Футбол в Великобритании]]
+[[Категория:Спорт]]
+[[Категория:Спорт в Северной Ирландии]]
+[[Категория:Спорт в Великобритании]]
+[[Категория:Манчестер Юнайтед]]
+[[Категория:Джордж Бест]]
+[[Категория:Спорт в Англии]]
+[[Категория:Умершие в 2005 году]]
+[[Категория:Умершие 25 ноября]]
+[[Категория:Умершие в Лондоне]]
+[[Категория:Умершие в Великобритании]]</text>
+      <sha1>23w8sm2ibm0ynufpq8cpsijfwmzz20n</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Кубок мира по шахматам 2005</title>
+    <ns>0</ns>
+    <id>1546</id>
+    <revision>
+      <id>16606103</id>
+      <parentid>16551648</parentid>
+      <timestamp>2023-06-29T15:48:28Z</timestamp>
+      <contributor>
+        <username>InternetArchiveBot</username>
+        <id>37639</id>
+      </contributor>
+      <comment>Rescuing 1 sources and tagging 0 as dead.) #IABot (v2.0.9.5</comment>
+      <origin>16606103</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="58644" sha1="dap2iap1yixavsjvym71h3m3m1uxeb6" xml:space="preserve">{{Дата|26 ноября 2005}} {{спорт}}
+
+С 26 ноября по 17 декабря в [[w:Ханты-Мансийск|Ханты-Мансийске]] будет проходить Кубок мира по шахматам
+
+Этот турнир проводится вместо прежних нокаут-чемпионатов мира [[w:ФИДЕ|ФИДЕ]]. Последний нокаут-чемпионат состоялся летом 2004 года в {{w|Триполи}}, в одном из самых жарких мест на планете. На этот раз шахматисты играют зимой в Ханты-Мансийске, где средняя температура декабря около −20°.
+
+Последний нокаут-чемпионат выиграл [[w:Касымджанов, Рустам|Рустам Касымджанов]] ({{w|Узбекистан}}). Он, очевидно, останется последним нокаут-чемпионом мира. С этого года ФИДЕ сменила формулу чемпионатов мира. Предстоящий Кубок мира будет одним из отборочных этапов к матч-турниру на первенство мира, который намечено провести осенью 2007 года в точно таком же формате, как прошедший недавно турнир в аргентинском [[w:Сан Луис|Сан-Луисе]]. Шахматисты занявшие первые десять мест на Кубке мира получат право играть в матчах претендентов осенью 2006 года. К матчам претендентов будут допущены 16 шахматистов: Рустам Касымджанов, как чемпион мира ФИДЕ 2004 года, пять шахматистов имеющих наивысший средний рейтинг на 1 июля 2004 и 1 января 2005 года и десять первых по итогам Кубка мира. Эти 16 шахматистов будут играть матчи с выбыванием. Четыре победителя этих матчей плюс четыре первых из турнира в Сан-Луисе ([[w:Топалов, Веселин|Топалов]], [[w:Ананд, Вишванатан|Ананд]], [[w:Свидлер, Пётр Вениаминович|Свидлер]] и [[w:Морозевич, Александр|Морозевич]]) будут играть матч-турнир на первенство мира в 2007 году.
+
+В Кубке мира в Ханты-Мансийске принимают участие 128 шахматистов из 48 стран. Среди них 23 шахматиста из России, 10 из Украины, 9 зи Китая, 8 из США.
+  
+= Положение о Кубке мира =
+Кубок мира разыгрывается в 7 раундов матчей из двух партий. Победитель каждого матча проходит в следующий раунд. Начиная с 4-го раунда, участники будут играть до определения всех мест с 1-ог по 16-е.
+
+* в первом раунде играют 128 участников
+* во втором — 64
+* в третьем — 32
+* в четвёртом — 16
+* в пятом — 16
+* в шестом — 16
+* в седьмом — 16
+Участники, занявшие первые десять мест, будут допущены к участию в матчах претендентов к следующему чемпионату мира по шахматам.
+
+== Календарь Кубка мира ==
+* Открытие турнира — 26 ноября
+* Первый раунд — 27 и 28 ноября
+** Дополнительные партии после первого раунда — 29 ноября
+* Второй раунд — 30 ноября и 1 декабря
+** Дополнительные партии после второго раунда — 2 декабря
+* Третий раунд — 3 и 4 декабря
+** Дополнительные партии после третьего раунда — 5 декабря
+* Четвёртый раунд — 6 и 7 декабря
+** Дополнительные партии после четвёртого раунда — 8 декабря
+* Пятый раунд — 9 и 10 декабря
+** Дополнительные партии после пятого раунда — 11 декабря
+* Шестой раунд — 12 и 13 декабря
+** Дополнительные партии после шестого раунда — 14 декабря
+* Седьмой раунд — 15 и 16 декабря
+** Дополнительные партии после седьмого раунда — 17 декабря
+* Закрытие турнира — 17 декабря
+
+== Распределение игроков по парам ==
+Все участники Кубка мира начинают с первого раунда.
+Все участники распределяются согласно их рейтингов.
+В первом раунде играют участник № 1 с участником № 128, участник № 2 с участником № 127 и т. д.
+В раундах 2 — 4 распределение точно такое же, как и в первом раунде. Если игрок с более низки рейтингов выигрывает у игрока с большим рейтингом, то игрок с меньшим рейтингом остаётся в турнирной сетке на месте игрока с большим рейтингом, которого он обыграл.
+В пятом раунде, для победивших в четвёртом раунде участников, процедура распределении по парам остаётся такой же, как и в предыдущих раундах. Эти участники будут разыгрывать места с 1-го по 8-е. Участники, проигравшие в четвёртом раунде, будут распределены по парам согласно их рейтингам. Эти участники будут разыгрывать места с 9-го по 16-е.
+В шестом раунде распределение по парам осуществляется так же, как и пятом раунде. Победители в матчах за 1— 8 места будут бороться далее за 1 — 4 места, а проигравшие — за 5 — 8 места. Победители в матчах за 9 — 16 места будут бороться далее за 9 — 12 места, а проигравшие — за 13 — 16 места.
+В седьмом раунде повторяется аналогичная процедура распределения.
+
+== Определение цвета ==
+В каждом матче играется по две партии — одна белым цветом, другая — чёрным.
+Перед первым раундом, для игрока с наивысшим рейтингом, цвет будет выбран с помощью жребия. Участник, имеющий второй рейтинг, будет играть в первой партии цветом — противоположным тому, который имеет в первой партии участник с наивысшим рейтингом и т. д. То есть, все участники, имеющие в списке нечётные номера, в первой партии играют таким же цветом, который достался участнику с наивысшим рейтингом. Все участники с чётными номерами — играют в первой партии противоположным цветом.
+В следующих раундах цвет в первой партии меняется на противоположный. Если побеждает участник с меньшим рейтингом, то он перенимает цвет участника, которого он победил.
+Для раундов 5 —7, для победителей матчей, процедура повторяется. Для проигравших, если в следующем раунде возникает противоречие в определении цвета, проводится жеребьёвка.
+Перед каждым дополнительным матчем — цвет определяется жребием.
+
+== Контроль времени ==
+90 минут на первые 40 ходов, далее 15 минут до конца партии с добавлением 30 секунд за каждый ход, начиная с первого.
+
+== Определение победителя ==
+Каждый матч играется из двух партий. Победитель матча — участник первым набравшиё 1½ ли более очков. Если матч из двух партий закончился вничью, то играются две дополнительные партии в быстрые шахматы — 25 минут каждому плюс 10 секунд за каждый сделанный ход.
+Если дополнительный матч закончился вничью, то играется одна партия на условиях — «внезапная смерть». Проводится жеребьёвка. Участник, на которого выпал жребий, выбирает цвет. Белые получают 6 минут, чёрные — 5 минут. При ничье, победителем считается участник имевший чёрный цвет.
+
+== Призовой фонд турнира ==
+* Проигравшие в первом раунде (64 участника) — по $6.000 (64х6000= 384.000)
+* Проигравшие во втором раунде (32 участника) — по $9.000 (32х9000= 288.000)
+* Проигравшие в третьем раунде (16 участников) — по $14.000 (16х14000= 224.000)
+* 16-е место — $21.000
+* 15-е место — $23.000
+* 14-е место — $25.000
+* 13-е место — $27.000
+* 12-е место — $29.000
+* 11-е место — $31.000
+* 10-е место — $33.000
+* 9-е место — $35.000
+* 8-е место — $39.000
+* 7-е место — $42.000
+* 6-е место — $45.000
+* 5-е место — $48.000
+* 4-е место — $52.000
+* 3-е место — $56.000
+* 2-е место — $70.000
+* 1-е место — $100.000
+Всего — $1.572.000
+
+= Участники Кубка мира =
+
+{|border=&quot;2&quot; cellpadding=&quot;4&quot; cellspacing=&quot;0&quot; style=&quot;margin: 1em 1em 1em 0; background: #f9f9ff; border: 1px #aaa solid; border-collapse: collapse; font-size: 95%;&quot;
+|-
+! №
+! Участник
+! Звание
+! Страна
+! Рейтинг
+|-
+! 1
+|Василий Иванчук
+|г
+|[[Файл:Flag of Ukraine.svg|30px]] Украина
+|2748
+|-
+|2
+|Этьенн Бакро
+|г
+|[[Файл:Flag of France.svg|30px]] Франция
+|2725
+|-
+|3
+|Левон Аронян
+|г
+|[[Файл:Flag of Armenia.svg|30px]] Армения
+|2724
+|-
+|4
+|Александр Грищук
+|г
+|[[Файл:Flag of Russia.svg|30px]] Россия
+|2720
+|-
+|5
+|Борис Гельфанд
+|г
+|[[Файл:Flag of Israel.svg|30px]] Израиль
+|2717
+|-
+|6
+|Алексей Широв
+|г
+|[[Файл:Flag of Spain.svg|30px]] Испания
+|2710
+|-
+|7
+|Владимир Акопян
+|г
+|[[Файл:Flag of Armenia.svg|30px]] Армения
+|2707
+|-
+|8
+|Теймур Раджабов
+|г
+|[[Файл:Flag of Azerbaijan.svg|30px]] Азербайджан
+|2704
+|-
+|9
+|Руслан Пономарёв
+|г
+|[[Файл:Flag of Ukraine.svg|30px]] Украина
+|2704
+|-
+|10
+|Сергей Тивяков
+|г
+|[[Файл:Flag of the Netherlands.svg|30px]] Нидерланды
+|2699
+|-
+|11
+|Иван Соколов
+|г
+|[[Файл:Flag of the Netherlands.svg|30px]] Нидерланды
+|2696
+|-
+|12
+|Алексей Дреев
+|г
+|[[Файл:Flag of Russia.svg|30px]] Россия
+|2694
+|-
+|13
+|Гата Камский
+|г
+|[[Файл:Flag of the United States.svg|30px]] США
+|2690
+|-
+|14
+|Виорел Бологан
+|г
+|[[Файл:Flag of Moldova.svg|30px]] Молдавия
+|2682
+|-
+|15
+|Жоэль Лотье
+|г
+|[[Файл:Flag of France.svg|30px]] Франция
+|2679
+|-
+|16
+|Лазаро Брузон
+|г
+|[[Файл:Flag of Cuba.svg|30px]] Куба
+|2677
+|-
+|17
+|Евгений Бареев
+|г
+|[[Файл:Flag of Russia.svg|30px]] Россия
+|2675
+|-
+|18
+|Шахрияр Мамедьяров
+|г
+|[[Файл:Flag of Azerbaijan.svg|30px]] Азербайджан
+|2674
+|-
+|19
+|Франциско Вальехо Понс
+|г
+|[[Файл:Flag of Spain.svg|30px]] Испания
+|2674
+|-
+|20
+|Илья Смирин
+|г
+|[[Файл:Flag of Israel.svg|30px]] Израиль
+|2673
+|-
+|21
+|Пентала Харикришна
+|г
+|[[Файл:Flag of India.svg|30px]] Индия
+|2673
+|-
+|22
+|Владимир Малахов
+|г
+|[[Файл:Flag of Russia.svg|30px]] Россия
+|2670
+|-
+|23
+|Константин Сакаев
+|г
+|[[Файл:Flag of Russia.svg|30px]] Россия
+|2668
+|-
+|24
+|Андрей Волокитин
+|г
+|[[Файл:Flag of Ukraine.svg|30px]] Украина
+|2666
+|-
+|25
+|Александр Моисеенко
+|г
+|[[Файл:Flag of Ukraine.svg|30px]] Украина
+|2663
+|-
+|26
+|Кришнан Сасикиран
+|г
+|[[Файл:Flag of India.svg|30px]] Индия
+|2663
+|-
+|27
+|Павел Эльянов
+|г
+|[[Файл:Flag of Ukraine.svg|30px]] Украина
+|2663
+|-
+|28
+|Хикару Накамура
+|г
+|[[Файл:Flag of the United States.svg|30px]] США
+|2662
+|-
+|29
+|Вадим Звягинцев
+|г
+|[[Файл:Flag of Russia.svg|30px]] Россия
+|2659
+|-
+|30
+|Сергей Карякин
+|г
+|[[Файл:Flag of Ukraine.svg|30px]] Украина
+|2658
+|-
+|31
+|Артём Тимофеев
+|г
+|[[Файл:Flag of Russia.svg|30px]] Россия
+|2658
+|-
+|32
+|Зураб Азмай парашвили
+|г
+|[[Файл:Flag of Georgia.svg|30px]] Грузия
+|2658
+|-
+|33
+|Михаил Красенков
+|г
+|[[Файл:Flag of Poland.svg|30px]] Польша
+|2655
+|-
+|34
+|Эмиль Сутовский
+|г
+|[[Файл:Flag of Israel.svg|30px]] Израиль
+|2654
+|-
+|35
+|Александр Арещенко
+|г
+|[[Файл:Flag of Ukraine.svg|30px]] Украина
+|2653
+|-
+|36
+|Александр Халифман
+|г
+|[[Файл:Flag of Russia.svg|30px]] Россия
+|2653
+|-
+|37
+|Вадим Милов
+|г
+|[[Файл:Flag of Switzerland.svg|30px]] Швейцария
+|2652
+|-
+|38
+|Михаил Гуревич
+|г
+|[[Файл:Flag of Belgium.svg|30px]] Бельгия
+|2652
+|-
+|39
+|Сергей Рублевский
+|г
+|[[Файл:Flag of Russia.svg|30px]] Россия
+|2652
+|-
+|40
+|Люк Ван Вели
+|г
+|[[Файл:Flag of the Netherlands.svg|30px]] Нидерланды
+|2648
+|-
+|41
+|Цинхуан Е
+|г
+|[[Файл:Flag of the People's Republic of China.svg|30px]] Китай
+|2648
+|-
+|42
+|Звиад Изория
+|г
+|[[Файл:Flag of Georgia.svg|30px]] Грузия
+|2646
+|-
+|43
+|Давид Навара
+|г
+|[[Файл:Flag of the Czech Republic.svg|30px]] Чехия
+|2646
+|-
+|44
+|Джованни Вескови
+|г
+|[[Файл:Flag of Brazil.svg|30px]] Бразилия
+|2646
+|-
+|45
+|Карен Асрян
+|г
+|[[Файл:Flag of Armenia.svg|30px]] Армения
+|2645
+|-
+|46
+|Дмитрий Яковенко
+|г
+|[[Файл:Flag of Russia.svg|30px]] Россия
+|2644
+|-
+|47
+|Евгений Наер
+|г
+|[[Файл:Flag of Russia.svg|30px]] Россия
+|2641
+|-
+|48
+|Аркадий Найдич
+|г
+|[[Файл:Flag of Germany.svg|30px]] Германия
+|2641
+|-
+|49
+|Александр Онищук
+|г
+|[[Файл:Flag of the United States.svg|30px]] США
+|2640
+|-
+|50
+|Хулио Гранда
+|г
+|[[Файл:Flag of Peru.svg|30px]] Перу
+|2637
+|-
+|51
+|Захар Ефименко
+|г
+|[[Файл:Flag of Ukraine.svg|30px]] Украина
+|2637
+|-
+|52
+|Павел Смирнов
+|г
+|[[Файл:Flag of Russia.svg|30px]] Россия
+|2637
+|-
+|53
+|Сергей Мовсесян
+|г
+|[[Файл:Flag of Slovakia.svg|30px]] Словакия
+|2635
+|-
+|54
+|Михаил Кобалия
+|г
+|[[Файл:Flag of Russia.svg|30px]] Россия
+|2634
+|-
+|55
+|Евгений Мирошниченко
+|г
+|[[Файл:Flag of Ukraine.svg|30px]] Украина
+|2634
+|-
+|56
+|Александр Мотылёв
+|г
+|[[Файл:Flag of Russia.svg|30px]] Россия
+|2632
+|-
+|57
+|Евгений Алексеев
+|г
+|[[Файл:Flag of Russia.svg|30px]] Россия
+|2632
+|-
+|58
+|Александр Белявский
+|г
+|[[Файл:Flag of Slovenia.svg|30px]] Словения
+|2631
+|-
+|59
+|Василиос Котрониас
+|г
+|[[Файл:Flag of Greece.svg|30px]] Греция
+|2626
+|-
+|60
+|Рубен Фельгаер
+|г
+|[[Файл:Flag of Argentina.svg|30px]] Аргентина
+|2624
+|-
+|61
+|Андрей Истратеску
+|г
+|[[Файл:Flag of Romania.svg|30px]] Румыния
+|2622
+|-
+|62
+|Джильберто Милос
+|г
+|[[Файл:Flag of Brazil.svg|30px]] Бразилия
+|2620
+|-
+|63
+|Роберт Кемпинский
+|г
+|[[Файл:Flag of Poland.svg|30px]] Польша
+|2619
+|-
+|64
+|Иван Чепаринов
+|г
+|[[Файл:Flag of Bulgaria.svg|30px]] Болгария
+|2618
+|-
+|65
+|Алексей Фёдоров
+|г
+|[[Файл:Flag of Belarus.svg|30px]] Белоруссия
+|2616
+|-
+|66
+|Рафаэль Ваганян
+|г
+|[[Файл:Flag of Armenia.svg|30px]] Армения
+|2614
+|-
+|67
+|Дармен Садваквасов
+|г
+|[[Файл:Flag of Kazakhstan.svg|30px]] Казахстан
+|2612
+|-
+|68
+|Любомир Фтачник
+|г
+|[[Файл:Flag of Slovakia.svg|30px]] Словакия
+|2612
+|-
+|69
+|Георгий Кайданов
+|г
+|[[Файл:Flag of the United States.svg|30px]] США
+|2608
+|-
+|70
+|Хуа Ни
+|г
+|[[Файл:Flag of the People's Republic of China.svg|30px]] Китай
+|2603
+|-
+|71
+|Баадур Джобава
+|г
+|[[Файл:Flag of Georgia.svg|30px]] Грузия
+|2601
+|-
+|72
+|Муртаз Кажгалеев
+|г
+|[[Файл:Flag of Kazakhstan.svg|30px]] Казахстан
+|2601
+|-
+|73
+|Михаил Ройз
+|г
+|[[Файл:Flag of Israel.svg|30px]] Израиль
+|2600
+|-
+|74
+|Олег Корнеев
+|г
+|[[Файл:Flag of Russia.svg|30px]] Россия
+|2599
+|-
+|75
+|Чжанг Чжонг
+|г
+|[[Файл:Flag of the People's Republic of China.svg|30px]] Китай
+|2598
+|-
+|76
+|Марк Парагуа
+|г
+|[[Файл:Flag of the Philippines.svg|30px]] Филипины
+|2596
+|-
+|77
+|Дмитрий Бочаров
+|г
+|[[Файл:Flag of Russia.svg|30px]] Россия
+|2592
+|-
+|78
+|Бартоломей Мачея
+|г
+|[[Файл:Flag of Poland.svg|30px]] Польша
+|2591
+|-
+|79
+|Александр Иванов
+|г
+|[[Файл:Flag of the United States.svg|30px]] США
+|2589
+|-
+|80
+|Валерий Попов
+|г
+|[[Файл:Flag of Russia.svg|30px]] Россия
+|2588
+|-
+|81
+|Павел Кочур
+|г
+|[[Файл:Flag of Kazakhstan.svg|30px]] Казахстан
+|2587
+|-
+|82
+|Эхсан Гаем Магхами
+|г
+|[[Файл:Flag of Iran.svg|30px]] Иран
+|2586
+|-
+|83
+|Рафаэль Лейтао
+|г
+|[[Файл:Flag of Brazil.svg|30px]] Бразилия
+|2586
+|-
+|84
+|Ван Юй
+|г
+|[[Файл:Flag of the People's Republic of China.svg|30px]] Китай
+|2585
+|-
+|85
+|Утут Адианто
+|г
+|[[Файл:Flag of Indonesia.svg|30px]] Индонезия
+|2584
+|-
+|86
+|Предраг Николич
+|г
+|[[Файл:Flag of Bosnia and Herzegovina.svg|30px]] Босния и Герцеговина
+|2584
+|-
+|87
+|Сергей Эренбург
+|г
+|[[Файл:Flag of Israel.svg|30px]] Израиль
+|2582
+|-
+|88
+|Сюй Цзюнь
+|г
+|[[Файл:Flag of the People's Republic of China.svg|30px]] Китай
+|2582
+|-
+|89
+|Арташес Минасян
+|г
+|[[Файл:Flag of Armenia.svg|30px]] Армения
+|2581
+|-
+|90
+|Дао Тхиен Хай
+|г
+|[[Файл:Flag of Vietnam.svg|30px]] Вьетнам
+|2581
+|-
+|91
+|Роберт Маркус
+|г
+|[[Файл:Flag of Serbia and Montenegro; Flag of Yugoslavia (1992–2003).svg|30px]] Сербия и Черногория
+|2579
+|-
+|92
+|Леван Панцулая
+|г
+|[[Файл:Flag of Georgia.svg|30px]] Грузия
+|2578
+|-
+|93
+|Эрнесто Инаркиев
+|г
+|[[Файл:Flag of Russia.svg|30px]] Россия
+|2577
+|-
+|94
+|Александр Стрипунский
+|г
+|[[Файл:Flag of the United States.svg|30px]] США
+|2576
+|-
+|95
+|Хичем Хамдоучи
+|г
+|[[Файл:Flag of Morocco.svg|30px]] Марокко
+|2574
+|-
+|96
+|Фарух Аммонатов
+|г
+|[[Файл:Flag of Tajikistan.svg|30px]] Таджикистан
+|2572
+|-
+|97
+|Магнус Карлсен
+|г
+|[[Файл:Flag of Norway.svg|30px]] Норвегия
+|2570
+|-
+|98
+|Евгений Агрест
+|г
+|[[Файл:Flag of Sweden.svg|30px]] Швеция
+|2570
+|-
+|99
+|Шаба Балог
+|г
+|[[Файл:Flag of Hungary.svg|30px]] Венгрия
+|2567
+|-
+|100
+|Юрий Шульман
+|г
+|[[Файл:Flag of the United States.svg|30px]] США
+|2565
+|-
+|101
+|Суриа Секхар Гангули
+|г
+|[[Файл:Flag of India.svg|30px]] Индия
+|2562
+|-
+|102
+|Сергей Кудрин
+|г
+|[[Файл:Flag of the United States.svg|30px]] США
+|2551
+|-
+|103
+|Алексей Ильюшин
+|г
+|[[Файл:Flag of Russia.svg|30px]] Россия
+|2546
+|-
+|104
+|Юрий Кузубов
+|г
+|[[Файл:Flag of Ukraine.svg|30px]] Украина
+|2541
+|-
+|105
+|Чао Санг
+|г
+|[[Файл:Flag of Hungary.svg|30px]] Венгрия
+|2538
+|-
+|106
+|Густаво Лима
+|г
+|[[Файл:Flag of Brazil.svg|30px]] Бразилия
+|2529
+|-
+|107
+|Ван Хао
+|
+|[[Файл:Flag of the People's Republic of China.svg|30px]] Китай
+|2519
+|-
+|108
+|Юй Шаотен
+|г
+|[[Файл:Flag of the People's Republic of China.svg|30px]] Китай
+|2516
+|-
+|109
+|Вальтер Аренсиба
+|г
+|[[Файл:Flag of Cuba.svg|30px]] Куба
+|2510
+|-
+|110
+|Ли Шилун
+|г
+|[[Файл:Flag of the People's Republic of China.svg|30px]] Китай
+|2510
+|-
+|111
+|Нурлан Ибраев
+|м
+|[[Файл:Flag of Kazakhstan.svg|30px]] Казахстан
+|2508
+|-
+|112
+|Родриго Васкес
+|г
+|[[Файл:Flag of Chile.svg|30px]] Чили
+|2506
+|-
+|113
+|Николай Кабанов
+|м
+|[[Файл:Flag of Russia.svg|30px]] Россия
+|2506
+|-
+|114
+|Алексей Придорожный
+|м
+|[[Файл:Flag of Russia.svg|30px]] Россия
+|2506
+|-
+|115
+|Карлос Матаморос
+|г
+|[[Файл:Flag of Ecuador.svg|30px]] Эквадор
+|2501
+|-
+|116
+|Чжао Юнь
+|г
+|[[Файл:Flag of the People's Republic of China.svg|30px]] Китай
+|2500
+|-
+|117
+|Паскаль Шарбоно
+|м
+|[[Файл:Flag of Canada.svg|30px]] Канада
+|2500
+|-
+|118
+|Антоанета Стефанова
+|г
+|[[Файл:Flag of Bulgaria.svg|30px]] Болгария
+|2491
+|-
+|119
+|Слим Белходжа
+|г
+|[[Файл:Flag of Tunisia.svg|30px]] Тунис
+|2490
+|-
+|120
+|Ахмед Адли
+|г
+|[[Файл:Flag of Egypt.svg|30px]] Египет
+|2480
+|-
+|121
+|Диего Флорес
+|м
+|[[Файл:Flag of Argentina.svg|30px]] Аргентина
+|2479
+|-
+|122
+|Гэрри Лэйн
+|м
+|[[Файл:Flag of Australia.svg|30px]] Австралия
+|2445
+|-
+|123
+|Кирилл Кудеринов
+|ф
+|[[Файл:Flag of Kazakhstan.svg|30px]] Казахстан
+|2432
+|-
+|124
+|Вату Кобезе
+|м
+|[[Файл:Flag of South Africa.svg|30px]] ЮАР
+|2400
+|-
+|125
+|Гастон Недлемен
+|
+|[[Файл:Flag of Argentina.svg|30px]] Аргентина
+|2381
+|-
+|126
+|Али Фрхат
+|ф
+|[[Файл:Flag of Egypt.svg|30px]] Египет
+|2306
+|-
+|127
+|Стэнли Чумфва
+|
+|[[Файл:Flag of Zambia.svg|30px]] Замбия
+|2303
+|-
+|128
+|Александр Сибряев
+|ф
+|[[Файл:Flag of Russia.svg|30px]] Россия
+|2264
+|}
+
+г — гросмейстер, м — мастер, ф — мастер ФИДЕ
+
+= Результаты =
+
+== Первый раунд ==
+
+'''27 — 29 ноября'''
+{|border=&quot;2&quot; cellpadding=&quot;4&quot; cellspacing=&quot;0&quot; style=&quot;margin: 1em 1em 1em 0; background: #f0f0f6; border: 1px #aaa solid; border-collapse: collapse; font-size: 95%;&quot;
+|-
+! № матча
+! Участник
+! Счёт
+! Участник
+|-
+! 1
+|'''Василий Иванчук'''
+|style=&quot;color: red; text-align: center;&quot; width=&quot;50»|1:0,½:½
+|Александр Сибряев
+|-
+! 64
+|'''Иван Чепаринов'''
+|style=&quot;color: red; text-align: center;&quot; width=&quot;50»|½:½,½:½ (½:½, 1:0)
+|Алексей Фёдоров
+|-
+! 32
+|Зураб Азмайпарашвили
+|style=&quot;color: blue; text-align: center;&quot; width=&quot;50»|0:1,1:0 (0:1, 0:1)
+|'''Магнус Карлсен'''
+|-
+! 33
+|Михаил Красенков
+|style=&quot;color: blue; text-align: center;&quot; width=&quot;50»|½:½,½:½ (0:1, 0:1)
+|'''Фарух Аммонатов'''
+|-
+! 16
+|'''Лазаро Брузон '''
+|style=&quot;color: red; text-align: center;&quot; width=&quot;50»|1:0,0:1 (½:½,1:0)
+|Николай Кабанов
+|-
+! 49
+|'''Александр Онищук '''
+|style=&quot;color: red; text-align: center;&quot; width=&quot;50»|1:0,½:½
+|Валерий Попов
+|-
+! 17
+|'''Евгений Бареев '''
+|style=&quot;color: red; text-align: center;&quot; width=&quot;50»|1:0,½:½
+|Родриго Васкес
+|-
+! 48
+|'''Аркадий Найдич '''
+|style=&quot;color: red; text-align: center;&quot; width=&quot;50»|½:½,1:0
+|Павел Кочур
+|-
+! 8
+|'''Теймур Раджабов '''
+|style=&quot;color: red; text-align: center;&quot; width=&quot;50»|1:0, 1:0
+|Диего Флорес
+|-
+! 57
+|Евгений Алексеев
+|style=&quot;color: blue; text-align: center;&quot; width=&quot;50»|½:½,0:1
+|'''Муртаз Кажгалеев '''
+|-
+! 25
+|'''Александр Моисеенко '''
+|style=&quot;color: red; text-align: center;&quot; width=&quot;50»|1:0, 1:0
+|Юрий Кузубов
+|-
+! 40
+|'''Люк Ван Вели '''
+|style=&quot;color: red; text-align: center;&quot; width=&quot;50»|1:0, 1:0
+|Арташес Минасян
+|-
+! 9
+|'''Руслан Пономарёв '''
+|style=&quot;color: red; text-align: center;&quot; width=&quot;50»|½:½,1:0
+|Ахмед Адли
+|-
+! 56
+|'''Александр Мотылёв '''
+|style=&quot;color: red; text-align: center;&quot; width=&quot;50»|½:½,1:0
+|Михаил Ройз
+|-
+! 24
+|Андрей Волокитин
+|style=&quot;color: blue; text-align: center;&quot; width=&quot;50»|0:1,½:½
+|'''Чао Санг '''
+|-
+! 41
+|Цинхуан Е
+|style=&quot;color: blue; text-align: center;&quot; width=&quot;50»|0:1,½:½
+|'''Сюй Цзюнь '''
+|-
+! 4
+|'''Александр Грищук '''
+|style=&quot;color: red; text-align: center;&quot; width=&quot;50»|1:0, 1:0
+|Гастон Недлемен
+|-
+! 61
+|'''Андрей Истратеску '''
+|style=&quot;color: red; text-align: center;&quot; width=&quot;50»|½:½,½:½ (½:½, 1:0)
+|Любомир Фтачник
+|-
+! 29
+|Вадим Звягинцев
+|style=&quot;color: blue; text-align: center;&quot; width=&quot;50»|½:½,½:½ (½:½, ½:½) (½:½, ½:½) (½:½)
+|'''Юрий Шульман '''
+|-
+! 36
+|'''Александр Халифман '''
+|style=&quot;color: red; text-align: center;&quot; width=&quot;50»|½:½,½:½ (½:½, 1:0)
+|Эрнесто Инаркиев
+|-
+! 13
+|'''Гата Камский '''
+|style=&quot;color: red; text-align: center;&quot; width=&quot;50»|1:0,½:½
+|Чжао Юнь
+|-
+! 52
+|Павел Смирнов
+|style=&quot;color: blue; text-align: center;&quot; width=&quot;50»|0:1,½:½
+|'''Дмитрий Бочаров '''
+|-
+! 20
+|'''Илья Смирин '''
+|style=&quot;color: red; text-align: center;&quot; width=&quot;50»|½:½,½:½ (½:½, 1:0)
+|Вальтер Аренсиба
+|-
+! 45
+|Карен Асрян
+|style=&quot;color: blue; text-align: center;&quot; width=&quot;50»|½:½,0:1
+|'''Ванг Ю '''
+|-
+! 5
+|'''Борис Гельфанд '''
+|style=&quot;color: red; text-align: center;&quot; width=&quot;50»|1:0, 1:0
+|Вату Кобезе
+|-
+! 60
+|'''Рубен Фельгаер '''
+|style=&quot;color: red; text-align: center;&quot; width=&quot;50»|½:½,1:0
+|Георгий Кайданов
+|-
+! 28
+|Хикару Накамура
+|style=&quot;color: blue; text-align: center;&quot; width=&quot;50»|0:1, 0:1
+|'''Секхар Гангули '''
+|-
+! 37
+|Вадим Милов
+|style=&quot;color: blue; text-align: center;&quot; width=&quot;50»|0:1, ½:½
+|'''Леван Панцулая '''
+|-
+! 12
+|'''Алексей Дреев '''
+|style=&quot;color: red; text-align: center;&quot; width=&quot;50»|1:0, 1:0
+|Паскаль Шарбонно
+|-
+! 53
+|Сергей Мовсесян
+|style=&quot;color: blue; text-align: center;&quot; width=&quot;50»|½:½,0:1
+|'''Марк Парагуа '''
+|-
+! 21
+|'''Пентала Харикришна '''
+|style=&quot;color: red; text-align: center;&quot; width=&quot;50»|½:½,½:½ (1:0, 1:0)
+|Юй Шаотен
+|-
+! 44
+|'''Джованни Вескови '''
+|style=&quot;color: red; text-align: center;&quot; width=&quot;50»|1:0,½:½
+|Утут Адианто
+|-
+! 3
+|'''Левон Аронян '''
+|style=&quot;color: red; text-align: center;&quot; width=&quot;50»|1:0, 1:0
+|Али Фрхат
+|-
+! 62
+|Джильберто Милос
+|style=&quot;color: blue; text-align: center;&quot; width=&quot;50»|0:1, ½:½
+|'''Дармен Садваквасов '''
+|-
+! 30
+|Сергей Карякин
+|style=&quot;color: blue; text-align: center;&quot; width=&quot;50»|½:½,½:½ (0:1, ½:½)
+|'''Шаба Балог '''
+|-
+! 35
+|'''Александр Арещенко '''
+|style=&quot;color: red; text-align: center;&quot; width=&quot;50»|1:0, 1:0
+|Александр Стрипунский
+|-
+! 14
+|'''Виорел Бологан'''
+|style=&quot;color: red; text-align: center;&quot; width=&quot;50»|1:0, 1:0
+|Карлос Матаморос
+|-
+! 51
+|'''Захар Ефименко '''
+|style=&quot;color: red; text-align: center;&quot; width=&quot;50»|½:½,½:½ (1:0, 1:0)
+|Бартоломей Мачея
+|-
+! 19
+|'''Вальехо Понс '''
+|style=&quot;color: red; text-align: center;&quot; width=&quot;50»|0:1, 1:0 (1:0, 1:0)
+|Ли Шилун
+|-
+! 46
+|Дмитрий Яковенко
+|style=&quot;color: blue; text-align: center;&quot; width=&quot;50»|½:½,½:½ (½:½, 0:1)
+|'''Рафаэль Лейтао'''
+|-
+! 6
+|'''Алексей Широв '''
+|style=&quot;color: red; text-align: center;&quot; width=&quot;50»|½:½,1:0
+|Кирилл Кудеринов
+|-
+! 59
+|'''Василиос Котрониас '''
+|style=&quot;color: red; text-align: center;&quot; width=&quot;50»|1:0,½:½
+|Хуа Ни
+|-
+! 27
+|'''Павел Эльянов '''
+|style=&quot;color: red; text-align: center;&quot; width=&quot;50»|1:0, 0:1 (1:0, ½:½)
+|Сергей Кудрин
+|-
+! 38
+|'''Михаил Гуревич '''
+|style=&quot;color: red; text-align: center;&quot; width=&quot;50»|½:½,½:½ (1:0, ½:½)
+|Роберт Маркус
+|-
+! 11
+|'''Иван Соколов '''
+|style=&quot;color: red; text-align: center;&quot; width=&quot;50»|1:0,½:½
+|Антуанета Стефанова
+|-
+! 54
+|Михаил Кобалия
+|style=&quot;color: blue; text-align: center;&quot; width=&quot;50»|½:½,½:½ (0:1, ½:½)
+|'''Чжанг Чжонг '''
+|-
+! 22
+|'''Владимир Малахов '''
+|style=&quot;color: red; text-align: center;&quot; width=&quot;50»|½:½,1:0
+|Ван Хао
+|-
+! 43
+|Давид Навара
+|style=&quot;color: blue; text-align: center;&quot; width=&quot;50»|1:0, 0:1 (½:½, ½:½) (0:1, 1:0) (½:½)
+|'''Предраг Николич '''
+|-
+! 7
+|Владимир Акопян
+|style=&quot;color: blue; text-align: center;&quot; width=&quot;50»|-:+
+|'''Гэрри Лэйн '''
+|-
+! 58
+|Александр Белявский
+|style=&quot;color: blue; text-align: center;&quot; width=&quot;50»|½:½,½:½ (0:1, 0:1)
+|'''Баадур Джобава'''
+|-
+! 26
+|'''Кришнан Сасикиран'''
+|style=&quot;color: red; text-align: center;&quot; width=&quot;50»|½:½,1:0
+|Алексей Ильюшин
+|-
+! 39
+|'''Сергей Рублевский'''
+|style=&quot;color: red; text-align: center;&quot; width=&quot;50»|1:0,½:½
+|Дао Тхиен Хай
+|-
+! 10
+|'''Сергей Тивяков'''
+|style=&quot;color: red; text-align: center;&quot; width=&quot;50»|1:0, 1:0
+|Слим Белходжа
+|-
+! 55
+|Евгений Мирошниченко
+|style=&quot;color: blue; text-align: center;&quot; width=&quot;50»|1:0, 0:1 (½:½, 0:1)
+|'''Олег Корнеев'''
+|-
+! 23
+|'''Константин Сакаев'''
+|style=&quot;color: red; text-align: center;&quot; width=&quot;50»|1:0, 1:0
+|Густаво Лима
+|-
+! 42
+|Звиад Изория
+|style=&quot;color: blue; text-align: center;&quot; width=&quot;50»|½:½,½:½ (½:½, ½:½) (0:1, 1:0) (0:1)
+|'''Сергей Эренбург'''
+|-
+! 15
+|'''Жоэль Лотье'''
+|style=&quot;color: red; text-align: center;&quot; width=&quot;50»|½:½,½:½ (1:0, 1:0)
+|Алексей Придорожный
+|-
+! 50
+|Хулио Гранда
+|style=&quot;color: blue; text-align: center;&quot; width=&quot;50»|0:1, ½:½
+|'''Александр Иванов'''
+|-
+! 18
+|'''Шахрияр Мамедьяров'''
+|style=&quot;color: red; text-align: center;&quot; width=&quot;50»|0:1, 1:0 (½:½, 1:0)
+|Нурлан Ибраев
+|-
+! 47
+|'''Евгений Наер'''
+|style=&quot;color: red; text-align: center;&quot; width=&quot;50»|1:0,½:½
+|Гаем Магхами
+|-
+! 31
+|'''Артём Тимофеев'''
+|style=&quot;color: red; text-align: center;&quot; width=&quot;50»|½:½,½:½ (½:½, 1:0)
+|Евгений Агрест
+|-
+! 34
+|'''Эмиль Сутовский'''
+|style=&quot;color: red; text-align: center;&quot; width=&quot;50»|1:0, 0:1 (1:0, ½:½)
+|Хичем Хамдоучи
+|-
+! 2
+|'''Этьенн Бакро'''
+|style=&quot;color: red; text-align: center;&quot; width=&quot;50»|1:0, 1:0
+|Стэнли Чумфва
+|-
+! 63
+|'''Роберт Кемпинский'''
+|style=&quot;color: red; text-align: center;&quot; width=&quot;50»|½:½,½:½ (1:0, 1:0)
+|Рафаэль Ваганян
+|}
+
+Результаты: без скобок — партии основного матча, в первых скобках — быстрые шахматы, во второй — блиц, в третьей —
+внезапная смерть. Владимир Акопян заболел и не прибыл на турнир.
+
+После первого раунда выбыли из дальнейшей борьбы 11 российских шахматистов, 12 продолжат борьбу. В 18 матчах из 63-х дальше прошли шахматисты с меньшим рейтингом.
+
+== Второй раунд ==
+
+'''30 ноября — 2 декабря'''
+{|border=&quot;2&quot; cellpadding=&quot;4&quot; cellspacing=&quot;0&quot; style=&quot;margin: 1em 1em 1em 0; background: #f0f0ff; border: 1px #aaa solid; border-collapse: collapse; font-size: 95%;&quot;
+|-
+! № матча
+! Участник
+! Счёт
+! Участник
+|-
+! 65
+|Василий Иванчук
+|style=&quot;color: blue; text-align: center;&quot; width=&quot;50»|0:1,½:½
+|'''Иван Чепаринов'''
+|-
+! 66
+|'''Магнус Карлсен'''
+|style=&quot;color: red; text-align: center;&quot; width=&quot;50»|1:0, ½:½
+|Фарух Аммонатов
+|-
+! 67
+|'''Лазаро Брузон'''
+|style=&quot;color: red; text-align: center;&quot; width=&quot;50»|½:½,½:½ (1:0,½:½)
+|Александр Онищук
+|-
+! 68
+|'''Евгений Бареев'''
+|style=&quot;color: red; text-align: center;&quot; width=&quot;50»|½:½, 1:0
+|Аркадий Найдич
+|-
+! 69
+|'''Теймур Раджабов'''
+|style=&quot;color: red; text-align: center;&quot; width=&quot;50»|0:1, 1:0 (1:0,½:½)
+|Муртаз Кажгалеев
+|-
+! 70
+|Александр Моисеенко
+|style=&quot;color: blue; text-align: center;&quot; width=&quot;50»|½:½,½:½ (1:0, 0:1) (½:½,½:½) (0:1)
+|'''Люк Ван Вели'''
+|-
+! 71
+|'''Руслан Пономарёв'''
+|style=&quot;color: red; text-align: center;&quot; width=&quot;50»|½:½,½:½ (½:½,1:0)
+|Александр Мотылёв
+|-
+! 72
+|Чао Санг
+|style=&quot;color: blue; text-align: center;&quot; width=&quot;50»|½:½, 0:1
+|'''Сюй Цзюнь'''
+|-
+! 73
+|'''Александр Грищук'''
+|style=&quot;color: red; text-align: center;&quot; width=&quot;50»|1:0,1:0
+|Андрей Истратеску
+|-
+! 74
+|'''Юрий Шульман'''
+|style=&quot;color: blue; text-align: center;&quot; width=&quot;50»|0:1, 1:0 (0:1, 1:0) (0:1,1:0) (½:½)
+|Александр Халифман
+|-
+! 75
+|'''Гата Камский'''
+|style=&quot;color: red; text-align: center;&quot; width=&quot;50»|½:½,½:½ (1:0, 1:0)
+|Дмитрий Бочаров
+|-
+! 76
+|'''Илья Смирин'''
+|style=&quot;color: red; text-align: center;&quot; width=&quot;50»|½:½,½:½ (1:0,½:½)
+|Ванг Ю
+|-
+! 77
+|'''Борис Гельфанд'''
+|style=&quot;color: red; text-align: center;&quot; width=&quot;50»|½:½,½:½ (½:½1:0)
+|Рубен Фельгаер
+|-
+! 78
+|Секхар Гангули
+|style=&quot;color: blue; text-align: center;&quot; width=&quot;50»|½:½,½:½ (0:1,½:½)
+|'''Леван Панцулая'''
+|-
+! 79
+|'''Алексей Дреев'''
+|style=&quot;color: red; text-align: center;&quot; width=&quot;50»|½:½,½:½ (0:1,1:0) (1:0,½:½)
+|Марк Парагуа
+|-
+! 80
+|'''Пентала Харикришна'''
+|style=&quot;color: red; text-align: center;&quot; width=&quot;50»|0:1, 1:0 (½:½,½:½) (1:0,1:0)
+|Джованни Вескови
+|-
+! 81
+|'''Левон Аронян'''
+|style=&quot;color: red; text-align: center;&quot; width=&quot;50»|1:0,1:0
+|Дармен Садваквасов
+|-
+! 82
+|Шаба Балог
+|style=&quot;color: blue; text-align: center;&quot; width=&quot;50»|½:½, 0:1
+|'''Александр Арещенко'''
+|-
+! 83
+|Виорел Бологан
+|style=&quot;color: blue; text-align: center;&quot; width=&quot;50»|0:1, 0:1
+|'''Захар Ефименко'''
+|-
+! 84
+|'''Вальехо Понс'''
+|style=&quot;color: red; text-align: center;&quot; width=&quot;50»|½:½, 1:0
+|Рафаэль Лейтао
+|-
+! 85
+|'''Алексей Широв'''
+|style=&quot;color: red; text-align: center;&quot; width=&quot;50»|1:0, 1:0
+|Василиос Котрониас
+|-
+! 86
+|Павел Эльянов
+|style=&quot;color: blue; text-align: center;&quot; width=&quot;50»|1:0, 0:1 (½:½, 0:1)
+|'''Михаил Гуревич'''
+|-
+! 87
+|'''Иван Соколов'''
+|style=&quot;color: red; text-align: center;&quot; width=&quot;50»|1:0, 1:0
+|Чжанг Чжонг
+|-
+! 88
+|'''Владимир Малахов'''
+|style=&quot;color: red; text-align: center;&quot; width=&quot;50»|1:0, 1:0
+|Предраг Николич
+|-
+! 89
+|Гэрри Лэйн
+|style=&quot;color: blue; text-align: center;&quot; width=&quot;50»|0:1,½:½
+|'''Баадур Джобава'''
+|-
+! 90
+|Кришнан Сасикиран
+|style=&quot;color: blue; text-align: center;&quot; width=&quot;50»|1:0,0:1 (1:0, 0.1) (0:1,½:½)
+|'''Сергей Рублевский'''
+|-
+! 91
+|'''Сергей Тивяков'''
+|style=&quot;color: red; text-align: center;&quot; width=&quot;50»|½:½,½:½ (½:½, ½:½) (½:½, ½:½) (1:0)
+|Олег Корнеев
+|-
+! 92
+|'''Константин Сакаев'''
+|style=&quot;color: red; text-align: center;&quot; width=&quot;50»|½:½,½:½ (½:½,1:0)
+|Сергей Эренбург
+|-
+! 93
+|'''Жоэль Лотье'''
+|style=&quot;color: red; text-align: center;&quot; width=&quot;50»|1:0,½:½
+|Александр Иванов
+|-
+! 94
+|Шахрияр Мамедьяров
+|style=&quot;color: blue; text-align: center;&quot; width=&quot;50»|½:½,½:½ (1:0, 0:1) (0:1,1:0) (0:1)
+|'''Евгений Наер'''
+|-
+! 95
+|Артём Тимофеев
+|style=&quot;color: blue; text-align: center;&quot; width=&quot;50»|½:½,½:½ (0:1, ½:½)
+|'''Эмиль Сутовский'''
+|-
+! 96
+|'''Этьенн Бакро'''
+|style=&quot;color: red; text-align: center;&quot; width=&quot;50»|1:0,½:½
+|Роберт Кемпинский
+|}
+
+Первая большая сенсация — после второго раунда закончил выступления обладатель наибольшего рейтинга [[w:Иванчук, Василий Михайлович|Василий Иванчук]]. Он проиграл болгарскому шахматисту Ивану Чепаринову — секунданту чемпиона мира [[w:Топалов, Веселин|Веселина Топалова]].
+
+После второго раунда выбыли из дальнейшей борьбы ещё 5 российских шахматистов, 7 продолжат борьбу.
+
+== Третий раунд ==
+
+'''3 — 5 декабря'''
+
+Средний рейтинг участников третьего раунда — 2663,22.
+
+Наибольший рейтинг — 2725, Этьенн Бакро.
+
+Наименьший рейтинг — 2565, Юрий Шульман.
+
+{|border=&quot;2&quot; cellpadding=&quot;4&quot; cellspacing=&quot;0&quot; style=&quot;margin: 1em 1em 1em 0; background: #f0f0ff; border: 1px #aaa solid; border-collapse: collapse; font-size: 95%;&quot;
+|-
+! № матча
+! Участник
+! Счёт
+! Участник
+|-
+! 97
+|Иван Чепаринов
+|style=&quot;color: blue; text-align: center;&quot; width=&quot;50»|0:1, 1:0 (0:1,0:1)
+|'''Магнус Карлсен'''
+|-
+! 98
+|Лазаро Брузон
+|style=&quot;color: blue; text-align: center;&quot; width=&quot;50»|1:0,0:1 (½:½,0:1)
+|'''Евгений Бареев'''
+|-
+! 99
+|Теймур Раджабов
+|style=&quot;color: blue; text-align: center;&quot; width=&quot;50»|0:1,1:0 (½:½,0:1)
+|'''Люк Ван Вели'''
+|-
+! 100
+|'''Руслан Пономарёв'''
+|style=&quot;color: red; text-align: center;&quot; width=&quot;50»|1:0,1:0
+|Сюй Цзюнь
+|-
+! 101
+|'''Александр Грищук'''
+|style=&quot;color: red; text-align: center;&quot; width=&quot;50»|½:½½:½ (1.0,½:½)
+|Юрий Шульман
+|-
+! 102
+|'''Гата Камский'''
+|style=&quot;color: red; text-align: center;&quot; width=&quot;50»|½:½½:½ (0:1,1:0) (½:½,1:0)
+|Илья Смирин
+|-
+! 103
+|'''Борис Гельфанд'''
+|style=&quot;color: red; text-align: center;&quot; width=&quot;50»|½:½½:½ (1:0,0:1) (1:0,1:0)
+|Леван Панцулая
+|-
+! 104
+|'''Алексей Дреев'''
+|style=&quot;color: red; text-align: center;&quot; width=&quot;50»|½:½½:½ (1:0,½:½)
+|Пентала Харикришна
+|-
+! 105
+|'''Левон Аронян'''
+|style=&quot;color: red; text-align: center;&quot; width=&quot;50»|1:0, ½:½
+|Александр Арещенко
+|-
+! 106
+|Захар Ефименко
+|style=&quot;color: blue; text-align: center;&quot; width=&quot;50»|½:½½:½ (0:1,0:1)
+|'''Вальехо Понс'''
+|-
+! 107
+|Алексей Широв
+|style=&quot;color: blue; text-align: center;&quot; width=&quot;50»|½:½0:1
+|'''Михаил Гуревич'''
+|-
+! 108
+|Иван Соколов
+|style=&quot;color: blue; text-align: center;&quot; width=&quot;50»|0:1,½:½
+|'''Владимир Малахов'''
+|-
+! 109
+|Баадур Джобава
+|style=&quot;color: blue; text-align: center;&quot; width=&quot;50»|½:½½:½ (0:1,½:½)
+|'''Сергей Рублевский'''
+|-
+! 110
+|Сергей Тивяков
+|style=&quot;color: blue; text-align: center;&quot; width=&quot;50»|0:1,0:1
+|'''Константин Сакаев'''
+|-
+! 111
+|'''Жоэль Лотье'''
+|style=&quot;color: red; text-align: center;&quot; width=&quot;50»|½:½½:½ (½:½,½:½) (½:½,1:0)
+|Евгений Наер
+|-
+! 112
+|Эмиль Сутовский
+|style=&quot;color: blue; text-align: center;&quot; width=&quot;50»|½:½½:½ (0:1,0:1)
+|'''Этьенн Бакро'''
+|}
+
+Из 16-ти матчей третьего раунда только пять завершились после основного матча. В 11 матчах будут играться дополнительные партии в быстрые шахматы. Проиграл свой матч и выбыл из дальнейшей борьбы ещё один шахматист с рейтингом более 2700 — Алексей Широв. Потерял первые пол очка Левон Аронян, который в первом и во втором раундах побеждал со счётом 2:0.
+
+После третьего раунда продолжают борьбу 6 российских шахматистов.
+
+== Четвёртый раунд ==
+
+'''6 — 8 декабря'''
+
+Средний рейтинг участников четвёртого раунда — 2678,87.
+
+Наибольший рейтинг — 2725, Этьенн Бакро.
+
+Наименьший рейтинг — 2570, Магнус Карлсен.
+
+{|border=&quot;2&quot; cellpadding=&quot;4&quot; cellspacing=&quot;0&quot; style=&quot;margin: 1em 1em 1em 0; background: #f0f0f6; border: 1px #aaa solid; border-collapse: collapse; font-size: 95%;&quot;
+|- 	
+! № матча
+! Участник
+! Счёт
+! Участник
+|-
+! 113
+|Магнус Карлсен
+|style=&quot;color: blue; text-align: center;&quot; width=&quot;50»|½:½,½:½ (0:1,½:½)
+|'''Евгений Бареев'''
+|-
+! 114
+|Люк Ван Вели
+|style=&quot;color: blue; text-align: center;&quot; width=&quot;50»|0:1, 0:1
+|'''Руслан Пономарёв'''
+|-
+! 115
+|'''Александр Грищук'''
+|style=&quot;color: red; text-align: center;&quot; width=&quot;50»|1:0, ½:½
+|Гата Камский
+|-
+! 116
+|'''Борис Гельфанд'''
+|style=&quot;color: red; text-align: center;&quot; width=&quot;50»|½:½,½:½ (1:0,0:1) (½:½,1:0)
+|Алексей Дреев
+|-
+! 117
+|'''Левон Аронян'''
+|style=&quot;color: red; text-align: center;&quot; width=&quot;50»|½:½,½:½ (½:½,1:0)
+|Вальехо Понс
+|-
+! 118
+|'''Михаил Гуревич'''
+|style=&quot;color: red; text-align: center;&quot; width=&quot;50»|½:½½:½ (1:0,½:½)
+|Владимир Малахов
+|-
+! 119
+|'''Сергей Рублевский'''
+|style=&quot;color: red; text-align: center;&quot; width=&quot;50»|1:0, ½:½
+|Константин Сакаев
+|-
+! 120
+|Жоэль Лотье
+|style=&quot;color: blue; text-align: center;&quot; width=&quot;50»|½:½,½:½ (0:1,½:½)
+|'''Этьенн Бакро'''
+|}
+
+== Четвертьфинал — Полуфинал — Финал ==
+[[Файл:Levon_Aronian_grandmaster.jpg|thumb|200px|left|Левон Аронян — обладатель Кубка мира.]]
+
+{{Кубковая сетка с четвертьфинала|Кубок мира по шахматам 2005.|15-17.12|12-14.12|9-11.12|Евгений Бареев|[[Image:Flag of Russia.svg|30px]]|Руслан Пономарёв|[[Image:Flag of Ukraine.svg|30px]]|Александр Грищук|[[Image:Flag of Russia.svg|30px]]|Борис Гельфанд|[[Image:Flag of Israel.svg|30px]]|Левон Аронян|[[Image:Flag of Armenia.svg|30px]]|Михаил Гуревич|[[Image:Flag of Belgium.svg|30px]]|Сергей Рублевский|[[Image:Flag of Russia.svg|30px]]|Этьенн Бакро|[[Image:Flag of France.svg|30px]]|Руслан Пономарёв|&amp;frac12;:&amp;frac12;1:0
+|Александр Грищук|0:1,1:0(&amp;frac12;:&amp;frac12;,&amp;frac12;:&amp;frac12;) (1:0,1:0)
+|Левон Аронян|&amp;frac12;:&amp;frac12;,1:0|Этьенн Бакро|&amp;frac12;:&amp;frac12;,1:0|Руслан Пономарёв|&amp;frac12;:&amp;frac12;, &amp;frac12;:&amp;frac12; (1:0, 1:0)|Левон Аронян|&amp;frac12;:&amp;frac12;,1:0|Левон Аронян|&amp;frac12;:&amp;frac12;,&amp;frac12;:&amp;frac12;(1:0,1:0)|}}
+
+== Пятый раунд (Матчи за 9 — 16 места) ==
+
+'''9 — 11 декабря'''
+{|border=&quot;2&quot; cellpadding=&quot;4&quot; cellspacing=&quot;0&quot; style=&quot;margin: 1em 1em 1em 0; background: #f0f0f6; border: 1px #aaa solid; border-collapse: collapse; font-size: 95%;&quot;
+|- 	
+! № матча
+! Участник
+! Счёт
+! Участник
+|-
+! 125
+|'''Магнус Карлсен'''
+|style=&quot;color: red; text-align: center;&quot; width=&quot;50»|½:½ 1:0
+|Жоэль Лотье
+|-
+! 126
+|'''Владимир Малахов'''
+|style=&quot;color: red; text-align: center;&quot; width=&quot;50»|1:0,½:½
+|Алексей Дреев
+|-
+! 127
+|'''Вальехо Понс'''
+|style=&quot;color: red; text-align: center;&quot; width=&quot;50»|½:½½:½ (½:½, 1:0)
+|Люк Ван Вели
+|-
+! 128
+|Константин Сакаев
+|style=&quot;color: blue; text-align: center;&quot; width=&quot;50»|0:1,½:½
+|'''Гата Камский'''
+|}
+
+== Шестой раунд ==
+
+'''12 — 14 декабря'''
+
+=== Матчи за 5 — 8 места ===
+{|border=&quot;2&quot; cellpadding=&quot;4&quot; cellspacing=&quot;0&quot; style=&quot;margin: 1em 1em 1em 0; background: #f0f0f6; border: 1px #aaa solid; border-collapse: collapse; font-size: 95%;&quot;
+|- 	
+! № матча
+! Участник
+! Счёт
+! Участник
+|-
+! 131
+|'''Евгений Бареев'''
+|style=&quot;color: red; text-align: center;&quot; width=&quot;50»|½:½,½:½ (1:0,½:½)
+|Сергей Рублевский
+|-
+! 132
+|Михаил Гуревич
+|style=&quot;color: blue; text-align: center;&quot; width=&quot;50»|0:1,0:1
+|'''Борис Гельфанд'''
+|}
+
+=== Матчи за 9 — 12 места ===
+{|border=&quot;2&quot; cellpadding=&quot;4&quot; cellspacing=&quot;0&quot; style=&quot;margin: 1em 1em 1em 0; background: #f0f0f6; border: 1px #aaa solid; border-collapse: collapse; font-size: 95%;&quot;
+|- 	
+! № матча
+! Участник
+! Счёт
+! Участник
+|-
+! 133
+|'''Магнус Карлсен'''
+|style=&quot;color: red; text-align: center;&quot; width=&quot;50»|½:½,½:½ (0:1,1:0) (1:0,½:½)
+|Владимир Малахов
+|-
+! 134
+|Вальехо Понс
+|style=&quot;color: blue; text-align: center;&quot; width=&quot;50»|½:½,½:½ (1:0,0:1) (½:½,0:1)
+|'''Гата Камский'''
+|}
+
+=== Матчи за 13 — 16 места ===
+{|border=&quot;2&quot; cellpadding=&quot;4&quot; cellspacing=&quot;0&quot; style=&quot;margin: 1em 1em 1em 0; background: #f0f0f6; border: 1px #aaa solid; border-collapse: collapse; font-size: 95%;&quot;
+|- 	
+! № матча
+! Участник
+! Счёт
+! Участник
+|-
+! 135
+|Жоэль Лотье
+|style=&quot;color: blue; text-align: center;&quot; width=&quot;50»|½:½,½:½ (½:½,½:½) (0:1,½:½)
+|'''Люк Ван Вели'''
+|-
+! 136
+|'''Алексей Дреев'''
+|style=&quot;color: red; text-align: center;&quot; width=&quot;50»|1:0,½:½
+|Константин Сакаев
+|}
+
+== Седьмой раунд ==
+'''15 — 17 декабря'''
+
+=== Матч за 3 — 4 места ===
+{|border=&quot;2&quot; cellpadding=&quot;4&quot; cellspacing=&quot;0&quot; style=&quot;margin: 1em 1em 1em 0; background: #f0f0f6; border: 1px #aaa solid; border-collapse: collapse; font-size: 95%;&quot;
+|- 	
+! № матча
+! Участник
+! Счёт
+! Участник
+|-
+! 138
+|Александр Грищук
+|style=&quot;color: blue; text-align: center;&quot; width=&quot;50»|½:½,½:½ (0:1,½:½)
+|'''Этьенн Бакро'''
+|}
+
+=== Матч за 5 — 6 места ===
+{|border=&quot;2&quot; cellpadding=&quot;4&quot; cellspacing=&quot;0&quot; style=&quot;margin: 1em 1em 1em 0; background: #f0f0f6; border: 1px #aaa solid; border-collapse: collapse; font-size: 95%;&quot;
+|- 	
+! № матча
+! Участник
+! Счёт
+! Участник
+|-
+! 139
+|'''Евгений Бареев'''
+|style=&quot;color: red; text-align: center;&quot; width=&quot;50»|½:½, ½:½ (1:0,½:½)
+|Борис Гельфанд
+|}
+
+=== Матч за 7 — 8 места ===
+{|border=&quot;2&quot; cellpadding=&quot;4&quot; cellspacing=&quot;0&quot; style=&quot;margin: 1em 1em 1em 0; background: #f0f0f6; border: 1px #aaa solid; border-collapse: collapse; font-size: 95%;&quot;
+|- 	
+! № матча
+! Участник
+! Счёт
+! Участник
+|-
+! 140
+|'''Сергей Рублевский'''
+|style=&quot;color: red; text-align: center;&quot; width=&quot;50»|1:0, ½:½
+|Михаил Гуревич
+|}
+
+=== Матч за 9 — 10 места ===
+{|border=&quot;2&quot; cellpadding=&quot;4&quot; cellspacing=&quot;0&quot; style=&quot;margin: 1em 1em 1em 0; background: #f0f0f6; border: 1px #aaa solid; border-collapse: collapse; font-size: 95%;&quot;
+|- 	
+! № матча
+! Участник
+! Счёт
+! Участник
+|-
+! 141
+|Магнус Карлсен
+|style=&quot;color: blue; text-align: center;&quot; width=&quot;50»|1:0,0:1 (0:1,0:1)
+|'''Гата Камский'''
+|}
+
+=== Матч за 11 — 12 места ===
+{|border=&quot;2&quot; cellpadding=&quot;4&quot; cellspacing=&quot;0&quot; style=&quot;margin: 1em 1em 1em 0; background: #f0f0f6; border: 1px #aaa solid; border-collapse: collapse; font-size: 95%;&quot;
+|- 	
+! № матча
+! Участник
+! Счёт
+! Участник
+|-
+! 142
+|'''Владимир Малахов'''
+|style=&quot;color: red; text-align: center;&quot; width=&quot;50»|1:0, ½:½
+|Вальехо Понс
+|}
+
+=== Матч за 13 — 14 места ===
+{|border=&quot;2&quot; cellpadding=&quot;4&quot; cellspacing=&quot;0&quot; style=&quot;margin: 1em 1em 1em 0; background: #f0f0f6; border: 1px #aaa solid; border-collapse: collapse; font-size: 95%;&quot;
+|- 	
+! № матча
+! Участник
+! Счёт
+! Участник
+|-
+! 143
+|Люк Ван Вели
+|style=&quot;color: blue; text-align: center;&quot; width=&quot;50»|1:0,0:1 (½:½,0:1)
+|'''Алексей Дреев'''
+|}
+
+=== Матч за 15 — 16 места ===
+{|border=&quot;2&quot; cellpadding=&quot;4&quot; cellspacing=&quot;0&quot; style=&quot;margin: 1em 1em 1em 0; background: #f0f0f6; border: 1px #aaa solid; border-collapse: collapse; font-size: 95%;&quot;
+|- 	
+! № матча
+! Участник
+! Счёт
+! Участник
+|-
+! 144
+|'''Жоэль Лотье'''
+|style=&quot;color: green; text-align: center;&quot; width=&quot;50»|½:½, ½:½ (1:0,0:1) (½:½, ½:½) (½:½)
+|Константин Сакаев
+|}
+
+= Итоги турнира =
+
+Места с первого по шестнадцатое распределились так:
+
+* 1-е место Левон Аронян (Армения)
+* 2-е место Руслан Пономарёв (Украина)
+* 3-е место Этьенн Бакро (Франция)
+* 4-е место Александр Грищук (Россия)
+* 5-е место Евгений Бареев (Россия)
+* 6-е место Борис Гельфанд (Израиль)
+* 7-е место Сергей Рублевский (Россия)
+* 8-е место Михаил Гуревич (Бельгия)
+* 9-е место Гата Камский (США)
+* 10-е место Магнус Карлсен (Норвегия)
+* 11-е место Владимир Малахов (Россия)
+* 12-е место Вальехо Понс (Испания)
+* 13-е место Алексей Дреев (Россия)
+* 14-е место Люк Ван Вели (Нидерланды)
+* 15-е место Жоэль Лотье (Франция)
+* 16-е место Константин Сакаев (Россия)
+
+Из первых шестнадцати мест, 11 принадлежат шахматистам — выходцам из республик бывшего СССР.
+
+Шахматисты, занявшие первые десять, мест получают право участвовать в матчах претендентов за звание чемпиона мира. В матчах претендентов будут участвовать: Рустам Касымджанов, пять шахматистов имеющих лучший средний рейтинг за июль 2004 и январь 2005 года и 10 шахматистов, занявших первые десять мест на Кубке мира.
+
+Список шахматистов, имеющих лучший средний рейтинг за июль 2004 и январь 2005 года:
+
+# Гарри Каспаров (Россия) — 2810,5
+# Вишванатан Ананд (Индия) — 2784
+# Владимир Крамник (Россия) — 2762
+# Весенин Топалов (Болгария) — 2747
+# Петер Леко (Венгрия) — 2745
+# Александр Морозевич (Россия) — 2742
+# Майкл Адамс (Англия) — 2739,5
+# Пётр Свидлер (Россия) — 2731
+# Юдит Полгар (Венгрия) — 2728
+# Алексей Широв (Испания) — 2719
+# Гата Камский (США) — 2717
+# Этьенн Бакро (Франция) — 2713,5
+# Василий Иванчук (Украина) — 2713
+
+Из этого списка исключаются для игр в матчах претендентов — Топалов, Ананд, Свидлер и Морозевич, так как по итогам [[w:Чемпионат мира по шахматам ФИДЕ 2005|чемпионата мира]] в Сан Луисе, они будут непосредственно играть в матч-турнире на первенство мира в 2007 году.
+
+Пять сильнейших из остающихся в этом списке — Каспаров, Крамник, Леко, Адамс и Полгар. Каспаров больше не играет, а Крамник — Чемпион мира по «классической» версии, скорее всего не будет играть в матчах претендентов. Если Каспаров и Крамник до 31 декабря 2005 года не подтвердят своего участия в матчах претендентов, то они бдут исключены, а их места займут следующие по рейтингу, а именно, Алексей Широв и Этьенн Бакро. Рейтинг Гаты Камского основан только на рейтинге США, так как последние годы он не участвовал в соревнованиях, и его рейтинг ФИДЕ не определён. Но, Гата Камский получил право участвовать в претендентских матчах, как занявший 9-е место в нынешнем Кубке мира. Этьенн Бакро занял в Кубке мира 3-е место, но он будет участвовать в претендентских матчах по рейтингу (в случае отказа Каспарова и Крамника), тогда шанс получит, занявший 11-е место в Кубке мира Владимир Малахов.
+
+= Ссылки =
+
+* [http://www.worldchesscup2005.com/main.asp?cat=50 Официальныя страница Кубка мира] {{Wayback|url=http://www.worldchesscup2005.com/main.asp?cat=50 |date=20060509163256 }}
+
+[[Категория:Шахматные турниры]]
+[[Категория:Гарри Каспаров]]
+[[Категория:Сан-Франциско]]
+[[Категория:Рейтинг ФИДЕ]]
+[[Категория:ФИДЕ]]
+[[Категория:Зураб Азмайпарашвили]]
+[[Категория:Опубликовано]]
+[[Категория:Юдит Полгар]]
+[[Категория:Эмиль Сутовский]]
+[[Категория:Левон Аронян]]
+[[Категория:Чехия]]
+[[Категория:Россия в ноябре 2005 года]]
+[[Категория:Украина в ноябре 2005 года]]</text>
+      <sha1>dap2iap1yixavsjvym71h3m3m1uxeb6</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Японский межпланетный космический зонд собрал пробы грунта с поверхности астероида</title>
+    <ns>0</ns>
+    <id>1548</id>
+    <revision>
+      <id>16888018</id>
+      <parentid>322175</parentid>
+      <timestamp>2026-03-19T21:52:14Z</timestamp>
+      <contributor>
+        <username>AtUkr</username>
+        <id>17242</id>
+      </contributor>
+      <origin>16888018</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="2104" sha1="cy0zm01h6x02wx7p2rhekgmiuwg3men" xml:space="preserve">{{:Дата|26 ноября 2005}}
+{{Космонавтика}}
+[[Файл:Hayabusa(Muses-C) sampling.jpg|thumb|250px|left|Зонд «Хайябуса»]]
+Японское космическое агентство достигло одной из главной цели миссии межпланетного космического зонда «Хайябуса» (Hayabusa, {{w|Сокол}} — в переводе с японского) — успешного забора образцов грунта с [[w:Астероид|астероида]] «Итокава» (Itokawa). Зонд был запущен в мае 2003 года. В настоящий момент, астероид «Итокава», орбита которого пролегает между орбитами [[w:Земля (планета) | Земли]] и [[w: Марс (планета) | Марса]], находится на расстоянии 290 млн км от Земли.
+
+Зонд приземлился на астероиде, затем выстрелил в грунт маленький снаряд и собрал образцы поднявшейся с поверхности пыли. Зонд оставался на поверхности очень короткое время (около одной минуты). Сбор грунта с поверхности астероида произведён впервые в истории.
+ 
+Зонд должен доставить собранный грунт на Землю. Только после возвращения зонда в 2007 году, будет получено вещественное подтверждение этого успеха.
+[[Файл:Itokawa.jpg|thumb|250px|right|Астероид Итокава]]
+
+== Источники ==
+* [http://news8.thdo.bbc.co.uk/hi/russian/sci/tech/newsid_4472000/4472750.stm Сообщение BBC]
+
+{{подвал новости}}
+
+[[Категория:Япония]]
+[[Категория:Астрономия]]
+[[Категория:Астероиды]]
+
+{{публиковать}}</text>
+      <sha1>cy0zm01h6x02wx7p2rhekgmiuwg3men</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Завершились парламентские выборы в Чечне</title>
+    <ns>0</ns>
+    <id>1558</id>
+    <revision>
+      <id>16896169</id>
+      <parentid>16896091</parentid>
+      <timestamp>2026-04-03T12:46:27Z</timestamp>
+      <contributor>
+        <username>Mitte27</username>
+        <id>16614</id>
+      </contributor>
+      <minor />
+      <comment>Mitte27 переименовал страницу [[Парламентские выборы в Чечне]] в [[Завершились парламентские выборы в Чечне]]</comment>
+      <origin>16896091</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="3081" sha1="gshxtzi6dpj7ng92tqh86er4xca5xhu" xml:space="preserve">{{Дата|27 ноября 2005}}
+{{Россия}}
+В [[w:Чечня|Чечне]] состоялись парламентские выборы. По предварительным данным, к 18:00 московского времени, в выборах приняли участие 56,69% избирателей. Для признания выборов состоящими достаточно явки 25% избирателей.
+{{Фото|Coat of Arms of Chechnya (2020-).svg|192px|Герб Чечни}}
+
+Парламент Чечни будет состоять из двух палат: Совет республики и Народное собрание. В Совете республики — 18 депутатов, в Народном собрании — 40 депутатов, из которых 20 выбираются по партийным спискам и 20 — по одномандатным округам. Всего в парламенте республики — 58 мест, на которые претендуют 345 кандидатов.
+
+В выборах в Чечне принимают участие местные отделения российских партий: [[w:Единая Россия|«Единая Россия»]], [[w:Родина (политическая партия)|«Родина»]], [[w:Коммунистическая партия Российской Федерации|КПРФ]], [[w:Либерально-демократическая партия России|ЛДПР]], [[w:Народная воля (партия)|«Народная воля»]], [[w:Союз Правых Сил|СПС]], [[w:Яблоко (партия)|«Яблоко»]], «Евразийский союз».
+
+Право голоса имеют, примерно, 600 тыс. избирателей, в том числе около 33 тыс. военнослужащих постоянно дислоцированных в Чечне.
+Для обеспечения безопасности проведения выборов были привлечены 24 тысячи военнослужащих.
+
+Правозащитные организации называют выборы, которые проходят в обстановке насилия — фарсом. 
+За выборами наблюдают представители [[w:Лига арабских государств|Лиги арабских государств]], Организации исламская конференция и Исполкома [[w:Содружество независимых государств|СНГ]].
+
+== Источники ==
+* {{источник|url=https://lenta.ru/news/2005/11/27/election2/|Название=Парламентские выборы в Чечне состоялись|Издатель=Lenta.ru|Дата=2005-11-27}}
+[[Категория:Чеченская республика]]
+[[Категория:Родина (партия)]]
+[[Категория:Россия в ноябре 2005 года]]</text>
+      <sha1>gshxtzi6dpj7ng92tqh86er4xca5xhu</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Лучшим футболистом Европы 2005 года назван Роналдиньо</title>
+    <ns>0</ns>
+    <id>1569</id>
+    <revision>
+      <id>17463777</id>
+      <parentid>16140509</parentid>
+      <timestamp>2026-04-15T18:52:13Z</timestamp>
+      <contributor>
+        <username>AtUkrBot</username>
+        <id>63930</id>
+      </contributor>
+      <minor />
+      <comment>бот: замена категории</comment>
+      <origin>17463777</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="4688" sha1="hiu4wh0rqzz0dhkdc4z8pxmsdf3wd5x" xml:space="preserve">{{Дата|28 ноября 2005}}
+Лучшим футболистом [[w:Европа|Европы]] 2005 года назван форвард испанской [[w:Барселона (футбольный клуб)|«Барселоны»]] и [[Сборная Бразилии по футболу|сборной Бразилии]] Роналдиньо. В результате опроса среди спортивных журналистов, который ежегодно проводит французская газета «Франс футбол» (France football), Роналдиньо получил 225 баллов, вторым назван нападающий английского клуба [[w:Челси (футбольный клуб)|«Челси»]] (Chelsea F.C.) Фрэнк Лэмпард — 148 баллов, третьим игрок английского [[w:ФК Ливерпуль|«Ливерпуля»]] (Liverpool F.C.) Стивен Джеррард. Роналдиньо вручён традиционный приз — [[w:Золотой мяч (футбольная награда)|«Золотой мяч»]].
+Роналдиньо стал пятидесятым обладателем «Золотого мяча».
+
+Впервые «Золотой мяч» был вручен английскому футболисту [[w:Мэтьюз, Стэнли|Стэнли Мэтьюзу]] в 1956 году. Из советских футболистов «Золотой мяч» получали: [[Лев Яшин]] в 1963 году, Олег Блохин в 1975 году и Игорь Беланов в 1986 году.
+
+В прошлом году «Золотой мяч» получил нападающий итальянского «Милана» и [[Сборная Украины по футболу|сборной Украины]] [[Андрей Шевченко (1976, футболист)|Андрей Шевченко]]. В опросе этого года Шевченко занял пятое место — 33 бала. Среди пятидесяти претендентов на «Золотой мяч» российских футболистов не было.
+
+== Источники ==
+
+* [http://news8.thdo.bbc.co.uk/hi/russian/sport/newsid_4480000/4480034.stm Сообщение BBC]{{Недоступная ссылка|date=января 2023 |bot=InternetArchiveBot |fix-attempted=yes }}
+
+[[Категория:Футбол]]
+[[Категория:Опубликовано]]
+[[Категория:Сборная Бразилии по футболу]]
+[[Категория:Роналдиньо]]
+[[Категория:ФК Барселона]]
+[[Категория:Испания]]
+[[Категория:Бразилия]]
+[[Категория:Спорт в Бразилии]]
+[[Категория:Спорт в Испании]]
+[[Категория:Футбол в Испании]]
+[[Категория:Футбол в Бразилии]]
+[[Категория:Награды и премии]]
+[[Категория:Европа]]
+[[Категория:ФК Челси]]
+[[Категория:Спорт в Англии]]
+[[Категория:Футбол в Англии]]
+[[Категория:Англия]]
+[[Категория:Спорт в Великобритании]]
+[[Категория:Футбол в Великобритании]]
+[[Категория:Великобритания]]
+[[Категория:Фрэнк Лэмпард]]
+[[Категория:ФК Ливерпуль]]
+[[Категория:Стивен Джеррард]]
+[[Категория:Футбол Стэнли Мэтьюз]]
+[[Категория:Золотой мяч ФИФА]]
+[[Категория:Лев Яшин]]
+[[Категория:Олег Блохин]]
+[[Категория:Игорь Беланов]]
+[[Категория:Андрей Шевченко (1976, футболист)]]
+[[Категория:Спорт в России]]
+[[Категория:Футбол в России]]
+[[Категория:Россия]]
+[[Категория:Спорт в СССР]]
+[[Категория:Футбол в СССР]]
+[[Категория:СССР]]
+[[Категория:Сборная Украины по футболу]]
+[[Категория:Сборная СССР по футболу]]
+[[Категория:Сборная России по футболу]]
+[[Категория:Украина]]
+[[Категория:Спорт на Украине]]
+[[Категория:Футбол в Украине]]
+[[Категория:Россия в ноябре 2005 года]]
+[[Категория:Украина в ноябре 2005 года]]</text>
+      <sha1>hiu4wh0rqzz0dhkdc4z8pxmsdf3wd5x</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Выходит новая версия Firefox</title>
+    <ns>0</ns>
+    <id>1574</id>
+    <revision>
+      <id>15979969</id>
+      <parentid>15157338</parentid>
+      <timestamp>2022-10-29T14:00:57Z</timestamp>
+      <contributor>
+        <username>InternetArchiveBot</username>
+        <id>37639</id>
+      </contributor>
+      <comment>Rescuing 0 sources and tagging 1 as dead.) #IABot (v2.0.9.2</comment>
+      <origin>15979969</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="1105" sha1="9wbpfbn01fb03i67axh1869a10ghsvo" xml:space="preserve">{{Дата|29 ноября 2005}}
+[[Файл:Mozilla Firefox 3.5 logo.png|слева|мини|300пкс|Логотип Mozilla Firefox]]
+Во вторник, 29 ноября 2005 горда, выходит новая версия [[Mozilla Firefox]]. Интернет-браузер Firefox начал распространятся с 9 ноября 2004 года. В ноябре 2005 года Firefox  был сгружен 100 млн. раз. В настоящий момент программой пользуются 10% пользователей Интернета. Доля, лидирующего [[Internet Explorer]], составляет 85%.
+
+{{also|Mozilla 1.5 на русском}}
+
+{{-}}
+
+== Источник ==
+* [http://news8.thdo.bbc.co.uk/hi/russian/sci/tech/newsid_4482000/4482312.stm Сообщение BBC]{{Недоступная ссылка|date=октября 2022 |bot=InternetArchiveBot |fix-attempted=yes }}.
+
+{{Подвал новости}}
+
+{{Категории|Mozilla|Свободное программное обеспечение|Firefox|Internet Explorer}}
+
+{{yes}}</text>
+      <sha1>9wbpfbn01fb03i67axh1869a10ghsvo</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Первый визит Штайнмайера в США</title>
+    <ns>0</ns>
+    <id>1588</id>
+    <revision>
+      <id>16758847</id>
+      <parentid>16758773</parentid>
+      <timestamp>2025-03-22T15:57:22Z</timestamp>
+      <contributor>
+        <username>Oleg Yunakov</username>
+        <id>8664</id>
+      </contributor>
+      <minor />
+      <comment>Откат правки [[Special:Contributions/Алһх|Алһх]] ([[User talk:Алһх|обсуждение]]) к последней версии [[User:Schekinov Alexey Victorovich|Schekinov Alexey Victorovich]]</comment>
+      <origin>1101649</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="3560" sha1="2ji1lcjv9kw42aygk4yreoijcls2vlz" xml:space="preserve">{{:Дата|30 ноября 2005}} {{США}}
+
+Во время встречи с новым министром иностранных дел [[w:Германия|Германии]] [[w:Штайнмайер, Франк-Вальтер|Франк-Вальтером Штайнмайером]], государственный секретарь {{w|США}} {{w|Кондолиза Райс}} пообещала дать исчерпывающие разъяснения общественности об имевшим место тайным перевозкам пленных террористов самолётами {{w|ЦРУ}} через [[w:Европа|Европу]].
+[[Файл:Ricesteinmeier3 600.jpg|thumb|слева|255px|&lt;center&gt;[[Франк-Вальтер Штайнмайер|Штайнмайер]] и [[Кондолиза Райс]] &lt;/center&gt;]]
+
+Об этих тайных полётах через европейские аэропорты, в том числе через {{w|Франкфурт-на-Майне}}, сообщали на прошедшей неделе многие средства информации. Самолётами ЦРУ были транспортированы в тайные места заключения на территории восточной Европы подозреваемые в терроризме исламисты. Франк-Вальтер Штайнмайер делал первый ознакомительный визит в США, и было, не ясно будет ли он ставить, в этом случае, неудобные вопросы перед американской администрацией. Штайнмайер  сказал, что правительство Германии не имеет собственной информации по этой теме. 
+
+После часовой беседы с Кондолизой Райс, Штайнмайер сказал журналистам, что в Америке понимают озабоченность Европы по этому вопросу. Кондолиза Райс заверила, что всё делается в согласии с американскими и международными законами.
+
+В тоже время, Кондолиза Райс подчеркнула, что содержание под арестом неограниченное время подозреваемых в терроризме будет продолжено и в будущем.
+Это служит защитой от террористических актов.
+
+После встрече с Кондолизой Райс, Штайнмайер отвечал на вопросы журналистов. Ранее планировалось, что на встрече с журналистами будет и Кондолиза Райс, однако, она не пришла.
+
+{{haveyoursay}}
+
+== См. также ==
+* [[Тайные операции ЦРУ в Европе]] (27 ноября 2005)
+
+== Источники ==
+
+* [[:de:Rice sagt Aufklärung über CIA-Geheimflüge zu|Статья «Rice sagt Aufklärung über CIA-Geheimflüge zu» в немецкой Wikinews]]
+
+[[Категория:Германия]]
+[[Категория:США]]
+[[Категория:Политика]]
+[[Категория:Кондолиза Райс]]
+[[Категория:ЦРУ]]
+[[Категория:Франк-Вальтер Штайнмайер]]
+
+{{Публиковать}}</text>
+      <sha1>2ji1lcjv9kw42aygk4yreoijcls2vlz</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Захват немецкой заложницы в Ираке</title>
+    <ns>0</ns>
+    <id>1592</id>
+    <revision>
+      <id>1008924</id>
+      <parentid>808270</parentid>
+      <timestamp>2019-07-29T07:13:46Z</timestamp>
+      <contributor>
+        <username>Krassotkin</username>
+        <id>3944</id>
+      </contributor>
+      <minor />
+      <comment>added [[Category:Министерство иностранных дел Германии]] using [[Help:Gadget-HotCat|HotCat]]</comment>
+      <origin>1008924</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="5300" sha1="7putcjg9hlycdvq746j09l9h17xiksh" xml:space="preserve">{{:Дата|1 декабря 2005}} {{Ирак}}
+В пятницу, 25 ноября, на севере {{w|Ирак}}а, а провинции Нинава (Ninawa), была захвачена и объявлена заложником гражданка [[w:Германия|Германии]] Сюзанна Остхофф (Susanne Osthoff). Вместе с ней был захвачен также её иракский шофёр.
+
+На видео, которое было передано сотруднику немецкого телевизионного канала АРД (ARD) в понедельник, вечером 28 ноября, террористы угрожают убить заложников, если правительство Германии не прекратит сотрудничать с новым иракским правительством. По телевидению, это видео не было показано полностью, только один кадр, который можно видеть на интернет странице канала [http://www.tagesschau.de/ АРД].
+
+Сюзанна Остхофф работает в Ираке с 1991 года. Она свободно говорит на [[w:Арбский язык|арабском языке]], приняла {{w|ислам}} и была замужем за иорданцем. В Ираке Сюзанна Остхоф занималась археологией и помогала различным организациям поставлять медикаменты и медицинские приборы населению Ирака. Сюзанна Остхофф участвовала в археологических раскопках в [[w:Турция|Турции]], в [[w:Стрия|Сирии]], в [[w:Иордания|Иордании]], в Ираке и в [[w:Йемен|Йемене]].
+
+Уже летом 2005 года Сюзанна Остхофф получала угрозы о возможном захвате в заложники. В то время она была в городе Мосул (Mossul) и помогала в строительстве культурного центра Германии. Из Мосула она уехала в {{w|Багдад}} в сопровождении американских солдат. В октябре Сюзанна Остхофф снова получала угрозы похищения. Немецкое посольство в Багдаде советовало её покинуть Ирак. Сюзанна Остхофф полагала, что она достаточно хорошо знакома с обстановкой в Ираке и имеет хорошие отношениями с местным населением, поэтому она продолжала свою деятельность в Ираке. Она сообщала властям, о своих перемещениях в Ираке. Поэтому, полагают, что кто-то выдал её маршрут передвижения.
+
+С мая 2003 года по 27 ноября 2005 года в Ираке было захвачено 242 иностранных заложников, из них 43 были убиты, судьба ещё 73-х остаётся неизвестной.
+
+Германия не поддержала военное вмешательство{{w|США}} в Ираке и не имеет войск в Ираке. Но, Германия проводит обучение иранских полицейских в соседних странах.
+
+Министерство иностранных дел Германии организовало специальный кризисный штаб, главная цель которого — спасение Сюзанны Остхофф и её шофёра.
+
+Представитель министерства иностранных дел Германии заявил, что требования террористов не могут быть приняты. Не исключено, что захват осуществлён не по политическим мотивам, а по криминальным, с целью вымогательства.
+
+
+== Краткая справка ==
+Сюзанна Остхофф (Susanne Osthoff)
+* год рождения — 1962, {{w|Мюнхен}}
+* изучала — археологию и {{w|семитские языки}}
+* профессия — археолог
+
+== Источники ==
+Статья в немецких Викиновостях
+
+{{yes}}
+
+[[Категория:Германия]]
+[[Категория:Ирак]]
+[[Категория:Похищения людей]]
+[[Категория:Мюнхен]]
+[[Категория:Багдад]]
+[[Категория:Происшествия]]
+[[Категория:Происшествия в Ираке]]
+[[Категория:Ислам]]
+[[Категория:Йемен]]
+[[Категория:Мосул]]
+[[Категория:Лекарственные средства]]
+[[Категория:Министерство иностранных дел Германии]]</text>
+      <sha1>7putcjg9hlycdvq746j09l9h17xiksh</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>«Марс Экспресс» обнаружил воду на Марсе</title>
+    <ns>0</ns>
+    <id>1611</id>
+    <revision>
+      <id>653090</id>
+      <parentid>547366</parentid>
+      <timestamp>2018-08-23T23:19:52Z</timestamp>
+      <contributor>
+        <username>Krassotkin</username>
+        <id>3944</id>
+      </contributor>
+      <minor />
+      <comment>added [[Category:Лёд]] using [[Help:Gadget-HotCat|HotCat]]</comment>
+      <origin>653090</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="3400" sha1="kyulo2ftsqej7ov2ijw6w8mg6id9dbf" xml:space="preserve">{{Дата|2 декабря 2005}}
+{{Космонавтика}}
+[[Файл:Mars_Viking_11h016.png|thumb|left|Панорама кратера Chryse Planitia. Фото сделано зондом «Викинг-1», июль 1976]]
+[[Файл:Mars-express-volcanoes-sm.jpg|thumb|left|Зонд «Марс Экспресс»]]
+
+Межпланетный зонд [[w:Европейское космическое агентство | Европейского космического агентства]] (ЕСА) [[w:Марс Экспресс |«Марс Экспресс»]] (Mars Express), с помощью глубинного [[w:Радар | радара]], обнаружил под поверхностью [[w:Марс (планета)|Марса]], в кратере (Chryse Planitia), круглое образование диаметром до 250 км и толщиной до 1 км, возможно, это образование состоит из [[w:Лёд | льда]].
+
+«Марс Экспресс» был запущен 2 июня 2003 года и уже два года вращается по орбите вокруг Марса. 19 сентября ЕСА решило продолжить миссию «Марс Экспресса» ещё на один марсианский год, который продолжается, примерно, 23 земных месяца.
+
+Предположения, о наличие на Марсе таких больших массивов воды, были сделаны уже ранее. Однако, до сих пор, этому не было никаких подтверждений. Найденный массив льда, укрепляет предположение о возможном наличие простейших микроорганизмов, которые могли бы развиваться на Марсе.
+
+Открытие стало возможным благодаря прибору, который просвечивает поверхность Марса на глубину до 1 км. На такой глубине, лёд в этом образовании имеет температуру −33 °C.
+
+Разработана теория, согласно которой, в результате извержение [[w:Вулкан (геология)|вулкана]] под поверхностью мог образоваться такой массив льда.
+
+Есть предположения, что на северном полюсе Марса и в районе [[w:Экватор|экватора]] так же имеются массивы льда.
+
+Последние результаты исследований были опубликованы 30 ноября 2005 в журнале «Сайнс» (Science).
+
+== Источники ==
+* {{перевод|de|Forscher entdecken große Mengen Wasser auf dem Mars|2 декабря 2005}}
+* [http://www.esa.int/SPECIALS/Results_from_Mars_Express_and_Huygens/SEM7ZTULWFE_2.html  Buried craters and underground ice — Mars Express uncovers depths of Mars (англ.)]
+
+[[Категория:Марс]]
+[[Категория:Европейское космическое агентство]]
+[[Категория:Извержения вулканов]]
+[[Категория:Лёд]]
+{{публиковать}}</text>
+      <sha1>kyulo2ftsqej7ov2ijw6w8mg6id9dbf</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Репетиция: Выборы в Мосгордуму 2005</title>
+    <ns>0</ns>
+    <id>1615</id>
+    <revision>
+      <id>15385053</id>
+      <parentid>1107791</parentid>
+      <timestamp>2022-10-14T21:31:16Z</timestamp>
+      <contributor>
+        <username>VladimirPF</username>
+        <id>23388</id>
+      </contributor>
+      <minor />
+      <comment>added [[Category:Россия в декабре 2005 года]] using [[Help:Gadget-HotCat|HotCat]]</comment>
+      <origin>15385053</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="4789" sha1="cd7mvwi3vlofehdnl3h0j70rc1btbmr" xml:space="preserve">{{:Дата|2 декабря 2005}} {{Москва}}
+В воскресенье, [[4 декабря 2005 года|4 декабря]], в [[Москва|Москве]] пройдут [[Выборы в Московскую городскую думу (2005)|выборы]] в [[Мосгордума|Московскую городскую думу]]. Считается, что эти выборы являются репетицией перед выборами в [[Государственная Дума России|Государственную думу]] в 2007 году и выборами [[Президент Российской Федерации|президента]] в 2008 году.
+
+В Московскую городскую думу будут выбирать 35 депутатов, из них 20 по партийным спискам и 15 по одномандатным округам.
+
+В избирательной комиссии были зарегистрированы списки следующих партий: [[Единая Россия|«Единая Россия»]], [[КПРФ]], [[ЛДПР]], [[w:Родина (политическая партия)|«Родина»]], совместный список партии [[w:Яблоко (пария)|«Яблоко»]] и [[w:Союза Правых Сил|Союза правых сил]], [[w:Народная воля (партия)|«Народная воля»]], «Свободная Россия», [[w:Партия жизни|«Российская партия жизни»]], {{w|Партия социальной справедливости}}, «Зелёные», «Евразийский союз».
+
+26 ноября партия «Родина» была снята с выборов, по иску ЛДПР, постановлением Московского городского суда — за разжигание межнациональной розни. В пятницу, 2 декабря Верховный суд подтвердил решение Московского суда, то есть, партия «Родина» окончательно отстранена от выборов.
+
+Для признания выборов состоявшимися, достаточно явки 20 % избирателей. Установлен 10 % барьер для партийных списков. 10 % голосов — соответствует двум депутатским мандатам в Мосгордуме.
+Считается, что наибольшие шансы на победу имеет партия власти — «Единая Россия». Список этой партии возглавляет мэр Москвы [[Юрий Лужков]], хотя, он не собирается уходить со своего поста. По опросам, «Единая Россия» может получить до 50 % голосов.
+
+Перед выборами в Мосгордуму, впервые единым списком выступают две крупнейшие демократические партии — «Яблоко» и СПС.
+
+Первые, предварительные результаты, московских выборов ожидаются в воскресенье ([[4 декабря 2005 года|4 декабря]]) вечером.
+
+{{-}}
+
+{{Подвал новости}}
+
+{{Категории|}}
+
+
+[[Категория:Выборы в Московскую городскую думу (2005)]]
+[[Категория:Москва]]
+[[Категория:Политика]]
+[[Категория:Юрий Лужков]]
+[[Категория:Родина (партия)]]
+[[Категория:Союз правых сил]]
+[[Категория:Выборы в России]]
+[[Категория:Выборы]]
+[[Категория:Московская городская дума]]
+[[Категория:Государственная дума]]
+[[Категория:Выборы в Московскую городскую думу]]
+[[Категория:Выборы 2005 года]]
+[[Категория:Выборы в Москве]]
+[[Категория:Выборы в России 2005 года]]
+[[Категория:Выборы в Москве 2005 года]]
+[[Категория:Единая Россия]]
+[[Категория:Политика Москвы]]
+[[Категория:Политика России]]
+[[Категория:Общество в Москве]]
+[[Категория:Общество в России]]
+[[Категория:Общество]]
+[[Категория:Яблоко]]
+[[Категория:Россия в декабре 2005 года]]
+
+{{yes}}</text>
+      <sha1>cd7mvwi3vlofehdnl3h0j70rc1btbmr</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Выборы Президента Казахстана</title>
+    <ns>0</ns>
+    <id>1616</id>
+    <revision>
+      <id>195027</id>
+      <parentid>58843</parentid>
+      <timestamp>2012-12-20T09:01:02Z</timestamp>
+      <contributor>
+        <username>Krassotkin</username>
+        <id>3944</id>
+      </contributor>
+      <minor />
+      <comment>добавлена категория «Нурсултан Назарбаев» с помощью [[w:Википедия:Гаджеты/HotCat|HotCat]]</comment>
+      <origin>195027</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="2396" sha1="54w1uvnzujezfkvlkgcv51oguwnk6jk" xml:space="preserve">{{:Дата|2 декабря 2005}} {{Казахстан}}
+
+4 декабря состоятся выбора Президента [[w:Казахстан|Казахстана]]. Президент Казахстана выбирается на срок — 7 лет. Срок полномочий ныне действующего президента истекает в январе 2006 года. По Конституции Казахстана, выборы президента должны состояться в первое воскресенье декабря, после истечения семилетнего срока полномочий действующего президента. Фактически, полномочия [[w:Назарбаев, Нурсултан Абишевич |Нурсултана Назарбаева]] ещё не истекли, но после их истечения в январе, до следующего декабря — 11 месяцев. Поэтому Парламент Казахстана принял решение о проведении президентских выборов в этом году.
+Сам Назарбаев не возражал против такого досрочного переизбрания. Никто не сомневается, что Назарбаев будет переизбран на следующий президентский срок.
+Кандидатами на пост Президента Казахстана зарегистрированы: 
+* '''Нурсултан Назарбаев''' — действующий Президент Казахстана
+* '''Жармахан Туякбай''' — лидер движения «За справедливый Казахстан
+* '''Алихан Байменов''' — лидер партии «Ак жол» (Светлый путь)
+* '''Ерасыл Абылкасымов''' — депутат парламента от Коммунистической народной партии Казахстана 
+* '''Мэлс Елеусизов''' — руководителя экологического союза &quot;Табигат&quot; (&quot;Природа&quot;) 
+
+[[Категория:Казахстан]]
+[[Категория:Политика]]
+[[Категория:Нурсултан Назарбаев]]
+{{публиковать}}</text>
+      <sha1>54w1uvnzujezfkvlkgcv51oguwnk6jk</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Итоги парламентских выборов в Чечне</title>
+    <ns>0</ns>
+    <id>1618</id>
+    <revision>
+      <id>15379899</id>
+      <parentid>220583</parentid>
+      <timestamp>2022-10-14T20:39:16Z</timestamp>
+      <contributor>
+        <username>VladimirPF</username>
+        <id>23388</id>
+      </contributor>
+      <minor />
+      <comment>added [[Category:Россия в декабре 2005 года]] using [[Help:Gadget-HotCat|HotCat]]</comment>
+      <origin>15379899</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="3178" sha1="l6wralsj2fxi0whub5vq89axnl9g6sl" xml:space="preserve">{{Дата|3 декабря 2005}}
+{{Чечня}}
+Объявлены официальные итоги парламентских выборов в [[w:Чечня|Чечне]], состоявшихся 27 ноября. Наибольшее число мест в парламенте получила партия [[w:Единая Россия|«Единая Россия»]] — 33, из них 24 в Народном собрании и 9 в Совете республики. 
+Было зарегистрировано 596.567 избирателей, в голосовании приняли участие 415.150, что составляет 69,59%. 
+В голосовании по партийным спискам 
+* «Единая Россия» получила 60,65% избирателей (14 мест в парламенте)
+* [[w:Союз Правых Сил|Союз правых сил]] — 12,39% (3 места в парламенте)
+* [[w:Коммунистическая партия Российской Федерации|КПРФ]] — 12,20% (3 места в парламенте)
+
+Остальные партии не смогли преодолеть пятипроцентный барьер:
+* «Евразийский союз» — 3,85%,
+* [[w:Яблоко (партия)|«Яблоко»]] — 3,15%
+* [[w:Родина (политическая партия)|«Родина»]] — 2,39%
+* [[w:Либерально-демократическая партия России|ЛДПР]] — 1,46%
+* [[w:Народная воля (партия)|«Народная воля»]] — 1,29%
+
+Против всех голосовали 1,51% избирателей.
+
+По одномандатным округам преимущество имеет также «Единая Россия» — 19 мандатов из 38,
+КПРФ — 3 мандата, СПС — 1, «Евразийский союз» — 1.
+14 депутатских мандатов получили независимые кандидаты.
+
+Из 40 мест в Народном собрании
+* «Единая Россия» имеет 24 (14 по партийным спискам и 10 по одномандатным округам)
+* КПРФ — 3
+* СПС — 3
+* Независимые депутаты — 10
+
+Из 18 мест в Совете республики
+* «Единая Россия» имеет 9
+* КПРФ — 3
+* СПС — 1
+* «Евразийский союз» — 1
+* Независимые депутаты — 4
+
+== См. также ==
+*[[Парламентские выборы в Чечне]]
+
+== Источники == 
+* {{источник|url=http://www.gazeta.ru/2005/12/03/last180273.shtml|Название=В Чечне объявлены официальные итоги парламентских выборов|Издатель=Газета.ру|Дата=3 декабря 2005 года}}
+
+[[Категория:Выборы в России]]
+[[Категория:Единая Россия]]
+[[Категория:Союз правых сил]]
+[[Категория:Россия в декабре 2005 года]]
+{{публиковать}}</text>
+      <sha1>l6wralsj2fxi0whub5vq89axnl9g6sl</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Mozilla 1.5 на русском</title>
+    <ns>0</ns>
+    <id>1623</id>
+    <revision>
+      <id>15157339</id>
+      <parentid>14672378</parentid>
+      <timestamp>2022-08-12T03:35:36Z</timestamp>
+      <contributor>
+        <username>CommonsDelinker</username>
+        <id>260</id>
+      </contributor>
+      <comment>Replacing Mozilla_Firefox_3.5_logo_256.png with [[File:Mozilla_Firefox_3.5_logo.png]] (by [[:c:User:CommonsDelinker|CommonsDelinker]] because: [[:c:COM:FR|File renamed]]: [[:c:COM:FR#FR3|Criterion 3]] (obvious error)).</comment>
+      <origin>15157339</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="2266" sha1="14k99lc8lynfpad8u545rsqm0orm20v" xml:space="preserve">{{Дата|3 декабря 2005‎ }}
+[[Файл:Mozilla Firefox 3.5 logo.png|слева|мини|300пкс|Логотип Mozilla Firefox]]
+Вышел новый релиз Mozilla Firefox — 1.5!
+
+Выход русской версии Mozilla Firefox 1.5 открывает дорогу в мир быстрого и безопасного Web для всех русскоязычных пользователей.
+
+Загружая русскую версию Mozilla Firefox 1.5, вы сразу получаете русский интерфейс и набор поисковых плагинов.
+
+Также вышла версия на языках: английском (США), арабском, голландском, греческом, датском, иврите, испанском (Америка), испанском (Испания), итальянском, каталонском, китайском (традиционном и упрощенном), корейском, немецком, норвежском (бокмал), польском, португальском (Бразилия), румынском, словацком, словенском, турецком, финском, французском, чешском, шведском и японском.
+
+Скачать все версии можно [http://www.mozilla.com/firefox/all.html http://www.mozilla.com/firefox/all.html].
+
+{{also|Выходит новая версия Firefox}}
+
+{{-}}
+
+{{Подвал новости}}
+
+{{Категории|Mozilla|Свободное программное обеспечение|Испанский язык|Турецкий язык|Португальский язык|Греческий язык|Английский язык|Французский язык|Русский язык|Арабский язык|Японский язык|Итальянский язык|Румынский язык|Словенский язык|Датский язык|Чешский язык|Иврит|Шведский язык|Немецкий язык|Финский язык|Словацкий язык|Корейский язык|Польский язык|Каталанский язык|Firefox|Интерфейс}}
+
+{{публиковать}}</text>
+      <sha1>14k99lc8lynfpad8u545rsqm0orm20v</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Жеребьёвка предварительных групп ЧМ 2006 по футболу</title>
+    <ns>0</ns>
+    <id>1626</id>
+    <revision>
+      <id>16706448</id>
+      <parentid>16133467</parentid>
+      <timestamp>2024-08-27T17:44:57Z</timestamp>
+      <contributor>
+        <username>CommonsDelinker</username>
+        <id>260</id>
+      </contributor>
+      <comment>Replacing Flag_of_Togo.svg with [[File:Flag_of_Togo_(3-2).svg]] (by [[:c:User:CommonsDelinker|CommonsDelinker]] because: 3-2 aspect ratio is more accurate than &quot;golden ratio&quot;.  See [[:c::en:Talk:Flag of Togo#Truly_golden?|]] for more information.).</comment>
+      <origin>16706448</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="11598" sha1="73p9q87ofydi38f304kiyxbqdqnnpqh" xml:space="preserve">{{:Дата| 9 декабря 2005}} {{Футбол}}
+[[Image:Teamgeist_Ball_World_Cup_2006.jpg|thumb|165px|слева|Teamgeist – официальный мяч Чемпионата мира по футболу 2006 в Германии.]]
+9 декабря в {{w|Лейпциг}}е будет проведена жеребьёвка предварительных групп финальной стадии Чемпионата мира по футболу 2006 года. В Чемпионате примут участие 32 сборные: [[w:Германия| Германия]], [[w:Украина| Украина]], [[w:Португалия| Португалия]], [[w:Нидерланды| Нидерланды]], [[w:Италия| Италия]], [[w:Англия| Англия]], [[w:Хорватия| Хорватия]], [[w:Польша| Польша]], [[w:Франция| Франция]], [[w:Швеция| Швеция]], [[w:Сербия и Черногория| Сербия и Черногория]], [[w:Швейцария| Швейцария]], [[w:Испания| Испания]], [[w:Чехия| Чехия]], [[w:Бразилия| Бразилия]], [[w:Аргентина| Аргентина]], [[w:Эквадор| Эквадор]], [[w:Парагвай| Парагвай]], [[w:Мексика| Мексика]], [[w:США| США]], [[w:Коста-Рика| Коста-Рика]], [[w:Тринидад и Тобаго| Тринидад и Тобаго]], [[w:Того| Того]], [[w:Гана| Гана]], [[w:Кот-д’Ивуар |Кот д`Ивуар]], [[w:Ангола| Ангола]], [[w:Тунис| Тунис]], [[w:Саудовская Аравия| Саудовская Аравия]], [[w:Южная Корея| Южная Корея]], [[w:Япония| Япония]], [[w:Иран| Иран]], [[w:Австралия| Австралия]]. 32 участника Чемпионата мира будут распределены на 8 групп, которые имеют буквенные (латинский алфавит) обозначения — A, B, C, D, E, F, G, H. В каждой группе по четыре команды, которые сыграют между собой по одному матчу. Команды, занявшие третье и четвёртое места, покидают соревнования. Команды, занявшие первое и второе места, продолжат борьбу по системе с выбыванием с одной восьмой финала. Чемпионат будет проходить в в двенадцати городах [[w:Германия | Германии]] с 9 июня по 9 июля 2006 года. Матч открытия состоится 9 июня на новом стадионе «Альянс Арена» (Allianz Arena) в {{w|Мюнхен}}е. Финальный матч состоится 9 июля на Олимпийском стадионе в {{w|Берлин}}е.
+
+Перед жеребьёвкой ФИФА распределила всех участников по четырём корзинам. В первую корзину попали команды имеющие наивысший рейтинг ФИФА и команда хозяев чемпионата. Остальные команды были распределены по трём корзинам по географическому принципу. Особый статус получила команда Сербии и Черногории, как слабейшая из европейских команд. 
+
+Составы корзин:
+* 1-я — Германия, Бразилия, Италия, Франция, Аргентина, Испания, Мексика, Англия
+* 2-я — Гана, Кот-д’Ивуар, Того, Тунис, Ангола, Эквадор, Парагвай, Австралия
+* 3-я — Хорватия, Чехия, Нидерланды, Польша, Швеция, Португалия, Швейцария, Украина
+* 4-я — Иран, Япония, Саудовская Аравия, Южная Корея, Тринидад и Тобаго, Коста.Рика, США
+* 5-я — Сербия и Черногория
+
+В каждую из предварительных групп попадёт по одной команды из первых четырёх корзин. Сербия и Черногория будет направлена в группу, в которой будет лишь одна европейская команда.
+
+Заранее определено, что Германия будет первой командой в группе А (А1), Бразилия — первой в группе F (F1).
+
+Жеребьёвка начнётся в 20 часов 30 минут местного времени (Лейпциг) (19:30 {{w|UTC}}, 22:30 московского времени).
+
+== Группа А ==
+
+{{ЧМ2006 Группы|Группа=A |A1=Германия |A2=Коста-Рика |A3=Польша |A4=Эквадор|Дата1=09.06.06 |Дата2=09.06.06 |Дата3=14.06.06 |Дата4=15.06.06|Дата5=20.06.06|Дата6=20.06.06|Город1=Мюнхен | Город2=Гельзенкирхен | Город3=Дортмунд | Город4=Гамбург | Город5=Берлин | Город6=Ганновер |Флаг1=[[Image:Flag of Germany.svg|border|30px]] | Флаг2=[[Image:Flag of Costa Rica.svg|border|30px]] | Флаг3=[[Image:Flag of Poland.svg|border|30px]] | Флаг4=[[Image:Flag of Ecuador.svg|border|30px]]| Символ=[[Image:Soccerball.svg|20px]]}}
+
+== Группа B ==
+	
+{{ЧМ2006 Группы|Группа=B |A1=Англия |A2=Парагвай |A3=Тринидад и Тобаго |A4=Швеция|Дата1=10.06.06 |Дата2=10.06.06 |Дата3=15.06.06 |Дата4=15.06.06|Дата5=20.06.06|Дата6=20.06.06|Город1=Франкфурт | Город2=Дортмунд | Город3=Нюрнберг | Город4=Берлин | Город5=Кёльн | Город6=Кайзерслаутерн |Флаг1=[[Image:Flag_of_England.svg|border|30px]]| Флаг2=[[Image:Flag of Paraguay.svg|border|30px]] | Флаг3=[[Image:Flag of Trinidad and Tobago.svg|border|30px]] | Флаг4=[[Image:Flag of Sweden.svg|border|30px]]|Символ=[[Image:Soccerball.svg|20px]]}}
+
+== Группа C ==
+	
+{{ЧМ2006 Группы|Группа=C |A1=Аргентина |A2=Кот-д'Ивуар |A3=Сербия и Черногория |A4=Нидерланды|Дата1=10.06.06 |Дата2=11.06.06 |Дата3=16.06.06 |Дата4=16.06.06|Дата5=21.06.06|Дата6=21.06.06|Город1=Гамбург | Город2=Лейпциг | Город3=Гельзенкирхен | Город4=Штутгарт | Город5=Франкфурт | Город6=Мюнхен |Флаг1=[[Image:Flag of Argentina.svg|border|30px]] | Флаг2=[[Image:Flag_of_Cote_d'Ivoire.svg|border|30px]] | Флаг3=[[Image:Flag of Serbia and Montenegro; Flag of Yugoslavia (1992–2003).svg|border|30px]] | Флаг4=[[Image:Flag of the Netherlands.svg|border|30px]]|Символ=[[Image:Soccerball.svg|20px]]}}
+
+== Группа D ==
+	
+{{ЧМ2006 Группы|Группа=D |A1=Мексика |A2=Иран |A3=Ангола |A4=Португалия|Дата1=11.06.06 |Дата2=11.06.06 |Дата3=16.06.06 |Дата4=17.06.06|Дата5=21.06.06|Дата6=21.06.06|Город1=Нюрнберг | Город2=Кёльн | Город3=Ганновер | Город4=Франкфурт | Город5=Гельзенкирхен | Город6=Лейпциг |Флаг1=[[Image:Flag of Mexico.svg|border|30px]] | Флаг2=[[Image:Flag of Iran.svg|border|30px]] | Флаг3=[[Image:Flag of Angola.svg|border|30px]] | Флаг4=[[Image:Flag of Portugal.svg|border|30px]]|Символ=[[Image:Soccerball.svg|20px]]}}
+
+== Группа E ==
+	
+{{ЧМ2006 Группы|Группа=E |A1=Италия |A2=Гана |A3=США |A4=Чехия|Дата1=12.06.06 |Дата2=12.06.06 |Дата3=17.06.06 |Дата4=17.06.06|Дата5=22.06.06|Дата6=22.06.06|Город1=Ганновер | Город2=Гельзенкирхен | Город3=Кайзерслаутерн | Город4=Кёльн | Город5=Гамбург | Город6=Нюрнберг |Флаг1=[[Image:Flag of Italy.svg|border|30px]] | Флаг2=[[Image:Flag of Ghana.svg|border|30px]] | Флаг3=[[Image:Flag of the United States.svg|border|30px]] | Флаг4=[[Image:Flag of the Czech Republic.svg|border|30px]]|Символ=[[Image:Soccerball.svg|20px]]}}
+
+== Группа F ==
+	
+{{ЧМ2006 Группы|Группа=F |A1=Бразилия |A2=Хорватия |A3=Австралия |A4=Япония|Дата1=13.06.06 |Дата2=12.06.06 |Дата3=18.06.06 |Дата4=18.06.06|Дата5=22.06.06|Дата6=22.06.06|Город1=Берлин | Город2=Кайзерслаутерн | Город3=Мюнхен | Город4=Нюрнберг | Город5=Дортмунд | Город6=Штутгарт |Флаг1=[[Image:Flag of Brazil.svg|border|30px]] | Флаг2=[[Image:Flag of Croatia.svg|border|30px]] | Флаг3=[[Image:Flag of Australia.svg|border|30px]] | Флаг4=[[Image:Flag of Japan.svg|border|30px]]|Символ=[[Image:Soccerball.svg|20px]]}}
+
+== Группа G ==
+	
+{{ЧМ2006 Группы|Группа=G |A1=Франция |A2=Швейцария |A3=Корея |A4=Того|Дата1=13.06.06 |Дата2=13.06.06 |Дата3=18.06.06 |Дата4=19.06.06|Дата5=23.06.06|Дата6=23.06.06|Город1=Штутгарт | Город2=Франкфурт | Город3=Лейпциг | Город4=Дортмунд | Город5=Кёльн | Город6=Ганновер |Флаг1=[[Image:Flag of France.svg|border|30px]] | Флаг2=[[Image:Flag of Switzerland.svg|border|30px]] | Флаг3=[[Image:Flag of South Korea.svg|border|30px]] | Флаг4=[[Image:Flag of Togo (3-2).svg|border|30px]]|Символ=[[Image:Soccerball.svg|20px]]}}
+
+== Группа H ==
+	
+{{ЧМ2006 Группы|Группа=H |A1=Испания |A2=Украина |A3=Тунис |A4=Саудовская Аравия|Дата1=13.06.06 |Дата2=13.06.06 |Дата3=18.06.06 |Дата4=19.06.06|Дата5=23.06.06|Дата6=23.06.06|Город1=Лейпциг | Город2=Мюнхен | Город3=Штутгарт | Город4=Гамбург | Город5=Кайзерслаутерн | Город6=Берлин |Флаг1=[[Image:Flag of Spain.svg|border|30px]] | Флаг2=[[Image:Flag of Ukraine.svg|border|30px]] | Флаг3=[[Image:Flag of Tunisia.svg|border|30px]] | Флаг4=[[Image:Flag of Saudi Arabia.svg|border|30px]]|Символ=[[Image:Soccerball.svg|20px]]}}
+
+== См. также ==
+[[Завершились отборочные игры к чемпионату мира по футболу]]
+
+[[Категория:Футбол]]
+[[Категория:Мюнхен]]
+[[Категория:Дортмунд]]
+[[Категория:Ганновер]]
+[[Категория:Сборная Японии по футболу]]
+[[Категория:Чемпионат мира по футболу 2006]]
+[[Категория:Чемпионат мира по футболу]]
+[[Категория:Спорт]]
+[[Категория:Лейпциг]]
+[[Категория:ФИФА]]
+[[Категория:Нюрнберг]]
+[[Категория:Штутгарт]]
+[[Категория:Украина в декабре 2005 года]]
+{{Публиковать}}</text>
+      <sha1>73p9q87ofydi38f304kiyxbqdqnnpqh</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Казахстан выбирает Президента</title>
+    <ns>0</ns>
+    <id>1627</id>
+    <revision>
+      <id>220749</id>
+      <parentid>195024</parentid>
+      <timestamp>2013-02-28T17:54:34Z</timestamp>
+      <contributor>
+        <username>Brateevsky</username>
+        <id>9610</id>
+      </contributor>
+      <comment>викификация, категории</comment>
+      <origin>220749</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="2675" sha1="tsf03f54o3482v9ivzog2486vgr0c7u" xml:space="preserve">{{:Дата |4 декабря 2005}} {{Казахстан}}
+[[Image:Nursultan Nazarbayev 1997.jpg|thumb|192px|слева|Президент Казахстана Нурсултан Абишевич Назарбаев]]
+Как и ожидалось, безоговорочную победу на [[w:Президентские выборы в Казахстане (2005)|президентских выборах]] в {{w|Казахстан}}е одерживает действующий президент [[w:Назарбаев, Нурсултан Абишевич|Нурсултан Назарбаев]]. По данным exit-polls опроса Назарбаев имеет 87,43% голосов избирателей.
+
+Его соперники:
+
+[[w:Туякбай, Жармахан Айтбаевич|Жармархан Туякбай]] — 8,54 % голосов избирателей, [[w:Байменов, Алихан Мухамедьевич|Алихан Байменов]] — 2,04 %, Ерасыл Абылкасымов — 1,1 %, Мэл Елеусизов — 0,89 %.
+
+В голосовании приняли участие 76 % избирателей (примерно, 6,7 мил.)
+
+==Краткая справка ==
+Нурсултан Абишевич Назарбаев 
+* дата рождения — 06.07.1940
+* образование — завод-втуз при Карагандинском металлургическом комбинате в 1967 году
+* с 1969 по 1973 на партийной и комсомольской работе в Темиртау
+* с 1977 по 1979 секретарь Карагандинского обкома партии
+* с 1979 по 1984 секретарь ЦК Компартии Казахстана
+* с 1984 по 1991 Председатель Совета министров Казахской ССР
+* с 1989 по 1991 первый секретарь ЦК Компартии Казахстана
+* с апреля 1990 президент Казахстана
+
+== См. также ==
+[[Выборы Президента Казахстана]]
+
+== Источники ==
+* {{источник|url=http://ria.ru/politics/20051204/42309025.html|Название=Данные опросов отражают реальную поддержку Назарбаева — политолог|Издатель=РИА Новости|Дата=4 декабря 2005}}
+
+[[Категория:Казахстан]] 
+[[Категория:Выборы]]
+[[Категория:Выборы в Казахстане]]
+[[Категория:Нурсултан Назарбаев]]
+{{публиковать}}</text>
+      <sha1>tsf03f54o3482v9ivzog2486vgr0c7u</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Первые, предварительные, результаты выборов в Мосгордуму</title>
+    <ns>0</ns>
+    <id>1631</id>
+    <revision>
+      <id>15383218</id>
+      <parentid>7670191</parentid>
+      <timestamp>2022-10-14T21:10:54Z</timestamp>
+      <contributor>
+        <username>VladimirPF-Bot</username>
+        <id>49101</id>
+      </contributor>
+      <minor />
+      <comment>Добавление категории Россия в Россия в декабре 2005 года, replaced: |Россия| → |, File → Файл</comment>
+      <origin>15383218</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="3876" sha1="8jl27md6cvker5cum1raz3g5cvuscj3" xml:space="preserve">{{дата|4 декабря 2005‎}}
+{{тема|Выборы|Московская городская дума}}
+[[Файл:Voter invitation Moscow 2005 1-2.jpg|thumb|left|300px|Постер: [[Выборы в Московскую городскую думу (2005)]]]]
+В [[Выборы|выборах]] [[Московская городская дума|Московскую городскую думу]], по данным опросов [[Экзитполы|exit-poll]], лидирует партия «[[Единая Россия]]» — 49 % голосов.
+Далее следуют [[Коммунистическая партия Российской Федерации|КПРФ]] — 17 %, «[[Яблоко]]» (совместно с [[Союз правых сил|СПС]]) — 13 %, [[ЛДПР]] — 10 %, «[[Российская партия жизни]]» — 5 %, «[[Российская экологическая партия «Зелёные»|Зелёные]]» — 3 %, «[[Свободная Россия (партия)|Свободная Россия]]», [[Партия социальной справедливости]] и «[[Народная воля (партия)|Народная воля]]» по 1 % голосов. При выборах в Мосгордуму установлен очень высокий — 10-процентный барьер.
+
+В Мосгордуме будет 35 депутатов, из них 20 выбираются по партийным спискам и 15 по одномандатным округам.
+Явка на выборы составляет 33,09 % избирателей. По закону, достаточно 20 %, чтобы признать выборы состоявшимися.
+
+Одновременно с выборами в Мосгордуму, проводятся довыборы двух депутатов в [[Государственная дума|Государственную Думу Российской Федерации]].
+По предварительным данным здесь уверенно побеждают [[Станислав Говорухин]] и [[Сергей Шаврин]].
+
+{{next|Итоги выборов в Мосгордуму}}
+
+{{prev|Репетиция: Выборы в Мосгордуму 2005}}
+
+{{-}}
+
+== См. также ==
+* [[Выборы в Мосгордуму]]
+
+== Источники ==
+* [http://www.rian.ru/politics/regions/20051204/42309913.html  РИА Новости]
+* [http://www.interfax.ru/r/B/politics/2.html?id_issue=11430398  Интерфакс]
+
+{{Подвал новости}}
+
+{{Категории|Выборы|Выборы 2005 года|Выборы в Москве|Выборы в Москве 2005 года|Выборы в России|Выборы в России 2005 года|Выборы в Московскую городскую думу|Выборы в Московскую городскую думу (2005)|Государственная дума|Европа|Единая Россия|Коммунистическая партия Российской Федерации|ЛДПР|Москва|Московская городская дума|Народная воля (партия)|Общество|Общество в Москве|Общество в России|Партия социальной справедливости|Политика|Политика Москвы|Политика России|Российская партия жизни|Российская экологическая партия «Зелёные»|Свободная Россия (партия)|Сергей Шаврин|Союз правых сил|Станислав Говорухин|Экзитполы|Яблоко|}}
+
+{{yes}}
+
+[[Категория:Россия в декабре 2005 года]]</text>
+      <sha1>8jl27md6cvker5cum1raz3g5cvuscj3</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Итоги выборов в Мосгордуму</title>
+    <ns>0</ns>
+    <id>1636</id>
+    <revision>
+      <id>15379095</id>
+      <parentid>7670026</parentid>
+      <timestamp>2022-10-14T20:30:27Z</timestamp>
+      <contributor>
+        <username>VladimirPF-Bot</username>
+        <id>49101</id>
+      </contributor>
+      <minor />
+      <comment>Добавление категории Россия в Россия в декабре 2005 года, replaced: {: → {,  | → | (5), |  → | (2)</comment>
+      <origin>15379095</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="4548" sha1="fnwiseqp2a8v0lzcrj0yuja8velzset" xml:space="preserve">{{Дата|5 декабря 2005}} {{Москва}}
+
+По предварительным данным (после обработки 99% избирательных протоколов), победу на выборах в [[w:Мосгордума|Московскую городскую думу]] одержала про правительственная партия [[w:Единая Россия|«Единая Россия»]], которая будет иметь 28 (из 35) депутатских мандатов.
+По партийным спискам «Единая Россия» получит 13 мандатов, {{w|КПРФ}} — 4 и [[w:Яблоко (пария)|«Яблоко»]] (совместно с [[w: Союза Правых Сил|СПС]]) — 3.
+Во всех 15-ти одномандатных округах впереди представители «Единой России». В сумме  «Единая Россия» может получить 28 мандатов.
+
+По партийным спискам голоса избирателей распределились так:
+* «Единая Россия» получила 42,27% голосов,
+* КПРФ — 16,74%
+* «Яблоко» (СПС) — 11,09%
+* {{w|ЛДПР}} — 8,01%
+* [[w:Партия жизни|«Российская партия жизни»]] — 4,72%
+* «Зелёные» — 2,63%
+* «Свободная Россия» — 2,22%
+* {{w|Партия социальной справедливости}} — 1,22%
+* [[w:Народная воля (партия)|«Народная воля»]]  — 0,6%
+
+В Мосгордуму прошли только первые три партии, остальные не преодолели установленный 10% барьер.
+
+Из 35 депутатов, 13 новые, 22 депутата сохранили свои мандаты.
+
+Явка на выборы составляет 34,81% избирателей. По закону, достаточно 20%, чтобы признать выборы состоявшимися.
+
+Одновременно с выборами в Мосгордуму, проводились довыборы двух депутатов в [[w:Государственная Дума Российской Федерации|Государственную Думу Российской Федерации]].
+
+После обработки 100% избирательных протоколов, уверенную победу одержали [[w:Говорухин, Станислав Сергеевич|Станислав Говорухин]] (38,05% голосов) и [[w:Шаврин, Сергей Иванович|Сергей Шаврин]] (36,24%). Соперником Говорухина был известный писатель Виктор Шендерович, который получил 15,91%. Соперником Шаврина был отставной полковник, подозреваемый в покушении на [[w:Чубайс, Анатолий Борисович|Чубайса]], Владимир Квачков, он получил 28,91% голосов.
+
+== См. также ==
+* [[Первые, предварительные, результаты выборов в Мосгордуму]]
+* [[Выборы в Мосгордуму]]
+
+== Источники ==
+* [http://www.rian.ru/politics/russia/20051205/42313046.html РИА Новости]
+* [http://www.rian.ru/politics/russia/20051205/42313388.html РИА Новости]
+
+[[Категория:Москва]]
+[[Категория:Политика]]
+[[Категория:Виктор Шендерович]]
+[[Категория:Владимир Квачков]]
+[[Категория:Опубликовано]]
+[[Категория:Анатолий Чубайс]]
+[[Категория:Сергей Шаврин]]
+[[Категория:Выборы в Московскую городскую думу (2005)]]
+[[Категория:Выборы]]
+[[Категория:Выборы 2005 года]]
+[[Категория:Выборы в Москве]]
+[[Категория:Выборы в Москве 2005 года]]
+[[Категория:Выборы в России]]
+[[Категория:Выборы в России 2020 года]]
+[[Категория:Общество]]
+[[Категория:Общество в Москве]]
+[[Категория:Общество в России]]
+[[Категория:Россия в декабре 2005 года]]</text>
+      <sha1>fnwiseqp2a8v0lzcrj0yuja8velzset</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Итоги выборов Президента Казахстана</title>
+    <ns>0</ns>
+    <id>1640</id>
+    <revision>
+      <id>195030</id>
+      <parentid>58863</parentid>
+      <timestamp>2012-12-20T09:01:42Z</timestamp>
+      <contributor>
+        <username>Krassotkin</username>
+        <id>3944</id>
+      </contributor>
+      <minor />
+      <comment>добавлена категория «Нурсултан Назарбаев» с помощью [[w:Википедия:Гаджеты/HotCat|HotCat]]</comment>
+      <origin>195030</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="1219" sha1="9bik68g7v8079ibd9du6ucoe484b699" xml:space="preserve">{{:Дата|5 декабря 2005}} {{Казахстан}}
+
+[[w:Назарбаев, Нурсултан Абишевич |Нурсултан Назарбаев]] остаётся Президентам [[w:Казахстан|Казахстана]] ещё на 7 лет. По предварительным данным он, как и ожидалось, получил 91,1% голосов избирателей.
+
+Остальные кандидаты в президенты не смогли достойно конкурировать с действующим президентом:
+* Жармахан Туякбай — 6,64% голосов
+* Алихан Байменов — 1,65%
+* Ерасыл Абылкасымов — 0,38%
+* Мэлс Елеусизов  — 0,32%
+
+== См. также ==
+
+* [[Казахстан выбирает Президента]]
+* [[Выборы Президента Казахстана]]
+
+== Источники ==
+
+* [http://www.interfax.ru/r/B/themeday3/33.html?others=7&amp;id_issue=11430440 Интерфакс]
+[[Категория:Казахстан]]
+[[Категория:Политика]]
+[[Категория:Нурсултан Назарбаев]]
+{{публиковать}}</text>
+      <sha1>9bik68g7v8079ibd9du6ucoe484b699</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Китай закупает 150 европейских аэробусов</title>
+    <ns>0</ns>
+    <id>1641</id>
+    <revision>
+      <id>678473</id>
+      <parentid>678472</parentid>
+      <timestamp>2018-10-25T23:18:58Z</timestamp>
+      <contributor>
+        <username>Krassotkin</username>
+        <id>3944</id>
+      </contributor>
+      <comment>+[[Категория:Вэнь Цзябао]]; +[[Категория:Астердам]]; +[[Категория:Париж]] using [[Help:Gadget-HotCat|HotCat]]</comment>
+      <origin>678473</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="2425" sha1="czalk2vosh2crhhfwqififzlowbpppc" xml:space="preserve">{{:Дата|6 декабря 2005}}
+[[Файл:Aeroflot A320-200 VP-BWH.jpg|thumb|right|250px| Аэробус А320]]
+
+Европейская компания «Airbus» получила заказ от [[Китай|Китая]] на производство и поставку 150 аэробусов. Китай намерен купить всего 150 аэробусов общей стоимостью, примерно, €8,5 млрд. Речь идёт покупки аэробусов типа: А319, А320 и А321.
+
+О сделке объявили на пресс конференции в {{w|Париж}}е премьер [[Госсовет КНР|Госсовета КНР]] Вэнь Цзябао (Wen Jiabao) и премьер-министр [[Франция|Франции]] {{w|Доминик де Вильпен}} (Dominique de Villepin). Вен Жибао находится с четырёх дневным визитом во Франции. Самолёты закупаются для шести китайских авиакомпаний.
+
+За несколько дней до этого события, в {{w|Амстердам}}е, был подписан договор о сотрудничестве между компанией «European Aeronautic Defence and Space Co NV» (EADS) и Китаем. Этим договор предусматривается организация конечной сборки маленьких самолётов в Китае. Для этого в Китае будут закупаться комплектующие на сумму $60 млн, начиная с 2007 и $120 млн, начиная с 2010 года.
+
+Компания EADS, совместно с китайской вертолётостроительной компанией «AVIC II», намерена разрабатывать и производить новый тип {{w|вертолёт}}а.
+
+== Источники ==
+Статья в немецкой Викиновости
+
+{{Публиковать}}
+{{Категории|Государственный совет КНР}}
+[[Категория:Франция]]
+[[Категория:Китай]]
+[[Категория:Экономика]]
+[[Категория:Доминик де Вильпен]]
+[[Категория:Вэнь Цзябао]]
+[[Категория:Амстердам]]
+[[Категория:Париж]]</text>
+      <sha1>czalk2vosh2crhhfwqififzlowbpppc</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Высказывание Кондолизы Райс о тайных операциях ЦРУ в Европе</title>
+    <ns>0</ns>
+    <id>1648</id>
+    <revision>
+      <id>16133322</id>
+      <parentid>382157</parentid>
+      <timestamp>2022-12-13T06:40:36Z</timestamp>
+      <contributor>
+        <username>VladimirPF</username>
+        <id>23388</id>
+      </contributor>
+      <minor />
+      <comment>Добавление категории Украина в декабре 2005 года, replaced: {: → { с помощью [[Project:AWB|AWB]]</comment>
+      <origin>16133322</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="3545" sha1="amnsjeabh6w3blfebkyby0n9yonqtew" xml:space="preserve">{{Дата|6 декабря 2005}}
+{{США}}
+[[Файл:Condoleezza Rice.jpg|thumb|250px|left| Госсекретарь США Кондолиза Райс]]
+Перед своим рабочим визитом в [[w:Европа|Европу]], Госсекретарь США Кондолиза Райс (Condoleezza Rice) первый раз высказалась по вопросу о тайных перевозках {{w|ЦРУ}}, задержанных подозреваемых в терроризме, через европейские аэропорты. Кондолиза Райс высказалась в защиту этой практики перевозки заключённых за границей.
+
+Кондолиза Райс заявила об этом на военной базе Эндрюс (Andrews), в штате Мэриленд. Она апеллировала к совместной работе в рамках трансатлантической солидарности. Европейские политики должны поставить себе вопрос: « хотят ли они работать вместе с нами, чтобы предотвратить атаки террористов против их собственных или других стран? Они должны решить, как далёко они хотят открывать доверительную информацию?» Этим высказыванием Кондолиза Райс пытается заглушить скандал, понижая надежду на полное разъяснение этой практики. В прессе ставятся вопросы о специально оборудованных в некоторых европейских странах тюрьмах, где содержались и допрашивались подозреваемые в терроризме и через какие аэропорты транспортировались эти подозреваемые. Кондолиза Райс по этому поводу: «Мы не можем открыто обсуждать информацию, если это угрожает успеху тайных служб в расследованиях и военных операциях.»
+
+Такая практика не нова, а применяется в течение десятков лет, она служит обезвреживанию терроризма и спасению жизней, сказала Райс.
+
+Во время своего визита в Европу, который начинается 5 декабря, Кондолиза Райс посетит {{w | Брюссель}}, [[w:Румыния|Румынию]] и [[w:Украина|Украину]]. {{w | Европейский Союз}} направил письмо правительству США, в котором просит официальных объяснений о тайных операциях ЦРУ в Европе.
+
+{{также|Первый визит Штайнмайера в США}}
+
+== Источники ==
+* Статья в немецких Викиновостях
+
+{{yes}}
+
+[[Категория:Политика США]]
+[[Категория:Европа]]
+[[Категория:Кондолиза Райс]]
+[[Категория:ЦРУ]]
+[[Категория:Политика]]
+[[Категория:Украина в декабре 2005 года]]</text>
+      <sha1>amnsjeabh6w3blfebkyby0n9yonqtew</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>ФИФА объявила призовой фонд</title>
+    <ns>0</ns>
+    <id>1649</id>
+    <revision>
+      <id>220765</id>
+      <parentid>220754</parentid>
+      <timestamp>2013-02-28T19:04:27Z</timestamp>
+      <contributor>
+        <username>Krassotkin</username>
+        <id>3944</id>
+      </contributor>
+      <minor />
+      <comment>добавлена категория «ФИФА» с помощью [[w:Википедия:Гаджеты/HotCat|HotCat]]</comment>
+      <origin>220765</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="2605" sha1="dfxv95vi295a1amsube4i815bt6ygt8" xml:space="preserve">{{:Дата|6 декабря 2005}} {{футбол}}
+Международная федерация футбола объявила о вознаграждениях, который получат команды — участницы финальной стадии [[w:Чемпионат мира ФИФА | Чемпионата мира по футболу]] летом 2006 года в [[w:Германия|Германии]]. Призовой фонд составит 300 млн. швейцарских франков&lt;sup&gt;1)&lt;/sup&gt; (~ 227,27 млн. [[w: Доллар США |долларов США]]). Команда победительница получит 24,5 млн. швейцарских франков. Финалист — 22,5 млн., полуфиналисты — по 21,5 млн., четвертьфиналисты — по 11,5 млн., проигравшие в одной восьмой финала — по 8,5 млн.
+
+Команды, которые закончат выступления после игр в предварительных группах, получат по 6 млн. швейцарских франков.
+
+Все команды участницы финальной стадии получат по 1 миллиону швейцарских франков ещё до начала игр, в качестве компенсации за средства, потраченные на подготовку.
+
+Всем членам делегаций будут выплачиваться суточные — по 400 швейцарских франков.
+Выплачиваться будут и суточные – по 400 швейцарских франков 45 членам официальных делегаций команд-финалистов.
+
+Всем, заявленным к Чемпионату мира игрокам, запрещено участвовать в официальных матчах после 15 мая 2006 года, за исключением участникам финала Лиги чемпионов, который состоится 17 мая.
+
+&lt;sup&gt;1)&lt;/sup&gt; — сегодня 1 швейцарский франк = 1,32 долларов США.
+
+== Источники ==
+* {{источник|url=http://sport.gazeta.ru/sport/2005/12/a_491605.shtml|Автор=Дмитрий Маслов.|Название=ФИФА сорит деньгами|Издатель=Газета.ру|Дата=6 декабря 2005}}
+
+[[Категория:Футбол]]
+[[Категория:ФИФА]]
+
+{{публиковать}}</text>
+      <sha1>dfxv95vi295a1amsube4i815bt6ygt8</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Европа отказалась от «Клипера»</title>
+    <ns>0</ns>
+    <id>1650</id>
+    <revision>
+      <id>16887159</id>
+      <parentid>15378002</parentid>
+      <timestamp>2026-03-16T09:21:10Z</timestamp>
+      <contributor>
+        <username>AtUkr</username>
+        <id>17242</id>
+      </contributor>
+      <origin>16887159</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="3345" sha1="csbzzt7pjm610bf6jctpiwqtjyawejp" xml:space="preserve">{{Дата|7 декабря 2005}} {{Космонавтика}}
+
+В {{w|Берлин}}е проходит совещание членов совета [[w:Европейское космическое агентство|Европейского космического агентства]] (ЕКА). Они обсуждают бюджет ЕКА на ближайшие три года. По итогам обсуждения ЕКА отказывается от совместной работы с [[w:Россия|Россией]] по созданию нового российского космического корабля [[w:Клипер (КА)|«Клипер»]]. ЕКА запросило у членов совета 51 млн. {{w|евро}} на исследовательские работы по «Клиперу».
+
+Совет ЕКА отказался выделять эти деньги. ЕКА предпочитает тратить деньги на свои собственные работы, в частности, на дальнейшее развитие европейской ракеты-носителя [[w:Ариан (РН)|«Ариана-5»]] (Ariane 5) и на новую ракету «Вега» (Vega). Совет ЕКА принял решение, по возможности, отказываться от использования ракет-носителей других стран, а использовать свои собственные, даже если это будет обходиться дороже.
+
+Отказ от работ с Россией по созданию нового пилотируемого космического корабля, определённо, негативно повлияет на сроки создания и введения в эксплуатацию «Клипера». России будет трудно обойтись только собственными средствами.
+
+Совет ЕКА также сократил средства на дальнейшее строительство и эксплуатацию МКС. Вместо запрошенных 800 млн. евро, были предусмотрены 700 млн. евро.
+
+Утвержден бюджет ЕКА на 2006 — 2010 годы общей суммой 8,1 млрд. евро. В ЕКА входят 17 европейский стран и Канада. Были утверждены все представленные программы, кроме работы по проекту «Клипер». Европа не хочет быть на вторых ролях в чужих космических программах. Возможно, ЕКА вернется к рассмотрению проекта «Клипер» в 2008 году.
+ 
+== Источники ==
+
+[http://www.gazeta.ru/2005/12/07/oa_180639.shtml Gazeta.ru]
+
+[[Категория:Многоразовые космические корабли]]
+[[Категория:Европа]]
+[[Категория:Европейское космическое агентство]]
+[[Категория:Ариан-5]]
+[[Категория:Вега (ракета-носитель)]]
+[[Категория:Россия в декабре 2005 года]]
+
+{{опубликовано}}</text>
+      <sha1>csbzzt7pjm610bf6jctpiwqtjyawejp</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Горьковский автомобильный завод прекращает выпускать автомобиль «Волга»</title>
+    <ns>0</ns>
+    <id>1657</id>
+    <revision>
+      <id>17550488</id>
+      <parentid>16887154</parentid>
+      <timestamp>2026-04-17T15:16:24Z</timestamp>
+      <contributor>
+        <username>Well, Well, Bot!</username>
+        <id>62040</id>
+      </contributor>
+      <minor />
+      <origin>17550488</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="2236" sha1="mh2d0iqn1vw1bktraug8dml0znp3gov" xml:space="preserve">{{Дата|7 декабря 2005}}
+{{Нижегородская область}}
+[[Image:GAZ-21 Wołga.jpg|thumb|250px|left|«Волга» ГАЗ-21]]
+{{w|Горьковский автомобильный завод}} прекращает выпускать легковой {{w|автомобиль}} «Волга». В дальнейшем завод будет выпускать малотоннажные коммерческие автомобили «Газель», а также грузовики и автобусы.
+
+Сворачивание производства «Волг» будет проходить в течение двух лет. Сейчас выпускаются «Волги» с двигателем «Даймлер Крайслер». За одиннадцать месяцев этого года было собрано 48 тысяч таких автомобилей. В 2006 году планируется выпустить 50 тысяч автомобилей «Волга».
+
+Возможно, что вместо «Волг», в будущем, на заводе будут собирать легковые автомобили зарубежных фирм.
+
+Первый автомобиль «Волга» ГАЗ-21 с оленем на капоте был выпущен в 1956 году. Этот автомобиль стал символом благополучия и престижа в {{w|Советский Союз|Советском Союзе}}.
+Последний ГАЗ-21 был выпущен в 1970 году. Всего было сделано 638 875 автомобилей ГАЗ-21 «Волга».
+
+После ГАЗ-21 выпускались ГАЗ-24, а затем ГАЗ-31.
+
+== Источники ==
+* [http://www.rian.ru/society/20051207/42355037.html РИА Новости]
+* [http://www.gazeta.ru/2005/12/07/oa_180661.shtml Газета.ру] {{архивировано|url=http://web.archive.org/web/20160304232425/http://www.gazeta.ru/2005/12/07/oa_180661.shtml|date=2016-03-04}}
+
+{{опубликовано}}
+
+[[Категория:Экономика]]
+[[Категория:Россия]]
+[[Категория:Россия в декабре 2005 года]]</text>
+      <sha1>mh2d0iqn1vw1bktraug8dml0znp3gov</sha1>
+    </revision>
+  </page>
+</mediawiki>

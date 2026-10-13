@@ -1,0 +1,7 @@
+output/
+__pycache__/
+*.pyc
+# полный дамп в репозиторий не кладём
+*.xml.bz2
+*.bz2
+data/*full*

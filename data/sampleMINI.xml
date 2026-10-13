@@ -1,0 +1,99 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.11/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.11/ http://www.mediawiki.org/xml/export-0.11.xsd" version="0.11" xml:lang="ru">
+  <siteinfo>
+    <sitename>Викиновости</sitename>
+    <dbname>ruwikinews</dbname>
+    <base>https://ru.wikinews.org/wiki/%D0%97%D0%B0%D0%B3%D0%BB%D0%B0%D0%B2%D0%BD%D0%B0%D1%8F_%D1%81%D1%82%D1%80%D0%B0%D0%BD%D0%B8%D1%86%D0%B0</base>
+    <generator>MediaWiki 1.46.0-wmf.26</generator>
+    <case>first-letter</case>
+    <namespaces>
+      <namespace key="-2" case="first-letter">Медиа</namespace>
+      <namespace key="-1" case="first-letter">Служебная</namespace>
+      <namespace key="0" case="first-letter" />
+      <namespace key="1" case="first-letter">Обсуждение</namespace>
+      <namespace key="2" case="first-letter">Участник</namespace>
+      <namespace key="3" case="first-letter">Обсуждение участника</namespace>
+      <namespace key="4" case="first-letter">Викиновости</namespace>
+      <namespace key="5" case="first-letter">Обсуждение Викиновостей</namespace>
+      <namespace key="6" case="first-letter">Файл</namespace>
+      <namespace key="7" case="first-letter">Обсуждение файла</namespace>
+      <namespace key="8" case="first-letter">MediaWiki</namespace>
+      <namespace key="9" case="first-letter">Обсуждение MediaWiki</namespace>
+      <namespace key="10" case="first-letter">Шаблон</namespace>
+      <namespace key="11" case="first-letter">Обсуждение шаблона</namespace>
+      <namespace key="12" case="first-letter">Справка</namespace>
+      <namespace key="13" case="first-letter">Обсуждение справки</namespace>
+      <namespace key="14" case="first-letter">Категория</namespace>
+      <namespace key="15" case="first-letter">Обсуждение категории</namespace>
+      <namespace key="100" case="first-letter">Портал</namespace>
+      <namespace key="101" case="first-letter">Обсуждение портала</namespace>
+      <namespace key="102" case="first-letter">Комментарии</namespace>
+      <namespace key="103" case="first-letter">Обсуждение комментариев</namespace>
+      <namespace key="710" case="first-letter">TimedText</namespace>
+      <namespace key="711" case="first-letter">TimedText talk</namespace>
+      <namespace key="828" case="first-letter">Модуль</namespace>
+      <namespace key="829" case="first-letter">Обсуждение модуля</namespace>
+      <namespace key="1728" case="first-letter">Event</namespace>
+      <namespace key="1729" case="first-letter">Event talk</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>Main Page</title>
+    <ns>0</ns>
+    <id>1</id>
+    <redirect title="Заглавная страница" />
+    <revision>
+      <id>1366</id>
+      <parentid>1</parentid>
+      <timestamp>2005-11-03T03:36:07Z</timestamp>
+      <contributor>
+        <username>Maximaximax</username>
+        <id>13</id>
+      </contributor>
+      <comment>redir</comment>
+      <origin>1366</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="49" sha1="fv75zcmgjvd2h4rn3jqc0yrlf07afkh" xml:space="preserve">#REDIRECT [[Заглавная страница]]</text>
+      <sha1>fv75zcmgjvd2h4rn3jqc0yrlf07afkh</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Россия удивлена заявлениями Премьер-министра Украины и хочет разъяснений</title>
+    <ns>0</ns>
+    <id>1349</id>
+    <revision>
+      <id>17901842</id>
+      <parentid>16692397</parentid>
+      <timestamp>2026-05-02T08:17:02Z</timestamp>
+      <contributor>
+        <username>AtUkrBot</username>
+        <id>63930</id>
+      </contributor>
+      <minor />
+      <comment>бот: замена служебных шаблонов</comment>
+      <origin>17901842</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="4259" sha1="0cila5swy0p84zdxhldx9fex5ok183k" xml:space="preserve">{{Дата|3 ноября 2005}}
+{{тема|Международные отношения}}
+[[Файл:World Trade Organization (logo and wordmark).svg|thumb|left|300px|Логотип [[ВТО]]]]
+В [[Москва|Москве]] обратили внимание на сообщения [[СМИ]] о высказываниях Премьер-министра [[Украина|Украины]] [[Юрий Ехануров|Юрия Еханурова]] в ходе визита в [[США]] о том, что вступление Украины во [[Всемирная торговая организация|Всемирную торговую организацию]] (ВТО) будет практически невозможно, если [[Россия]] станет членом этой организации раньше. Они вызвали у российской стороны большое недоумение.
+
+«Для нас абсолютно неприемлем такой подход. Странно слышать подобные слова от нашего стратегического партнера, с которым самой судьбой нам предопределено жить и работать бок о бок. Мы перед собой такой задачи никогда не ставили и не ставим. Напротив, Россия стремится к дальнейшему развитию торгово-экономических связей с Украиной, к совместной конструктивной работе, в том числе в вопросах вступления в ВТО», — заявил официальный представитель [[Министерство иностранных дел Российской Федерации|Министерства иностранных дел РФ]] [[Михаил Камынин]], комментируя высказывания главы правительства Украины.
+
+Как сообщает [[Liga.net]], в российском внешнеполитическом ведомстве убеждены, что «синхронизация и координация позиций наших государств при присоединении к ВТО пойдут на пользу и России, и Украине». «Если, однако, случится, что Россия раньше Украины станет членом ВТО, то мы не только не будем чинить каких-либо препятствий Украине, а напротив будем всячески содействовать ее скорейшему вступлению в эту организацию на устраивающих [[Киев]] условиях», — сказал М. Камынин.
+
+В Москве рассчитывают, что именно такой линии придерживается и украинская сторона, а также надеются получить соответствующие разъяснения на этот счёт.
+
+{{подвал новости}}
+
+{{Категории|Liga.net|Азия|Американо-украинские отношения|ВТО|Европа|Киев|Международная торговля|Международные отношения|Международное сотрудничество|Министерство иностранных дел Российской Федерации|Михаил Камынин|Москва|Политика|Политика России|Политика США|Политика Украины|Премьер-министры Украины|Российско-американские отношения|Российско-украинские отношения|Северная Америка|США|Торговля|Экономика|Экономика России|Экономика США|Экономика Украины|Юрий Ехануров|}}
+
+{{публиковать}}
+
+[[Категория:Россия в ноябре 2005 года]]
+[[Категория:Украина в ноябре 2005 года]]</text>
+      <sha1>0cila5swy0p84zdxhldx9fex5ok183k</sha1>
+    </revision>
+  </page>
+</mediawiki>
