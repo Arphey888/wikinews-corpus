@@ -1,8 +1,10 @@
 #!/usr/bin/env python3
-"""Парсер XML-дампа Русских Викиновостей -> три CSV (схема v0.1).
+"""Парсер XML-дампа Русских Викиновостей -> три CSV (облегчённая схема v0.1-lite).
 
 Выход:
-    articles.csv, categories.csv, article_categories.csv
+    articles.csv            page_id, title, date, origin_type, origin_name, text_plain
+    categories.csv          category_id, name
+    article_categories.csv  page_id, category_id
 
 Запуск:
     python src/parse_dump.py data/sample.xml -o output/
@@ -19,13 +21,9 @@ import xml.etree.ElementTree as ET
 from datetime import date
 from pathlib import Path
 
-SCHEMA_VERSION = "0.1"
+SCHEMA_VERSION = "0.1-lite"
 
-ARTICLE_FIELDS = [
-    "page_id", "title", "event_date_raw", "event_date", "origin_type",
-    "origin_name", "text_wikitext", "text_plain", "has_sources_section",
-    "parse_status", "parse_notes",
-]
+ARTICLE_FIELDS = ["page_id", "title", "date", "origin_type", "origin_name", "text_plain"]
 
 MONTHS = {
     "января": 1, "февраля": 2, "марта": 3, "апреля": 4, "мая": 5,
@@ -132,24 +130,15 @@ def clean_cat(name):
 def extract_metadata(wikitext):
     """Извлекает дату, происхождение и категории из полного wikitext."""
     templates = find_templates(wikitext)
-    notes = []
-    status = "ok"
 
-    # --- дата
-    dates = [t for t in templates if norm_name(t[0]) == "дата"]
-    raw = iso = None
-    if dates:
-        raw = dates[0][1][0] if dates[0][1] else None
-        if len(dates) > 1:
-            status = "warning"
-            notes.append("multiple_date_templates")
-        elif raw:
-            d = parse_date(raw)
-            if d:
-                iso = d.isoformat()
-            else:
-                status = "warning"
-                notes.append("date_not_normalized")
+    # --- дата: берётся первый шаблон {{дата|...}}; не нормализуется: пусто
+    date_iso = None
+    for name, args, _, _ in templates:
+        if norm_name(name) == "дата":
+            d = parse_date(args[0]) if args else None
+            date_iso = d.isoformat() if d else None
+            break
+
     # --- происхождение
     origin_type, origin_name = "unknown", None
     bot = [t for t in templates if norm_name(t[0]).startswith("загружено ботом")]
@@ -159,34 +148,28 @@ def extract_metadata(wikitext):
         # {{Загружено ботом в архив|NewsBots|Канонер}}: источник во 2-м параметре
         if len(bot[0][1]) >= 2 and bot[0][1][1]:
             origin_name = bot[0][1][1]
-    if interview:
-        if bot:
-            status = "warning"
-            notes.append("origin_conflict_import_and_interview")
-        else:
-            origin_type, origin_name = "wikinews_original", "Русские Викиновости"
+    elif interview:
+        origin_type, origin_name = "wikinews_original", "Русские Викиновости"
 
-    # --- категории: (имя, source)
+    # --- категории (имена, без повторов, в порядке появления)
     cats = []
     for name, args, _, _ in templates:
-        n = norm_name(name)
-        if n in ("тема", "категории"):
-            src = "topic" if n == "тема" else "categories_template"
+        if norm_name(name) in ("тема", "категории"):
             for a in args:
                 if "=" in a:       # именованные параметры не категории
                     continue
                 c = clean_cat(a)
                 if c:
-                    cats.append((c, src))
+                    cats.append(c)
     for m in CATEGORY_LINK_RE.finditer(wikitext):
         c = clean_cat(m.group(1))
         if c:
-            cats.append((c, "wiki_category_link"))
+            cats.append(c)
 
     return {
-        "event_date_raw": raw, "event_date": iso,
+        "date": date_iso,
         "origin_type": origin_type, "origin_name": origin_name,
-        "categories": cats, "status": status, "notes": notes,
+        "categories": list(dict.fromkeys(cats)),
     }
 
 
@@ -199,7 +182,6 @@ def build_wikitext(wikitext, origin_name=None):
     origin_name, тоже считается служебным и удаляется.
     """
     m = SOURCES_RE.search(wikitext)
-    has_sources = bool(m)
     body = wikitext[:m.start()] if m else wikitext
 
     # служебные шаблоны вырезаем с конца, чтобы не сбить индексы
@@ -207,8 +189,7 @@ def build_wikitext(wikitext, origin_name=None):
         if is_service(name) or (origin_name and norm_name(name) == norm_name(origin_name)):
             body = body[:s] + body[e:]
     body = CATEGORY_LINK_RE.sub("", body)
-    body = re.sub(r"\n{3,}", "\n\n", body).strip()
-    return body, has_sources
+    return re.sub(r"\n{3,}", "\n\n", body).strip()
 
 
 def to_plain(wikitext):
@@ -269,29 +250,17 @@ def iter_pages(path):
 
 
 def process_page(page):
-    """Возвращает (строка articles, список категорий)."""
+    """Возвращает (строка articles, список имён категорий)."""
     wikitext = page["text"]
     meta = extract_metadata(wikitext)
-    body, has_sources = build_wikitext(wikitext, meta["origin_name"])
-    notes = list(meta["notes"])
-    status = meta["status"]
-    if not has_sources:
-        notes.append("no_sources_section")
-    if not body:
-        status = "warning" if status == "ok" else status
-        notes.append("empty_text")
+    body = build_wikitext(wikitext, meta["origin_name"])
     row = {
         "page_id": page["id"],
         "title": page["title"],
-        "event_date_raw": meta["event_date_raw"],
-        "event_date": meta["event_date"],
+        "date": meta["date"],
         "origin_type": meta["origin_type"],
         "origin_name": meta["origin_name"],
-        "text_wikitext": body,
         "text_plain": to_plain(body),
-        "has_sources_section": has_sources,
-        "parse_status": status,
-        "parse_notes": ";".join(notes) or None,
     }
     return row, meta["categories"]
 
@@ -308,7 +277,7 @@ def run(src, out_dir):
     out = Path(out_dir)
     out.mkdir(parents=True, exist_ok=True)
     csv.field_size_limit(sys.maxsize)
-    links = set()          # (page_id, category_name, source)
+    links = set()          # (page_id, category_name)
     stats = {"seen": 0, "written": 0, "skipped_ns": 0, "skipped_redirect": 0}
 
     with open(out / "articles.csv", "w", encoding="utf-8", newline="") as fa:
@@ -325,11 +294,11 @@ def run(src, out_dir):
                 continue
             row, cats = process_page(page)
             w.writerow({k: fmt(v) for k, v in row.items()})
-            for name, source in cats:
-                links.add((int(row["page_id"]), name, source))
+            for name in cats:
+                links.add((int(row["page_id"]), name))
             stats["written"] += 1
 
-    names = sorted({n for _, n, _ in links})
+    names = sorted({n for _, n in links})
     ids = {n: i for i, n in enumerate(names, start=1)}   # детерминированно
     with open(out / "categories.csv", "w", encoding="utf-8", newline="") as fc:
         w = csv.writer(fc)
@@ -338,9 +307,9 @@ def run(src, out_dir):
             w.writerow([ids[n], n])
     with open(out / "article_categories.csv", "w", encoding="utf-8", newline="") as fl:
         w = csv.writer(fl)
-        w.writerow(["page_id", "category_id", "source"])
-        for pid, n, s in sorted(links, key=lambda x: (x[0], ids[x[1]], x[2])):
-            w.writerow([pid, ids[n], s])
+        w.writerow(["page_id", "category_id"])
+        for pid, n in sorted(links, key=lambda x: (x[0], ids[x[1]])):
+            w.writerow([pid, ids[n]])
     return stats
 
 

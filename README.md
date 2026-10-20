@@ -1,384 +1,393 @@
+🌐 [Read in Russian](README.ru.md)
+
 <div align="center">
 
 # 📰 wikinews-corpus
 
-**Парсер XML-дампа Русских Викиновостей: из «сырого» дампа в три чистых CSV**
+**Parser for the Russian Wikinews XML dump: from the raw dump to three clean CSV files**
 
 ![Python](https://img.shields.io/badge/Python-3.9%2B-3776AB?logo=python&logoColor=white)
-![Dependencies](https://img.shields.io/badge/зависимости-нет-brightgreen)
-![Schema](https://img.shields.io/badge/схема%20данных-v0.1-blue)
+![Dependencies](https://img.shields.io/badge/dependencies-none-brightgreen)
+![Schema](https://img.shields.io/badge/data%20schema-v0.1--lite-blue)
 ![Platform](https://img.shields.io/badge/Windows%20%7C%20Linux%20%7C%20macOS-lightgrey)
 
 </div>
 
-Учебный проект (курсовая работа) по теме разработки модели новостного корпуса и алгоритма извлечения слабоструктурированных данных. Дамп Викиновостей представляет собой XML, внутри которого лежит вики-разметка. Программа читает его потоково, достаёт дату события, категории, происхождение текста, очищает текст и записывает результат в три связанные таблицы.
+A course project (coursework) on building a news corpus model and an algorithm for extracting semi-structured data. The Wikinews dump is an XML file with wiki markup inside. The program reads it as a stream, extracts the event date, categories and text origin, cleans the text, and writes the result to three linked tables.
 
-Внешних библиотек нет: нужен только Python.
-
----
-
-## 📑 Оглавление
-
-1. [Как это устроено](#-как-это-устроено)
-2. [Структура репозитория](#-структура-репозитория)
-3. [Быстрый старт за две минуты](#-быстрый-старт-за-две-минуты)
-4. [Что получается на выходе](#-что-получается-на-выходе)
-5. [Работа с настоящим дампом](#-работа-с-настоящим-дампом)
-6. [Как сделать свой sample](#-как-сделать-свой-sample)
-7. [Запуск на всём дампе](#-запуск-на-всём-дампе)
-8. [Правила извлечения v0.1](#-правила-извлечения-v01)
-9. [Известные ограничения](#-известные-ограничения)
-10. [Воспроизводимость](#-воспроизводимость)
-11. [Полезные ссылки](#-полезные-ссылки)
+There are no external libraries: only Python is required.
 
 ---
 
-## 🧭 Как это устроено
+## 📑 Contents
+
+1. [How it works](#-how-it-works)
+2. [Repository structure](#-repository-structure)
+3. [Quick start in two minutes](#-quick-start-in-two-minutes)
+4. [What you get](#-what-you-get)
+5. [Working with the real dump](#-working-with-the-real-dump)
+6. [Making your own sample](#-making-your-own-sample)
+7. [Running on the full dump](#-running-on-the-full-dump)
+8. [Extraction rules](#-extraction-rules)
+9. [Known limitations](#-known-limitations)
+10. [Reproducibility](#-reproducibility)
+11. [Useful links](#-useful-links)
+
+---
+
+## 🧭 How it works
 
 ```mermaid
 flowchart LR
-    A["🌐 Дамп Wikimedia<br/>ruwikinews-ДАТА-pages-articles.xml.bz2"] --> B["⚙️ src/parse_dump.py"]
+    A["🌐 Wikimedia dump<br/>ruwikinews-DATE-pages-articles.xml.bz2"] --> B["⚙️ src/parse_dump.py"]
     B --> C["📄 articles.csv"]
     B --> D["🏷️ categories.csv"]
     B --> E["🔗 article_categories.csv"]
-    F["✂️ tools/make_sample.py"] -. "вырезает небольшой фрагмент" .-> A
+    F["✂️ tools/make_sample.py"] -. "cuts out a small fragment" .-> A
     F --> G["🧪 data/sample.xml"]
     G --> B
 ```
 
-Работа идёт в два этапа. Сначала из огромного дампа вырезается небольшой фрагмент, на котором удобно проверять и отлаживать правила. Затем тот же парсер без изменений запускается на полном дампе.
+The work has two stages. First, a small fragment is cut out of the huge dump, so that the rules are easy to check and debug on it. Then the same parser is run unchanged on the full dump.
 
 ---
 
-## 🗂 Структура репозитория
+## 🗂 Repository structure
 
 ```text
 wikinews-corpus/
-├── README.md
+├── README.md               this file (English)
+├── README.ru.md            description in Russian
 ├── .gitignore
 ├── src/
-│   └── parse_dump.py       парсер: XML (или XML.bz2) -> три CSV
+│   └── parse_dump.py       parser: XML (or XML.bz2) -> three CSV files
 ├── tools/
-│   └── make_sample.py      вырезает небольшой фрагмент из большого дампа
+│   └── make_sample.py      cuts a small fragment out of a large dump
 └── data/
-    ├── sampleMINI.xml      2 страницы: самый короткий пример для первого запуска
-    └── sample.xml          50 страниц: рабочий фрагмент для отладки
+    ├── sampleMINI.xml      2 pages: the shortest example for a first run
+    └── sample.xml          50 pages: a working fragment for debugging
 ```
 
-Полный дамп в репозиторий не кладётся: он слишком велик для обычного Git и перечислен в `.gitignore`. Папка `output/` с результатами тоже не хранится в репозитории.
+The full dump is not stored in the repository: it is too large for regular Git and is listed in `.gitignore`. The `output/` folder with results is not stored either.
 
 ---
 
-## 🚀 Быстрый старт за две минуты
+## 🚀 Quick start in two minutes
 
-Для этого шага скачивать дамп не нужно: нужные файлы уже лежат в `data/`.
+You do not need to download the dump for this step: the required files are already in `data/`.
 
-**1. Проверьте Python** (нужна версия 3.9 или новее):
+**1. Check Python** (version 3.9 or newer is required):
 
 ```bash
 python --version
 ```
 
-В Linux и macOS команда может называться `python3`, в Windows иногда `py`.
+On Linux and macOS the command may be called `python3`, on Windows sometimes `py`.
 
-**2. Скачайте репозиторий:**
+**2. Get the repository:**
 
 ```bash
-git clone https://github.com/<ваш-логин>/wikinews-corpus.git
+git clone https://github.com/<your-username>/wikinews-corpus.git
 cd wikinews-corpus
 ```
 
-**3. Запустите парсер на самом маленьком примере:**
+**3. Run the parser on the smallest example:**
 
 ```bash
 python src/parse_dump.py data/sampleMINI.xml -o output/
 ```
 
-Ожидаемый вывод:
+Expected output:
 
 ```text
-Схема v0.1. Готово: {'seen': 2, 'written': 1, 'skipped_ns': 0, 'skipped_redirect': 1}
+Схема v0.1-lite. Готово: {'seen': 2, 'written': 1, 'skipped_ns': 0, 'skipped_redirect': 1}
 ```
 
-Из двух страниц одна стала статьёй, а вторая оказалась редиректом (`Main Page`) и была пропущена.
+(The message is printed in Russian: "Schema v0.1-lite. Done".) Of the two pages, one became an article, and the other was a redirect (`Main Page`) and was skipped.
 
-**4. Запустите на рабочем фрагменте:**
+**4. Run it on the working fragment:**
 
 ```bash
 python src/parse_dump.py data/sample.xml -o output/
 ```
 
-Ожидаемый вывод:
+Expected output:
 
 ```text
-Схема v0.1. Готово: {'seen': 50, 'written': 48, 'skipped_ns': 0, 'skipped_redirect': 2}
+Схема v0.1-lite. Готово: {'seen': 50, 'written': 48, 'skipped_ns': 0, 'skipped_redirect': 2}
 ```
 
-> 💡 В командах пути записаны через `/`. Python принимает такой вариант и в Windows cmd, поэтому команды одинаковы на всех системах.
+> 💡 Paths in the commands are written with `/`. Python accepts this form in Windows cmd as well, so the commands are the same on all systems.
 
 ---
 
-## 📦 Что получается на выходе
+## 📦 What you get
 
-В папке `output/` появляются три файла в кодировке UTF-8:
+Three UTF-8 files appear in the `output/` folder:
 
-| Файл | Одна строка это | Поля |
+| File | One row is | Fields |
 |---|---|---|
-| `articles.csv` | одна статья | `page_id`, `title`, `event_date_raw`, `event_date`, `origin_type`, `origin_name`, `text_wikitext`, `text_plain`, `has_sources_section`, `parse_status`, `parse_notes` |
-| `categories.csv` | одна уникальная категория | `category_id`, `name` |
-| `article_categories.csv` | связь «статья и категория» | `page_id`, `category_id`, `source` |
+| `articles.csv` | one article | `page_id`, `title`, `date`, `origin_type`, `origin_name`, `text_plain` |
+| `categories.csv` | one unique category | `category_id`, `name` |
+| `article_categories.csv` | an "article – category" link | `page_id`, `category_id` |
 
-Категории вынесены в отдельные таблицы, чтобы не повторять их названия в каждой статье. Связь многие ко многим: у статьи много категорий, а категория относится ко многим статьям.
+Categories are moved to separate tables so that their names are not repeated in every article. This is a many-to-many relation: an article has many categories, and a category belongs to many articles. Each `page_id`, `category_id` pair occurs in `article_categories.csv` only once.
 
-### Пример: статья из `sampleMINI.xml`
+### What is intentionally not written
 
-Так выглядит единственная статья этого файла в `articles.csv`:
+The schema is slimmed down so that the CSV files take less space and load faster on the large dump. The output files **do not contain**:
 
-| Поле | Значение |
+- the raw date string (`event_date_raw`): only the normalized date in the `date` field is kept;
+- wikitext with preserved links (`text_wikitext`): only `text_plain` is kept;
+- the parsing flags `has_sources_section`, `parse_status`, `parse_notes`;
+- the origin of an article–category link (`source`).
+
+On `data/sample.xml` this reduced `articles.csv` from 357 kB to 161 kB and `article_categories.csv` from 14 kB to 5 kB.
+
+### Example: the article from `sampleMINI.xml`
+
+This is how the only article of that file looks in `articles.csv`:
+
+| Field | Value |
 |---|---|
 | `page_id` | `1349` |
-| `title` | `Россия удивлена заявлениями Премьер-министра Украины и хочет разъяснений` |
-| `event_date_raw` | `3 ноября 2005` |
-| `event_date` | `2005-11-03` |
+| `title` | `Россия удивлена заявлениями Премьер-министра Украины и хочет разъяснений` ("Russia is surprised by the statements of the Prime Minister of Ukraine and wants clarifications") |
+| `date` | `2005-11-03` |
 | `origin_type` | `unknown` |
-| `origin_name` | пусто |
-| `text_wikitext` | текст с сохранёнными ссылками вида `[[Москва\|Москве]]` |
-| `text_plain` | тот же текст без разметки: «В Москве обратили внимание…» |
-| `has_sources_section` | `false` |
-| `parse_status` | `ok` |
-| `parse_notes` | `no_sources_section` |
+| `origin_name` | empty |
+| `text_plain` | text without markup: «В Москве обратили внимание на сообщения СМИ…» ("Moscow noted media reports…") |
 
-Из шаблона `{{Категории|...}}` и двух ссылок `[[Категория:...]]` получилось 29 уникальных категорий (`categories.csv`) и 30 связей (`article_categories.csv`). Связей на одну больше, потому что категория «Международные отношения» указана и в `{{тема}}`, и в `{{Категории}}`. В таблице категорий она одна, а в связях их две, с разными значениями `source`.
+> ⚠️ At the start of this article's `text_plain` a stray `]]` remains from an image caption that contains a nested link. This is a known limitation, see "Known limitations".
+
+From the `{{Категории|...}}` template ("categories"), the `{{тема}}` template ("topic") and two `[[Категория:...]]` links, 29 unique categories (`categories.csv`) and 29 links (`article_categories.csv`) were produced. The category "Международные отношения" ("International relations") is listed in both `{{тема}}` and `{{Категории}}`, but is recorded only once in the links.
 
 ```csv
-page_id,category_id,source
-1349,1,categories_template
-1349,2,categories_template
-1349,3,categories_template
+page_id,category_id
+1349,1
+1349,2
+1349,3
 ```
-
-Значения `source`: `topic` (шаблон `{{тема}}`), `categories_template` (шаблон `{{Категории}}`), `wiki_category_link` (ссылка `[[Категория:...]]`).
 
 ---
 
-## 🌐 Работа с настоящим дампом
+## 🌐 Working with the real dump
 
-### Шаг 1. Установите инструменты
+### Step 1. Install the tools
 
 <details>
 <summary><b>🪟 Windows</b></summary>
 
-- Python: [python.org/downloads](https://www.python.org/downloads/). В установщике отметьте галочку **Add python.exe to PATH**.
+- Python: [python.org/downloads](https://www.python.org/downloads/). In the installer, tick **Add python.exe to PATH**.
 - Git: [git-scm.com](https://git-scm.com/).
-- Проверка в командной строке (cmd): `python --version` и `git --version`. Если `python` не находится, попробуйте `py --version`.
+- Check in the command prompt (cmd): `python --version` and `git --version`. If `python` is not found, try `py --version`.
 
 </details>
 
 <details>
 <summary><b>🐧 Linux / 🍎 macOS</b></summary>
 
-Python 3 и Git обычно уже установлены. Проверка: `python3 --version` и `git --version`. Если чего-то не хватает, поставьте через пакетный менеджер (`apt`, `dnf`, `brew`).
+Python 3 and Git are usually already installed. Check with `python3 --version` and `git --version`. If something is missing, install it with your package manager (`apt`, `dnf`, `brew`).
 
 </details>
 
-### Шаг 2. Скачайте дамп
+### Step 2. Download the dump
 
-Дампы Русских Викиновостей лежат на официальном сервере Wikimedia:
+Dumps of the Russian Wikinews are published on the official Wikimedia server:
 
 👉 **https://dumps.wikimedia.org/ruwikinews/**
 
-Внутри папки сгруппированы по датам вида `ГГГГММДД`. Откройте нужную дату (например, `20260901`) или папку `latest`, затем скачайте файл:
+Inside, the folders are grouped by dates in the form `YYYYMMDD`. Open the date you need (for example, `20260901`) or the `latest` folder, and download the file:
 
 ```text
-ruwikinews-ГГГГММДД-pages-articles.xml.bz2
+ruwikinews-YYYYMMDD-pages-articles.xml.bz2
 ```
 
-В нём лежат текущие версии всех страниц. Подойдёт и вариант `ruwikinews-ГГГГММДД-pages-articles-multistream.xml.bz2`: парсер читает оба. Файл индекса (`...multistream-index.txt.bz2`) для этой программы не нужен.
+It contains the current versions of all pages. The variant `ruwikinews-YYYYMMDD-pages-articles-multistream.xml.bz2` also works: the parser reads both. The index file (`...multistream-index.txt.bz2`) is not needed by this program.
 
-> 📌 Распаковывать архив не обязательно: парсер и `make_sample.py` читают `.bz2` напрямую. Если файл уже распакован в `.xml`, они прочитают и его, причём быстрее.
+> 📌 Unpacking the archive is not required: the parser and `make_sample.py` read `.bz2` directly. If the file is already unpacked to `.xml`, they read that too, and faster.
 
-Рядом на странице лежат файлы контрольных сумм (`ruwikinews-ГГГГММДД-sha1sums.txt` и `...md5sums.txt`). Сверьте сумму скачанного файла с опубликованной:
+Next to it on the page there are checksum files (`ruwikinews-YYYYMMDD-sha1sums.txt` and `...md5sums.txt`). Compare the checksum of the downloaded file with the published one:
 
 ```bash
 # Linux / macOS
-sha1sum ruwikinews-ГГГГММДД-pages-articles.xml.bz2
+sha1sum ruwikinews-YYYYMMDD-pages-articles.xml.bz2
 ```
 
 ```bat
 :: Windows (cmd)
-certutil -hashfile ruwikinews-ГГГГММДД-pages-articles.xml.bz2 SHA1
+certutil -hashfile ruwikinews-YYYYMMDD-pages-articles.xml.bz2 SHA1
 ```
 
-Положите дамп **вне репозитория** (например, в `D:\dumps\`) или в папку `data/` под именем, которое `.gitignore` не пропустит в коммит (`*.bz2` исключён).
+Put the dump **outside the repository** (for example, in `D:\dumps\`) or in the `data/` folder under a name that `.gitignore` will not let into a commit (`*.bz2` is excluded).
 
-### Шаг 3. Посмотрите, как устроен дамп
+### Step 3. Look at how the dump is organized
 
-Прежде чем писать правила, полезно увидеть структуру файла. Весь дамп открывать не нужно: возьмите небольшой фрагмент (следующий раздел) и откройте его в любом редакторе.
+Before writing rules it helps to see the structure of the file. You do not need to open the whole dump: take a small fragment (next section) and open it in any editor.
 
 ```bash
-# Windows (cmd): листать по экрану, выход: q
+# Windows (cmd): page through the file, quit with q
 more data/sample.xml
 
 # Linux / macOS
 less data/sample.xml
 ```
 
-Или просто откройте `data/sample.xml` в Блокноте, VS Code или `vim -R`. Структура страницы такая:
+Or simply open `data/sample.xml` in Notepad, VS Code or `vim -R`. The structure of a page is as follows:
 
 ```xml
 <page>
-  <title>Заголовок статьи</title>
-  <ns>0</ns>                      пространство имён (0 это основная статья)
-  <id>1349</id>                   идентификатор страницы
+  <title>Article title</title>
+  <ns>0</ns>                      namespace (0 is a main-namespace article)
+  <id>1349</id>                   page identifier
   <revision>
     <timestamp>...</timestamp>
     <contributor>...</contributor>
-    <text>{{Дата|3 ноября 2005}} ... вики-разметка ...</text>
+    <text>{{Дата|3 ноября 2005}} ... wiki markup ...</text>
   </revision>
 </page>
 ```
 
-Редирект отличается тегом `<redirect title="..."/>` и текстом `#REDIRECT [[...]]`.
+A redirect is distinguished by the `<redirect title="..."/>` tag and the text `#REDIRECT [[...]]`.
 
 ---
 
-## ✂️ Как сделать свой sample
+## ✂️ Making your own sample
 
-Работать сразу с гигабайтом неудобно: любой запуск долгий, а ошибку в правилах трудно найти среди миллионов строк. Поэтому из дампа вырезают небольшой фрагмент, который можно открыть глазами, закоммитить в Git и быстро прогнать.
+Working with a gigabyte-sized file right away is inconvenient: every run is long, and a mistake in the rules is hard to find among millions of lines. That is why a small fragment is cut out of the dump, which you can read by eye, commit to Git and run quickly.
 
-Для этого есть `tools/make_sample.py`. Он сохраняет шапку файла (`<mediawiki>`, `<siteinfo>`) и сам закрывает `</mediawiki>`, так что в результате все теги парные.
+`tools/make_sample.py` does this. It keeps the file header (`<mediawiki>`, `<siteinfo>`) and closes `</mediawiki>` itself, so all tags in the result are paired.
 
-### Способ 1. Первые N статей
-
-```bash
-python tools/make_sample.py путь/к/дампу.xml.bz2 data/sample.xml --pages 50
-```
-
-Берёт первые 50 страниц основного пространства имён. Это самый простой вариант, но в дампе страницы идут по возрастанию `page_id`, поэтому в начале лежат самые старые статьи (в `data/sample.xml` это 2005 год). Редких случаев вроде шаблона интервью или загрузки ботом там может не быть.
-
-### Способ 2. Конкретные статьи по теме (по слову в заголовке)
+### Option 1. The first N articles
 
 ```bash
-python tools/make_sample.py путь/к/дампу.xml.bz2 data/sample.xml --title "Космонавты" --title "чемпионат"
+python tools/make_sample.py path/to/dump.xml.bz2 data/sample.xml --pages 50
 ```
 
-Берёт все страницы, в заголовке которых есть указанная подстрока (регистр не важен). Параметр `--title` можно повторять. Так удобно собирать **выборку по теме** или доставать статьи для проверки правил: с шаблоном `{{Эксклюзивное интервью}}`, с `{{Загружено ботом}}`, без даты, с нестандартным разделом источников.
+Takes the first 50 pages of the main namespace. This is the simplest option, but pages in the dump go in ascending `page_id` order, so the oldest articles come first (in `data/sample.xml` this is the year 2005). Rare cases such as the interview template or a bot upload may not be there.
 
-> ⚠️ Поиск идёт именно по **заголовку**, а не по тексту и не по категории. Если нужна тематическая выборка по категории, сначала получите её из `articles.csv` (подборка по `article_categories.csv`), а затем найдите заголовки нужных статей и передайте их в `--title`.
-
-### Способ 3. Комбинация (рекомендуется)
+### Option 2. Specific articles by topic (by a word in the title)
 
 ```bash
-python tools/make_sample.py путь/к/дампу.xml.bz2 data/sample.xml --pages 30 --title "Лёвочкин" --title "Обводном канале"
+python tools/make_sample.py path/to/dump.xml.bz2 data/sample.xml --title "Космонавты" --title "чемпионат"
 ```
 
-Первые 30 статей дают «фон», а выбранные по заголовку добавляют редкие случаи.
+Takes all pages whose title contains the given substring (case-insensitive). The `--title` option can be repeated. (The titles are in Russian, so the substrings are too: "Космонавты" means "Cosmonauts", "чемпионат" means "championship".) This is convenient for collecting a **topic selection** or for picking out articles to test the rules: with the `{{Эксклюзивное интервью}}` template ("exclusive interview"), with `{{Загружено ботом}}` ("uploaded by a bot"), without a date, or with a non-standard sources section.
 
-> ⏱ Режим `--pages` останавливается сразу после нужного числа статей и работает за секунды. С `--title` программа идёт по файлу, пока не найдёт все заголовки, и если статья лежит в конце дампа, прочитает его почти целиком. Если заголовок не найден, скрипт напишет об этом после просмотра всего файла.
+> ⚠️ The search is by **title** only, not by text or category. If you need a topic selection by category, first obtain it from `articles.csv` (a selection through `article_categories.csv`), then find the titles of the articles you need and pass them to `--title`.
 
-### Проверьте, что получился корректный XML
+### Option 3. A combination (recommended)
 
 ```bash
-python -c "import xml.dom.minidom as m; d = m.parse('data/sample.xml'); print('OK, страниц:', len(d.getElementsByTagName('page')))"
+python tools/make_sample.py path/to/dump.xml.bz2 data/sample.xml --pages 30 --title "Лёвочкин" --title "Обводном канале"
 ```
 
-Если все теги закрыты, команда напечатает `OK` и число страниц.
+The first 30 articles provide a "background", and the ones chosen by title add rare cases.
 
-### Что должно быть в хорошем sample
+> ⏱ The `--pages` mode stops right after the required number of articles and finishes in seconds. With `--title` the program goes through the file until it finds all the titles, and if an article is near the end of the dump, it reads almost the whole file. If a title is not found, the script reports it after scanning the whole file.
 
-- обычная статья с датой и разделом «Источники»;
-- статья без даты;
-- статья с несколькими категориями из разных шаблонов;
-- импорт ботом и оригинальное интервью (если нужны правила происхождения);
-- редирект (парсер должен его пропустить);
-- статья с таблицей или нестандартной разметкой, где что-то может пойти не так.
+### Check that the XML is valid
+
+```bash
+python -c "import xml.dom.minidom as m; d = m.parse('data/sample.xml'); print('OK, pages:', len(d.getElementsByTagName('page')))"
+```
+
+If all tags are closed, the command prints `OK` and the number of pages.
+
+### What a good sample should contain
+
+- a regular article with a date and a "Sources" section;
+- an article without a date;
+- an article with several categories from different templates;
+- a bot import and an original interview (if you need the origin rules);
+- a redirect (the parser must skip it);
+- an article with a table or non-standard markup, where something can go wrong.
 
 ---
 
-## ▶️ Запуск на всём дампе
+## ▶️ Running on the full dump
 
-Когда правила на sample работают как надо:
+When the rules work as expected on the sample:
 
 ```bash
-python src/parse_dump.py путь/к/ruwikinews-ГГГГММДД-pages-articles.xml.bz2 -o output/
+python src/parse_dump.py path/to/ruwikinews-YYYYMMDD-pages-articles.xml.bz2 -o output/
 ```
 
-Парсер читает XML потоково: каждая страница обрабатывается и сразу забывается, поэтому память не растёт вместе с размером дампа. Время зависит от компьютера. По окончании напечатается итог:
+The parser reads the XML as a stream: each page is processed and immediately forgotten, so memory does not grow with the size of the dump. The time depends on the computer. When finished, a summary is printed:
 
 ```text
-Схема v0.1. Готово: {'seen': ..., 'written': ..., 'skipped_ns': ..., 'skipped_redirect': ...}
+Схема v0.1-lite. Готово: {'seen': ..., 'written': ..., 'skipped_ns': ..., 'skipped_redirect': ...}
 ```
 
-| Показатель | Что означает |
+| Counter | Meaning |
 |---|---|
-| `seen` | сколько страниц просмотрено |
-| `written` | сколько статей попало в `articles.csv` |
-| `skipped_ns` | пропущено страниц не из основного пространства имён |
-| `skipped_redirect` | пропущено редиректов |
+| `seen` | how many pages were examined |
+| `written` | how many articles went into `articles.csv` |
+| `skipped_ns` | pages skipped because they are not in the main namespace |
+| `skipped_redirect` | redirects skipped |
 
-Параметры командной строки:
+Command-line options:
 
 ```text
-python src/parse_dump.py XML [-o ПАПКА]
+python src/parse_dump.py XML [-o DIR]
 
-XML          путь к .xml или .xml.bz2
--o, --out    папка для результата (по умолчанию output)
+XML          path to .xml or .xml.bz2
+-o, --out    output folder (default: output)
 ```
 
 ---
 
-## 📐 Правила извлечения v0.1
+## 📐 Extraction rules
 
-| Что | Как определяется |
+| What | How it is determined |
 |---|---|
-| **Отбор страниц** | только основное пространство имён (`ns = 0`), редиректы пропускаются |
-| **`page_id`** | из `<page><id>`, а не из идентификатора ревизии |
-| **Заголовок `title`** | из `<page><title>`, без изменений |
-| **Дата события** | только из шаблона `{{дата\|...}}`. Сырой текст идёт в `event_date_raw`, нормализованный `ГГГГ-ММ-ДД` в `event_date`. Нет шаблона: поля пустые, статья **не удаляется** |
-| **Категории** | из шаблонов `{{тема}}`, `{{Категории}}` и ссылок `[[Категория:...]]`; повторы объединяются, источник связи сохраняется в `source` |
-| **Происхождение** | `{{Загружено ботом...}}` даёт `external_import` (название источника берётся из второго параметра шаблона); `{{Эксклюзивное интервью...}}` даёт `wikinews_original`; иначе `unknown` |
-| **Раздел «Источники»** | распознаётся при любом уровне заголовка (`==`, `===`, ...), вместе со всем, что следует за ним, отсекается из текста; в `has_sources_section` пишется `true` или `false` |
-| **Два текста** | `text_wikitext`: очищенный вики-текст с сохранёнными ссылками `[[...]]`; `text_plain`: обычный читаемый текст |
-| **Статус разбора** | `ok`, `warning` (например, дату не удалось нормализовать) или `error`; пояснение в `parse_notes` |
+| **Page selection** | only the main namespace (`ns = 0`); redirects are skipped |
+| **`page_id`** | from `<page><id>`, not from the revision id |
+| **Title `title`** | from `<page><title>`, unchanged |
+| **Event date `date`** | only from the `{{дата\|...}}` template ("date"; the first one is used), in `YYYY-MM-DD` format. No template or an unrecognized format: the field is empty, and the article is **not dropped** |
+| **Categories** | from the `{{тема}}` ("topic") and `{{Категории}}` ("categories") templates and from `[[Категория:...]]` links; duplicates are merged |
+| **Origin** | `{{Загружено ботом...}}` ("uploaded by a bot") gives `external_import` (the source name is taken from the template's second parameter); `{{Эксклюзивное интервью...}}` ("exclusive interview") gives `wikinews_original`; otherwise `unknown` |
+| **"Sources" section** | recognized at any heading level (`==`, `===`, ...); it is cut off from the text together with everything that follows it |
+| **Text `text_plain`** | plain readable text without wiki markup: service templates and categories are removed, `[[...]]` links are replaced with their label |
 
-Шаблоны разбираются со счётом вложенности `{{ }}` и `[[ ]]`, а не одним регулярным выражением, поэтому вложенные параметры и ссылки внутри шаблонов не ломают разбор.
+Templates are parsed by counting the nesting of `{{ }}` and `[[ ]]` rather than with a single regular expression, so nested parameters and links inside templates do not break parsing.
 
-Принципиальное отличие от подхода С. Н. Карповича (SCTM-ru, 2015): статьи без даты не исключаются, автор последней ревизии не считается автором текста, внутренние ссылки сохраняются в `text_wikitext`, а информация из служебных шаблонов сначала извлекается и только потом удаляется из текста.
-
----
-
-## ⚠️ Известные ограничения
-
-Это первая версия, и часть случаев пока обрабатывается упрощённо:
-
-- Раздел отсекается только если он называется «Источники». В части старых статей аналогичный блок называется «Ссылки», и он остаётся в тексте.
-- Служебные шаблоны вроде `{{публиковать}}` или `{{haveyoursay}}` и тематические шаблоны вида `{{Космонавтика}}` остаются в `text_wikitext`, из `text_plain` они удаляются.
-- Вики-таблицы `{| ... |}` и HTML-сущности (например, `&frac12;`) в `text_plain` не обрабатываются.
-- Вложенные ссылки в подписи к файлу, например `[[Файл:...|подпись [[ссылка]]]]`, могут оставить в начале `text_plain` лишние символы `]]`.
-- Если в статье несколько шаблонов `{{дата}}`, ставится `parse_status = warning`.
+The key difference from the approach of S. N. Karpovich (SCTM-ru, 2015): articles without a date are not excluded, the author of the last revision is not treated as the author of the text, and information from service templates is first extracted and only then removed from the text.
 
 ---
 
-## 🔁 Воспроизводимость
+## ⚠️ Known limitations
 
-Чтобы результат можно было получить заново, фиксируйте для каждого запуска:
+This is a first version, and some cases are still handled in a simplified way:
+
+- Only a section called "Источники" ("Sources") is cut off. In some older articles the analogous block is called "Ссылки" ("Links"), and it stays in `text_plain`.
+- In `text_plain`, all templates not recognized as service templates (for example, `{{Космонавтика}}`, `{{публиковать}}`) are removed completely, together with their parameters. If such a template carried meaningful text, it is lost.
+- Wiki tables `{| ... |}` and HTML entities (for example, `&frac12;`) are not processed in `text_plain`.
+- Nested links in a file caption, for example `[[Файл:...|caption [[link]]]]`, can leave stray `]]` characters at the start of `text_plain`.
+- If an article has several `{{дата}}` templates, the first is used and the rest are ignored.
+- If a date cannot be converted to `YYYY-MM-DD` (for example, "начало февраля 2011", "early February 2011"), `date` stays empty and the raw value is not saved. There are no parsing quality flags in the CSV any more.
+
+---
+
+## 🔁 Reproducibility
+
+To be able to get the result again, record the following for every run:
 
 ```text
-имя файла дампа        ruwikinews-ГГГГММДД-pages-articles.xml.bz2
-дата дампа             ГГГГ-ММ-ДД
-контрольная сумма      SHA-1 или SHA-256 скачанного файла
-версия Python          python --version
-версия схемы           v0.1 (печатается парсером)
-коммит этого репозитория   git rev-parse HEAD
+dump file name            ruwikinews-YYYYMMDD-pages-articles.xml.bz2
+dump date                 YYYY-MM-DD
+checksum                  SHA-1 or SHA-256 of the downloaded file
+Python version            python --version
+schema version            v0.1-lite (printed by the parser)
+commit of this repository git rev-parse HEAD
 ```
 
-Тогда любой человек сможет скачать тот же дамп, запустить ту же версию кода и получить те же три CSV.
+Then anyone can download the same dump, run the same version of the code and obtain the same three CSV files.
 
 ---
 
-## 🔗 Полезные ссылки
+## 🔗 Useful links
 
-- [Дампы Русских Викиновостей](https://dumps.wikimedia.org/ruwikinews/)
-- [Wikimedia: формат дампов](https://meta.wikimedia.org/wiki/Data_dumps/Dump_format)
-- [Wikimedia: FAQ по дампам](https://meta.wikimedia.org/wiki/Data_dumps/FAQ)
-- С. Н. Карпович. «Русскоязычный корпус текстов SCTM-ru для построения тематических моделей», 2015
+- [Russian Wikinews dumps](https://dumps.wikimedia.org/ruwikinews/)
+- [Wikimedia: dump format](https://meta.wikimedia.org/wiki/Data_dumps/Dump_format)
+- [Wikimedia: dumps FAQ](https://meta.wikimedia.org/wiki/Data_dumps/FAQ)
+- S. N. Karpovich. "SCTM-ru: a Russian-language text corpus for building topic models" (in Russian), 2015
