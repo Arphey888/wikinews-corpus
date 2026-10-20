@@ -28,10 +28,11 @@ There are no external libraries: only Python is required.
 5. [Working with the real dump](#-working-with-the-real-dump)
 6. [Making your own sample](#-making-your-own-sample)
 7. [Running on the full dump](#-running-on-the-full-dump)
-8. [Extraction rules](#-extraction-rules)
-9. [Known limitations](#-known-limitations)
-10. [Reproducibility](#-reproducibility)
-11. [Useful links](#-useful-links)
+8. [Ready-made dataset on Hugging Face](#-ready-made-dataset-on-hugging-face)
+9. [Extraction rules](#-extraction-rules)
+10. [Known limitations](#-known-limitations)
+11. [Reproducibility](#-reproducibility)
+12. [Useful links](#-useful-links)
 
 ---
 
@@ -338,6 +339,45 @@ python src/parse_dump.py XML [-o DIR]
 XML          path to .xml or .xml.bz2
 -o, --out    output folder (default: output)
 ```
+
+---
+
+## 🤗 Ready-made dataset on Hugging Face
+
+The result of processing the full Russian Wikinews dump is published as a dataset, so you do not have to run the parser on the whole dump yourself:
+
+👉 **https://huggingface.co/datasets/Arphey888/ruwikinews-corpus**
+
+| File | Contents | Size |
+|---|---|---|
+| `articles.csv.zst` | 1,473,531 articles | 644 MB |
+| `categories.csv.zst` | 168,903 categories | 1.3 MB |
+| `article_categories.csv.zst` | 7,740,645 article–category links | 16.5 MB |
+
+The files are the same three CSV tables as described above, compressed with Zstandard (`zstd --ultra -22`). pandas reads `.zst` directly. To try it, run the example from this repository (the first run downloads about 660 MB, later runs use the local cache):
+
+```bash
+python -m pip install pandas zstandard huggingface_hub
+python examples/load_from_hf.py --repo Arphey888/ruwikinews-corpus
+```
+
+Minimal code:
+
+```python
+import pandas as pd
+from huggingface_hub import hf_hub_download
+
+path = hf_hub_download("Arphey888/ruwikinews-corpus", "articles.csv.zst", repo_type="dataset")
+articles = pd.read_csv(path, keep_default_na=False)
+```
+
+Or with the `datasets` library: `load_dataset("Arphey888/ruwikinews-corpus", "articles", split="train")`.
+
+> 💡 The whole `articles` table is large. If memory is short, read it in chunks with `pd.read_csv(path, chunksize=50_000)` (see the end of `examples/load_from_hf.py`).
+>
+> On Windows you may see a harmless warning about symlinks in the Hugging Face cache. To hide it, run `set HF_HUB_DISABLE_SYMLINKS_WARNING=1` in cmd before the command.
+
+To compress your own CSV files the same way, use `tools/compress_zst.py`; the dataset card is stored in `hf/DATASET_CARD.md`.
 
 ---
 

@@ -1,8 +1,8 @@
 ---
 language:
 - ru
-# Проверьте лицензию на странице дампа/вики перед публикацией (см. раздел License ниже).
-license: cc-by-2.5
+# По подвалу ru.wikinews.org: CC BY 4.0, если не указано иное (см. раздел License ниже).
+license: cc-by-4.0
 pretty_name: Russian Wikinews corpus (ruwikinews)
 tags:
 - wikinews
@@ -91,7 +91,11 @@ The dump was processed by `src/parse_dump.py` from the GitHub repository above, 
 
 ## License
 
-Wikinews content is published under a Creative Commons Attribution license (CC BY 2.5 at the time of writing; please verify on the project's pages before publishing). Articles with `origin_type = external_import` were uploaded from external sources and may carry their own terms; check them before reusing. When reusing, credit Wikinews and the authors of the articles.
+The article texts come from Russian Wikinews. According to the footer of the project's pages, the text is available under the Creative Commons Attribution 4.0 license (CC BY 4.0), unless otherwise stated: https://creativecommons.org/licenses/by/4.0/. You may share and adapt the data, including commercially, if you give appropriate credit to Wikinews and the authors of the articles, link to the license, and indicate changes.
+
+**Changes made in this dataset:** the text was extracted from MediaWiki markup (templates, categories, links and the "Sources" section were removed) and split into three tables.
+
+Articles with `origin_type = external_import` were uploaded to Wikinews by a bot from external sources (named in `origin_name`) and may be subject to the terms of those sources ("unless otherwise stated"). To exclude imported material, drop rows where `origin_type == "external_import"`.
 
 ## Citation
 

@@ -28,10 +28,11 @@
 5. [Работа с настоящим дампом](#-работа-с-настоящим-дампом)
 6. [Как сделать свой sample](#-как-сделать-свой-sample)
 7. [Запуск на всём дампе](#-запуск-на-всём-дампе)
-8. [Правила извлечения](#-правила-извлечения)
-9. [Известные ограничения](#-известные-ограничения)
-10. [Воспроизводимость](#-воспроизводимость)
-11. [Полезные ссылки](#-полезные-ссылки)
+8. [Готовый набор данных на Hugging Face](#-готовый-набор-данных-на-hugging-face)
+9. [Правила извлечения](#-правила-извлечения)
+10. [Известные ограничения](#-известные-ограничения)
+11. [Воспроизводимость](#-воспроизводимость)
+12. [Полезные ссылки](#-полезные-ссылки)
 
 ---
 
@@ -338,6 +339,45 @@ python src/parse_dump.py XML [-o ПАПКА]
 XML          путь к .xml или .xml.bz2
 -o, --out    папка для результата (по умолчанию output)
 ```
+
+---
+
+## 🤗 Готовый набор данных на Hugging Face
+
+Результат обработки полного дампа Русских Викиновостей опубликован как набор данных, поэтому запускать парсер на всём дампе самим не обязательно:
+
+👉 **https://huggingface.co/datasets/Arphey888/ruwikinews-corpus**
+
+| Файл | Содержимое | Размер |
+|---|---|---|
+| `articles.csv.zst` | 1 473 531 статья | 644 МБ |
+| `categories.csv.zst` | 168 903 категории | 1.3 МБ |
+| `article_categories.csv.zst` | 7 740 645 связей «статья и категория» | 16.5 МБ |
+
+Это те же три CSV-таблицы, что описаны выше, сжатые Zstandard (`zstd --ultra -22`). pandas читает `.zst` напрямую. Чтобы попробовать, запустите пример из этого репозитория (при первом запуске скачивается около 660 МБ, потом используется локальный кэш):
+
+```bash
+python -m pip install pandas zstandard huggingface_hub
+python examples/load_from_hf.py --repo Arphey888/ruwikinews-corpus
+```
+
+Минимальный код:
+
+```python
+import pandas as pd
+from huggingface_hub import hf_hub_download
+
+path = hf_hub_download("Arphey888/ruwikinews-corpus", "articles.csv.zst", repo_type="dataset")
+articles = pd.read_csv(path, keep_default_na=False)
+```
+
+Или через библиотеку `datasets`: `load_dataset("Arphey888/ruwikinews-corpus", "articles", split="train")`.
+
+> 💡 Таблица `articles` большая. Если не хватает памяти, читайте её кусками: `pd.read_csv(path, chunksize=50_000)` (пример в конце `examples/load_from_hf.py`).
+>
+> В Windows может появиться безвредное предупреждение про символические ссылки в кэше Hugging Face. Чтобы его скрыть, выполните в cmd перед командой `set HF_HUB_DISABLE_SYMLINKS_WARNING=1`.
+
+Чтобы сжать свои CSV так же, используйте `tools/compress_zst.py`; карточка набора лежит в `hf/DATASET_CARD.md`.
 
 ---
 
