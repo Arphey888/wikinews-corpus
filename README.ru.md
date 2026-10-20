@@ -62,7 +62,12 @@ wikinews-corpus/
 ├── src/
 │   └── parse_dump.py       парсер: XML (или XML.bz2) -> три CSV
 ├── tools/
-│   └── make_sample.py      вырезает небольшой фрагмент из большого дампа
+│   ├── make_sample.py      вырезает небольшой фрагмент из большого дампа
+│   └── compress_zst.py     сжимает CSV в .zst (установка zstd не нужна)
+├── examples/
+│   └── load_from_hf.py     пример: чтение набора данных с Hugging Face
+├── hf/
+│   └── DATASET_CARD.md     карточка (README) набора данных на Hugging Face
 └── data/
     ├── sampleMINI.xml      2 страницы: самый короткий пример для первого запуска
     └── sample.xml          50 страниц: рабочий фрагмент для отладки
