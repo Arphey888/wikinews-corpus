@@ -1,0 +1,17 @@
+{
+  "input": "articles.csv",
+  "limit": 0,
+  "tokenizer": "regex [А-Яа-яЁё]+(-[А-Яа-яЁё]+)*, регистр сохраняется до разбора; латиница и цифры не считаются",
+  "lemmatizer": "pymorphy3 2.0.6",
+  "disambiguation": "нет (берётся самый вероятный разбор словоформы)",
+  "proper_names": "name_filter.py: PROPN для известных имён с заглавной; у незнакомых слов с заглавной внутри предложения нет выдуманных лемм",
+  "foreign_text": "предложение отбрасывается, если среди слов со строчной буквы (кроме первого, не меньше 4) не меньше половины незнакомы pymorphy3",
+  "articles": 1473531,
+  "sentences": 20952035,
+  "sentences_dropped_foreign": 5931,
+  "tokens": 327945204,
+  "unique_wordforms": 1952508,
+  "unique_lemma_pos": 1282848,
+  "unique_lemma_pos_known": 157484,
+  "seconds": 962
+}
