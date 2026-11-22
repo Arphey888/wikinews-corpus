@@ -1,15 +1,15 @@
 # Частотный словарь Русских Викиновостей v2
 
-Словарь построен по таблице `articles.csv` корпуса [Arphey888/ruwikinews-corpus](https://huggingface.co/datasets/Arphey888/ruwikinews-corpus). Исходный материал — [Русские Викиновости](https://ru.wikinews.org/), дамп Wikimedia от 1 сентября 2026 года по карточке корпуса. В словаре 1 282 848 пар «лемма + часть речи» и 327 945 204 учтённых токена из 1 473 531 статьи.
+[![Язык: English](https://img.shields.io/badge/Language-English-2563eb?style=for-the-badge)](README.en.md)
 
-**English.** Version 2 of the lemma and part-of-speech frequency dictionary derived from the Russian Wikinews corpus. The archive contains a UTF-8 CSV compressed with Zstandard. See `stats.json` for processing details and counts.
+Словарь построен по таблице `articles.csv` корпуса [Arphey888/ruwikinews-corpus](https://huggingface.co/datasets/Arphey888/ruwikinews-corpus). Исходный материал — [Русские Викиновости](https://ru.wikinews.org/), дамп Wikimedia от 1 сентября 2026 года по карточке корпуса. В словаре 1 282 848 пар «лемма + часть речи» и 327 945 204 учтённых токена из 1 473 531 статьи.
 
 ## Файлы
 
 | Файл | Содержимое |
 |---|---|
-| `lemmas.csv.zst` | Частотная таблица CSV в UTF-8, сжатая Zstandard. Строки идут по убыванию частоты. |
-| `stats.json` | Параметры обработки, версия лемматизатора и статистика прогона. |
+| [`lemmas.csv.zst`](lemmas.csv.zst) | Частотная таблица CSV в UTF-8, сжатая Zstandard. Строки идут по убыванию частоты. |
+| [`stats.json`](stats.json) | Параметры обработки, версия лемматизатора и статистика прогона. |
 
 SHA-256 архива — `8b118afab349dd8ea1f13f3ac1efedf6cc71003adfdd0a9d606d5690610b1970`.
 
